@@ -1,0 +1,1002 @@
+https://en.wikipedia.org/wiki/Greenhouse_Gas, anchor: Greenhouse Gas, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Life-cycle_greenhouse-gas_emissions_of_energy_sources, anchor: Life-cycle greenhouse-gas emissions of energy sources, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/GHG_footprint, anchor: greenhouse gas footprints, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Chief_green_officer, anchor: Chief green officer, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Greenhouse_debt, anchor: Greenhouse debt, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Greenhouse_gas_emissions_accounting, anchor: Greenhouse gas emissions accounting, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Green_conventions, anchor: Green conventions, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Greenhouse_gas_inventory, anchor: Greenhouse gas inventory, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/List_of_countries_by_greenhouse_gas_emissions_per_capita, anchor: List of countries by greenhouse gas emissions per capita, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Green_marketing, anchor: Green marketing, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Greenhouse_effect, anchor: Greenhouse effect, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Green_belt, anchor: Loss of green belts, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Green_Revolution, anchor: Green Revolution, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/IPCC_list_of_greenhouse_gases, anchor: IPCC list of greenhouse gases, depth: 3, parent: https://en.wikipedia.org/wiki/Greenhouse_Gas
+https://en.wikipedia.org/wiki/Anthropogenic_greenhouse_gases, anchor: anthropogenic, depth: 3, parent: https://en.wikipedia.org/wiki/Greenhouse_Gas
+https://en.wikipedia.org/wiki/Runaway_greenhouse_effect, anchor: runaway greenhouse effect, depth: 3, parent: https://en.wikipedia.org/wiki/Greenhouse_Gas
+https://en.wikipedia.org/wiki/List_of_countries_by_greenhouse_gas_emissions, anchor: List of countries by greenhouse gas emissions, depth: 3, parent: https://en.wikipedia.org/wiki/Greenhouse_Gas
+https://en.wikipedia.org/wiki/Physical_properties_of_greenhouse_gases, anchor: Physical properties of greenhouse gases, depth: 3, parent: https://en.wikipedia.org/wiki/Greenhouse_Gas
+https://en.wikipedia.org/wiki/Greenfield_status, anchor: greenfield status, depth: 3, parent: https://en.wikipedia.org/wiki/Life-cycle_greenhouse-gas_emissions_of_energy_sources
+https://en.wikipedia.org/wiki/Greenhouse_gas_footprint, anchor: Article, depth: 3, parent: https://en.wikipedia.org/wiki/GHG_footprint
+https://en.wikipedia.org/wiki/Green_building, anchor: green building, depth: 3, parent: https://en.wikipedia.org/wiki/Green_conventions
+https://en.wikipedia.org/wiki/Greenhouse_gas_accounting, anchor: Greenhouse gas accounting, depth: 3, parent: https://en.wikipedia.org/wiki/Greenhouse_gas_inventory
+https://en.wikipedia.org/wiki/Greenhouse_gas_monitoring, anchor: Greenhouse gas monitoring, depth: 3, parent: https://en.wikipedia.org/wiki/Greenhouse_gas_inventory
+https://en.wikipedia.org/wiki/Greenhouse_Gases_Observing_Satellite, anchor: Greenhouse Gases Observing Satellite, depth: 3, parent: https://en.wikipedia.org/wiki/Greenhouse_gas_inventory
+https://en.wikipedia.org/wiki/Greenhouse, anchor: greenhouse, depth: 3, parent: https://en.wikipedia.org/wiki/Green_marketing
+https://en.wikipedia.org/wiki/Green_washing, anchor: green washing, depth: 3, parent: https://en.wikipedia.org/wiki/Green_marketing
+https://en.wikipedia.org/wiki/Greenwashing, anchor: Greenwashing, depth: 3, parent: https://en.wikipedia.org/wiki/Green_marketing
+https://en.wikipedia.org/wiki/Greenhouse_gases, anchor: greenhouse gases, depth: 3, parent: https://en.wikipedia.org/wiki/Green_marketing
+https://en.wikipedia.org/wiki/Green_banking, anchor: Green banking, depth: 3, parent: https://en.wikipedia.org/wiki/Green_marketing
+https://en.wikipedia.org/wiki/Green_politics, anchor: Green politics, depth: 3, parent: https://en.wikipedia.org/wiki/Green_marketing
+https://en.wikipedia.org/wiki/Greenhouse_(disambiguation), anchor: Greenhouse (disambiguation), depth: 3, parent: https://en.wikipedia.org/wiki/Greenhouse_effect
+https://en.wikipedia.org/wiki/Idealized_greenhouse_model, anchor: idealized greenhouse model, depth: 3, parent: https://en.wikipedia.org/wiki/Greenhouse_effect
+https://en.wikipedia.org/wiki/Anti-greenhouse_effect, anchor: Anti-greenhouse effect, depth: 3, parent: https://en.wikipedia.org/wiki/Greenhouse_effect
+https://en.wikipedia.org/wiki/Greenbelt,_Maryland, anchor: Greenbelt, Maryland, depth: 3, parent: https://en.wikipedia.org/wiki/Green_belt
+https://en.wikipedia.org/wiki/Green_belt_(disambiguation), anchor: Green belt (disambiguation), depth: 3, parent: https://en.wikipedia.org/wiki/Green_belt
+https://en.wikipedia.org/wiki/Greenbelt_(Ottawa), anchor: Ottawa Greenbelt, depth: 3, parent: https://en.wikipedia.org/wiki/Green_belt
+https://en.wikipedia.org/wiki/Green_belt_(United_Kingdom), anchor: Green belts in England, depth: 3, parent: https://en.wikipedia.org/wiki/Green_belt
+https://en.wikipedia.org/wiki/Greenway_(landscape), anchor: greenways, depth: 3, parent: https://en.wikipedia.org/wiki/Green_belt
+https://en.wikipedia.org/wiki/Greenbelt_(Golden_Horseshoe), anchor: Golden Horseshoe Greenbelt, depth: 3, parent: https://en.wikipedia.org/wiki/Green_belt
+https://en.wikipedia.org/wiki/Santo_Domingo_Greenbelt, anchor: Santo Domingo Greenbelt, depth: 3, parent: https://en.wikipedia.org/wiki/Green_belt
+https://en.wikipedia.org/wiki/European_Green_Belt, anchor: European Green Belt, depth: 3, parent: https://en.wikipedia.org/wiki/Green_belt
+https://en.wikipedia.org/wiki/German_Green_Belt, anchor: German Green Belt, depth: 3, parent: https://en.wikipedia.org/wiki/Green_belt
+https://en.wikipedia.org/wiki/Metropolitan_Green_Belt, anchor: Metropolitan Green Belt, depth: 3, parent: https://en.wikipedia.org/wiki/Green_belt
+https://en.wikipedia.org/wiki/North_West_Green_Belt, anchor: North West Green Belt, depth: 3, parent: https://en.wikipedia.org/wiki/Green_belt
+https://en.wikipedia.org/wiki/South_and_West_Yorkshire_Green_Belt, anchor: South and West Yorkshire Green Belt, depth: 3, parent: https://en.wikipedia.org/wiki/Green_belt
+https://en.wikipedia.org/wiki/West_Midlands_Green_Belt, anchor: West Midlands Green Belt, depth: 3, parent: https://en.wikipedia.org/wiki/Green_belt
+https://en.wikipedia.org/wiki/Greenhills,_Ohio, anchor: Greenhills, Ohio, depth: 3, parent: https://en.wikipedia.org/wiki/Green_belt
+https://en.wikipedia.org/wiki/Greendale,_Wisconsin, anchor: Greendale, Wisconsin, depth: 3, parent: https://en.wikipedia.org/wiki/Green_belt
+https://en.wikipedia.org/wiki/Greenbelt_Alliance, anchor: Greenbelt Alliance, depth: 3, parent: https://en.wikipedia.org/wiki/Green_belt
+https://en.wikipedia.org/wiki/Staten_Island_Greenbelt, anchor: Staten Island Greenbelt, depth: 3, parent: https://en.wikipedia.org/wiki/Green_belt
+https://en.wikipedia.org/wiki/Brooklyn-Queens_Greenway, anchor: Brooklyn-Queens Greenway, depth: 3, parent: https://en.wikipedia.org/wiki/Green_belt
+https://en.wikipedia.org/wiki/Barton_Creek_Greenbelt, anchor: Barton Creek Greenbelt, depth: 3, parent: https://en.wikipedia.org/wiki/Green_belt
+https://en.wikipedia.org/wiki/Boise_Greenbelt, anchor: Boise Greenbelt, depth: 3, parent: https://en.wikipedia.org/wiki/Green_belt
+https://en.wikipedia.org/wiki/Green_Revolution_(disambiguation), anchor: Green Revolution (disambiguation), depth: 3, parent: https://en.wikipedia.org/wiki/Green_Revolution
+https://en.wikipedia.org/wiki/Green_Revolution_in_India, anchor: Green Revolution in India, depth: 3, parent: https://en.wikipedia.org/wiki/Green_Revolution
+https://en.wikipedia.org/wiki/Greenpeace, anchor: Greenpeace, depth: 3, parent: https://en.wikipedia.org/wiki/Green_Revolution
+https://en.wikipedia.org/wiki/Second_Green_Revolution, anchor: Second Green Revolution, depth: 3, parent: https://en.wikipedia.org/wiki/Green_Revolution
+https://en.wikipedia.org/wiki/Greenhouse_and_icehouse_Earth, anchor: Greenhouse and icehouse Earth, depth: 4, parent: https://en.wikipedia.org/wiki/Runaway_greenhouse_effect
+https://en.wikipedia.org/wiki/Greenfield_land, anchor: Greenfield land, depth: 4, parent: https://en.wikipedia.org/wiki/Greenfield_status
+https://en.wikipedia.org/wiki/Green_Building_(MIT), anchor: Green Building (MIT), depth: 4, parent: https://en.wikipedia.org/wiki/Green_building
+https://en.wikipedia.org/wiki/The_Green_Building_(Louisville,_Kentucky), anchor: The Green Building (Louisville, Kentucky), depth: 4, parent: https://en.wikipedia.org/wiki/Green_building
+https://en.wikipedia.org/wiki/Green_vehicle, anchor: Green vehicle, depth: 4, parent: https://en.wikipedia.org/wiki/Green_building
+https://en.wikipedia.org/wiki/U.S._Green_Building_Council, anchor: U.S. Green Building Council, depth: 4, parent: https://en.wikipedia.org/wiki/Green_building
+https://en.wikipedia.org/wiki/World_Green_Building_Council, anchor: World Green Building Council, depth: 4, parent: https://en.wikipedia.org/wiki/Green_building
+https://en.wikipedia.org/wiki/Green_architecture, anchor: green architecture, depth: 4, parent: https://en.wikipedia.org/wiki/Green_building
+https://en.wikipedia.org/wiki/Green_roof, anchor: green roofs, depth: 4, parent: https://en.wikipedia.org/wiki/Green_building
+https://en.wikipedia.org/wiki/International_Green_Construction_Code, anchor: International Green Construction Code (IGCC), depth: 4, parent: https://en.wikipedia.org/wiki/Green_building
+https://en.wikipedia.org/wiki/National_Green_Building_Standard, anchor: National Green Building Standard, depth: 4, parent: https://en.wikipedia.org/wiki/Green_building
+https://en.wikipedia.org/wiki/Green_Building_in_Bangladesh, anchor: Green Building in Bangladesh, depth: 4, parent: https://en.wikipedia.org/wiki/Green_building
+https://en.wikipedia.org/wiki/Green_building_in_Germany, anchor: Green building in Germany, depth: 4, parent: https://en.wikipedia.org/wiki/Green_building
+https://en.wikipedia.org/wiki/Green_building_in_Israel, anchor: Green building in Israel, depth: 4, parent: https://en.wikipedia.org/wiki/Green_building
+https://en.wikipedia.org/wiki/Green_building_in_South_Africa, anchor: Green building in South Africa, depth: 4, parent: https://en.wikipedia.org/wiki/Green_building
+https://en.wikipedia.org/wiki/Green_building_in_the_United_Kingdom, anchor: Green building in the United Kingdom, depth: 4, parent: https://en.wikipedia.org/wiki/Green_building
+https://en.wikipedia.org/wiki/Green_building_in_India, anchor: Green building in India, depth: 4, parent: https://en.wikipedia.org/wiki/Green_building
+https://en.wikipedia.org/wiki/Green_building_in_the_United_States, anchor: Green building in the United States, depth: 4, parent: https://en.wikipedia.org/wiki/Green_building
+https://en.wikipedia.org/wiki/Green_Building_Council, anchor: Green Building Council, depth: 4, parent: https://en.wikipedia.org/wiki/Green_building
+https://en.wikipedia.org/wiki/Green_Home, anchor: Green Home, depth: 4, parent: https://en.wikipedia.org/wiki/Green_building
+https://en.wikipedia.org/wiki/Green_library, anchor: Green library, depth: 4, parent: https://en.wikipedia.org/wiki/Green_building
+https://en.wikipedia.org/wiki/Green_technology, anchor: Green technology, depth: 4, parent: https://en.wikipedia.org/wiki/Green_building
+https://en.wikipedia.org/wiki/Glass_in_green_buildings, anchor: Glass in green buildings, depth: 4, parent: https://en.wikipedia.org/wiki/Green_building
+https://en.wikipedia.org/wiki/Tropical_green_building, anchor: Tropical green building, depth: 4, parent: https://en.wikipedia.org/wiki/Green_building
+https://en.wikipedia.org/wiki/Green_computing, anchor: Green computing, depth: 4, parent: https://en.wikipedia.org/wiki/Green_building
+https://en.wikipedia.org/wiki/Greenhouse_gas_emissions, anchor: greenhouse gas emissions, depth: 4, parent: https://en.wikipedia.org/wiki/Greenhouse_gas_accounting
+https://en.wikipedia.org/wiki/Greenhouse-gas, anchor: greenhouse-gas, depth: 4, parent: https://en.wikipedia.org/wiki/Greenhouse_Gases_Observing_Satellite
+https://en.wikipedia.org/wiki/Green_House_(disambiguation), anchor: Green House (disambiguation), depth: 4, parent: https://en.wikipedia.org/wiki/Greenhouse
+https://en.wikipedia.org/wiki/Greene_House_(disambiguation), anchor: Greene House (disambiguation), depth: 4, parent: https://en.wikipedia.org/wiki/Greenhouse
+https://en.wikipedia.org/wiki/Royal_Greenhouses_of_Laeken, anchor: Royal Greenhouses of Laeken, depth: 4, parent: https://en.wikipedia.org/wiki/Greenhouse
+https://en.wikipedia.org/wiki/Conservatory_(greenhouse), anchor: Conservatory (greenhouse), depth: 4, parent: https://en.wikipedia.org/wiki/Greenhouse
+https://en.wikipedia.org/wiki/Seawater_greenhouse, anchor: Seawater greenhouse, depth: 4, parent: https://en.wikipedia.org/wiki/Greenhouse
+https://en.wikipedia.org/wiki/Green_wall, anchor: Green wall, depth: 4, parent: https://en.wikipedia.org/wiki/Greenhouse
+https://en.wikipedia.org/wiki/Green_PR, anchor: green PR, depth: 4, parent: https://en.wikipedia.org/wiki/Green_washing
+https://en.wikipedia.org/wiki/Green_brands, anchor: Green brands, depth: 4, parent: https://en.wikipedia.org/wiki/Green_washing
+https://en.wikipedia.org/wiki/Green_company, anchor: Green company, depth: 4, parent: https://en.wikipedia.org/wiki/Green_washing
+https://en.wikipedia.org/wiki/Green_criminology, anchor: Green criminology, depth: 4, parent: https://en.wikipedia.org/wiki/Green_washing
+https://en.wikipedia.org/wiki/Green_bank, anchor: green banks, depth: 4, parent: https://en.wikipedia.org/wiki/Green_banking
+https://en.wikipedia.org/wiki/Green_party, anchor: Green party, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Outline_of_green_politics, anchor: List of topics, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Bright_green_environmentalism, anchor: Bright green environmentalism, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_anarchism, anchor: Green anarchism, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_conservatism, anchor: Green conservatism, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_left, anchor: Green left, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_liberalism, anchor: Green liberalism, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_libertarianism, anchor: Green libertarianism, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_Zionism, anchor: Green Zionism, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Asia_Pacific_Greens_Federation, anchor: Asia Pacific Greens Federation, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/European_Green_Party, anchor: European Green Party, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Federation_of_Green_Parties_of_Africa, anchor: Federation of Green Parties of Africa, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Federation_of_the_Green_Parties_of_the_Americas, anchor: Federation of the Green Parties of the Americas, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Federation_of_Young_European_Greens, anchor: Federation of Young European Greens, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Global_Greens, anchor: Global Greens, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Global_Young_Greens, anchor: Global Young Greens, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Iranian_Green_Movement, anchor: Iranian Green Movement, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Alliance_%2790/The_Greens, anchor: die Grünen, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_ban, anchor: green ban, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_Party_of_Canada, anchor: Green Party of Canada, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_Party_of_Ontario, anchor: Ontario Greens, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_Party_of_British_Columbia, anchor: British Columbia Greens, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_League, anchor: Green League, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Red-Green_Alliance, anchor: Red-Green Alliance, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers, anchor: Union of Greens and Farmers, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Global_Greens_Charter, anchor: Global Greens Charter, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_economics, anchor: Green economics, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_tax_shift, anchor: green tax shift, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_Party_(United_States), anchor: United States, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_Party_(Ireland), anchor: Irish Green Party, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/French_Green_Party, anchor: French Green Party, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Australian_Greens, anchor: Australian Greens, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Asia-Pacific_Green_Network, anchor: Asia-Pacific Green Network, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/European_Federation_of_Green_Parties, anchor: European Federation of Green Parties, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/The_Greens_(Benin), anchor: Benin, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Greens_of_Burkina, anchor: Greens of Burkina, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Rally_of_Congolese_Ecologists_%E2%80%93_The_Greens, anchor: Democratic Republic of the Congo, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Egyptian_Green_Party, anchor: Egypt, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Mazingira_Green_Party_of_Kenya, anchor: Kenya, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Greens_Party_of_Mozambique, anchor: Mozambique, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Democratic_Green_Party_of_Rwanda, anchor: Rwanda, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Somalia_Green_Party, anchor: Green Party, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_Party_of_South_Africa, anchor: Green Party, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_Tunisia_Party, anchor: Tunisia, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Uganda_Green_Party, anchor: Green Party, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_Initiative, anchor: Argentina, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Belize_Green_Independent_Party, anchor: Belize, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_Party_of_Bolivia, anchor: Bolivia, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_Party_(Brazil), anchor: Brazil, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_Ecologist_Party_(Chile), anchor: Chile, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_Alliance_(Colombia), anchor: Colombia, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Cartago_Green_Party, anchor: Costa Rica, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_Party_of_Democratic_Unity, anchor: Dominican Republic, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Ecologist_Green_Party_of_Mexico, anchor: Mexico, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Ecologist_Green_Party_of_Nicaragua, anchor: Nicaragua, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_Alternative_Ecologist_Party_of_Peru, anchor: Peru, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines_Green_Party, anchor: Saint Vincent and the Grenadines, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_Party_of_the_United_States, anchor: United States, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Partido_Verde_Eto-Ecologista, anchor: Green, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_Party_of_Fiji, anchor: Fiji, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_Party_of_Iran, anchor: Iran, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_Party_of_Iraq, anchor: Iraq, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_Movement_(Israel), anchor: The Green Movement, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/The_Greens_(Israel), anchor: The Greens, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Greens_Japan, anchor: Japan, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_Party_of_Lebanon, anchor: Lebanon, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_Party_of_Malaysia, anchor: Malaysia, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Civil_Will%E2%80%93Green_Party, anchor: Civil Will–Green, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Mongolian_Green_Party, anchor: Green Party, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_Party_of_Aotearoa_New_Zealand, anchor: New Zealand, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_Party_of_Pakistan, anchor: Pakistan, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Papua_New_Guinea_Greens, anchor: Papua New Guinea, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_Party_Korea, anchor: South Korea, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_Party_Taiwan, anchor: Taiwan, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_Confederation, anchor: Vanuatu, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_Party_of_Albania, anchor: Albania, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Greens_of_Andorra, anchor: Andorra, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/The_Greens_%E2%80%93_The_Green_Alternative, anchor: Austria, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Belarusian_Green_Party, anchor: Belarus, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Greens_of_Bosnia_and_Herzegovina, anchor: Bosnia and Herzegovina, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_Party_of_Bulgaria, anchor: Green Party, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/The_Greens_(Bulgaria), anchor: The Greens, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic), anchor: Green Party, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/The_Greens_(Denmark), anchor: The Greens, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Estonian_Greens, anchor: Estonia, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Europe_Ecology_%E2%80%93_The_Greens, anchor: Europe Ecology – The Greens, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_Party_of_Georgia, anchor: Georgia, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Alliance_90/The_Greens, anchor: Alliance 90/The Greens, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Ecologist_Greens, anchor: Ecologist Greens, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Greens_(Greece), anchor: Greens, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Left-Green_Movement, anchor: Iceland, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Federation_of_the_Greens, anchor: Federation of the Greens, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_Italy, anchor: Green Italy, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_Party_of_Kosovo, anchor: Kosovo, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Latvian_Green_Party, anchor: Latvia, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Lithuanian_Green_Party, anchor: Green Party, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Lithuanian_Farmers_and_Greens_Union, anchor: Lithuanian Farmers and Greens Union, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/The_Greens_(Luxembourg), anchor: Luxembourg, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Ecologist_Green_Party_(Moldova), anchor: Moldova, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Greens_of_Montenegro, anchor: Montenegro, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/The_Greens_(Netherlands), anchor: The Greens, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_Party_(Norway), anchor: Norway, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/The_Greens_(Poland), anchor: Poland, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Ecologist_Party_%22The_Greens%22, anchor: The Greens, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_Party_(Romania), anchor: Green Party, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Civil_United_Green_Alternative, anchor: Civil United Green Alternative, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Russian_Ecological_Party_%22The_Greens%22, anchor: Ecological Party "The Greens", depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Union_of_Greens_of_Russia, anchor: Union of Greens, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Alliance_of_Greens_and_Social_Democrats, anchor: Alliance of Greens and Social Democrats, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_Party_(Serbia), anchor: Green Party, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Greens_of_Serbia, anchor: Greens of Serbia, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_Party_(Slovakia), anchor: Slovakia, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Greens_of_Slovenia, anchor: Greens, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Youth_Party_%E2%80%93_European_Greens, anchor: Youth Party, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Initiative_for_Catalonia_Greens, anchor: Catalonia Greens, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Confederation_of_the_Greens, anchor: Confederation of the Greens, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_Party_(Sweden), anchor: Sweden, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_Party_of_Switzerland, anchor: Switzerland, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_Left_Party, anchor: Turkey, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Party_of_Greens_of_Ukraine, anchor: Ukraine, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_Party_of_England_and_Wales, anchor: England and Wales, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Wales_Green_Party, anchor: Wales, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Green_Party_in_Northern_Ireland, anchor: Northern Ireland, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Scottish_Green_Party, anchor: Scotland, depth: 4, parent: https://en.wikipedia.org/wiki/Green_politics
+https://en.wikipedia.org/wiki/Greenhouse_effect_(United_States_Supreme_Court), anchor: Greenhouse effect (United States Supreme Court), depth: 4, parent: https://en.wikipedia.org/wiki/Greenhouse_(disambiguation)
+https://en.wikipedia.org/wiki/Greenhouse_(surname), anchor: Greenhouse (surname), depth: 4, parent: https://en.wikipedia.org/wiki/Greenhouse_(disambiguation)
+https://en.wikipedia.org/wiki/Greenhouse_(Leo_Kottke_album), anchor: Greenhouse (Leo Kottke album), depth: 4, parent: https://en.wikipedia.org/wiki/Greenhouse_(disambiguation)
+https://en.wikipedia.org/wiki/Greenhouse_(Brotherhood_of_Man_album), anchor: Greenhouse (Brotherhood of Man album), depth: 4, parent: https://en.wikipedia.org/wiki/Greenhouse_(disambiguation)
+https://en.wikipedia.org/wiki/Greenhouse_(Yellowjackets_album), anchor: Greenhouse (Yellowjackets album), depth: 4, parent: https://en.wikipedia.org/wiki/Greenhouse_(disambiguation)
+https://en.wikipedia.org/wiki/Greenhouse_Music, anchor: Greenhouse Music, depth: 4, parent: https://en.wikipedia.org/wiki/Greenhouse_(disambiguation)
+https://en.wikipedia.org/wiki/Greenhouse_Software, anchor: Greenhouse Software, depth: 4, parent: https://en.wikipedia.org/wiki/Greenhouse_(disambiguation)
+https://en.wikipedia.org/wiki/Greenhouse_Studios, anchor: Greenhouse Studios, depth: 4, parent: https://en.wikipedia.org/wiki/Greenhouse_(disambiguation)
+https://en.wikipedia.org/wiki/Greenhouse_(music_group), anchor: Greenhouse (music group), depth: 4, parent: https://en.wikipedia.org/wiki/Greenhouse_(disambiguation)
+https://en.wikipedia.org/wiki/Operation_Greenhouse, anchor: Operation Greenhouse, depth: 4, parent: https://en.wikipedia.org/wiki/Greenhouse_(disambiguation)
+https://en.wikipedia.org/wiki/Greenhouse_(automotive), anchor: Greenhouse (automotive), depth: 4, parent: https://en.wikipedia.org/wiki/Greenhouse_(disambiguation)
+https://en.wikipedia.org/wiki/Greenhouse_(restaurant), anchor: Greenhouse (restaurant), depth: 4, parent: https://en.wikipedia.org/wiki/Greenhouse_(disambiguation)
+https://en.wikipedia.org/wiki/The_Greenhouse_(novel), anchor: The Greenhouse (novel), depth: 4, parent: https://en.wikipedia.org/wiki/Greenhouse_(disambiguation)
+https://en.wikipedia.org/wiki/The_Greenhouse_(TV_series), anchor: The Greenhouse (TV series), depth: 4, parent: https://en.wikipedia.org/wiki/Greenhouse_(disambiguation)
+https://en.wikipedia.org/wiki/Greenbelt_(disambiguation), anchor: Greenbelt (disambiguation), depth: 4, parent: https://en.wikipedia.org/wiki/Greenbelt,_Maryland
+https://en.wikipedia.org/wiki/Greenbelt_Historic_District, anchor: Greenbelt Historic  District, depth: 4, parent: https://en.wikipedia.org/wiki/Greenbelt,_Maryland
+https://en.wikipedia.org/wiki/Greenbelt_Park, anchor: Greenbelt Park, depth: 4, parent: https://en.wikipedia.org/wiki/Greenbelt,_Maryland
+https://en.wikipedia.org/wiki/Greenbelt_station, anchor: Greenbelt Metro Station, depth: 4, parent: https://en.wikipedia.org/wiki/Greenbelt,_Maryland
+https://en.wikipedia.org/wiki/Green_Line_(Washington_Metro), anchor: Green Line, depth: 4, parent: https://en.wikipedia.org/wiki/Greenbelt,_Maryland
+https://en.wikipedia.org/wiki/Old_Greenbelt_Theatre, anchor: Old Greenbelt Theatre, depth: 4, parent: https://en.wikipedia.org/wiki/Greenbelt,_Maryland
+https://en.wikipedia.org/wiki/Greenbelt_News_Review, anchor: Greenbelt News Review, depth: 4, parent: https://en.wikipedia.org/wiki/Greenbelt,_Maryland
+https://en.wikipedia.org/wiki/Greenbelt_Homes,_Inc., anchor: Greenbelt Homes Incorporated, depth: 4, parent: https://en.wikipedia.org/wiki/Greenbelt,_Maryland
+https://en.wikipedia.org/wiki/Greenbelt_Arts_Center, anchor: Greenbelt Arts Center, depth: 4, parent: https://en.wikipedia.org/wiki/Greenbelt,_Maryland
+https://en.wikipedia.org/wiki/Eleanor_Roosevelt_High_School_(Greenbelt,_Maryland), anchor: Eleanor Roosevelt High School, depth: 4, parent: https://en.wikipedia.org/wiki/Greenbelt,_Maryland
+https://en.wikipedia.org/wiki/Greenbelt_Police_Department, anchor: Greenbelt Police Department, depth: 4, parent: https://en.wikipedia.org/wiki/Greenbelt,_Maryland
+https://en.wikipedia.org/wiki/Greenbelt_Police_Department_(Maryland), anchor: Greenbelt Police Department, depth: 4, parent: https://en.wikipedia.org/wiki/Greenbelt,_Maryland
+https://en.wikipedia.org/wiki/Greenbelt_15K, anchor: Greenbelt 15K, depth: 4, parent: https://en.wikipedia.org/wiki/Greenbelt,_Maryland
+https://en.wikipedia.org/wiki/Green_Meadows,_Maryland, anchor: Green Meadows, depth: 4, parent: https://en.wikipedia.org/wiki/Greenbelt,_Maryland
+https://en.wikipedia.org/wiki/Green_Haven,_Maryland, anchor: Green Haven, depth: 4, parent: https://en.wikipedia.org/wiki/Greenbelt,_Maryland
+https://en.wikipedia.org/wiki/Green_Belt_(Pittsburgh), anchor: Green Belt (Pittsburgh), depth: 4, parent: https://en.wikipedia.org/wiki/Green_belt_(disambiguation)
+https://en.wikipedia.org/wiki/Green_Belt_Movement, anchor: Green Belt Movement, depth: 4, parent: https://en.wikipedia.org/wiki/Green_belt_(disambiguation)
+https://en.wikipedia.org/wiki/Green_Belt_of_Glory, anchor: Green Belt of Glory, depth: 4, parent: https://en.wikipedia.org/wiki/Green_belt_(disambiguation)
+https://en.wikipedia.org/wiki/Greenbelt_festival, anchor: Greenbelt festival, depth: 4, parent: https://en.wikipedia.org/wiki/Green_belt_(disambiguation)
+https://en.wikipedia.org/wiki/Greenbelt_(Ayala_Center), anchor: Greenbelt (Ayala Center), depth: 4, parent: https://en.wikipedia.org/wiki/Green_belt_(disambiguation)
+https://en.wikipedia.org/wiki/Sir_Gawain_and_the_Green_Knight, anchor: Sir Gawain and the Green Knight, depth: 4, parent: https://en.wikipedia.org/wiki/Green_belt_(disambiguation)
+https://en.wikipedia.org/wiki/Green%27s_Creek_(Ontario), anchor: Green's Creek, depth: 4, parent: https://en.wikipedia.org/wiki/Greenbelt_(Ottawa)
+https://en.wikipedia.org/wiki/Green_Island_(Rideau_River), anchor: Green Island (Rideau River), depth: 4, parent: https://en.wikipedia.org/wiki/Greenbelt_(Ottawa)
+https://en.wikipedia.org/wiki/PPG_2, anchor: Planning Policy Guidance Note 2: Green Belts, depth: 4, parent: https://en.wikipedia.org/wiki/Green_belt_(United_Kingdom)
+https://en.wikipedia.org/wiki/South_West_Hampshire/South_East_Dorset_Green_Belt, anchor: South West Hampshire/South East Dorset Green Belt, depth: 4, parent: https://en.wikipedia.org/wiki/Green_belt_(United_Kingdom)
+https://en.wikipedia.org/wiki/Avon_Green_Belt, anchor: Avon Green Belt, depth: 4, parent: https://en.wikipedia.org/wiki/Green_belt_(United_Kingdom)
+https://en.wikipedia.org/wiki/Burton_upon_Trent_and_Swadlincote_Green_Belt, anchor: Burton upon Trent and Swadlincote Green Belt, depth: 4, parent: https://en.wikipedia.org/wiki/Green_belt_(United_Kingdom)
+https://en.wikipedia.org/wiki/Cambridge_Green_Belt, anchor: Cambridge Green Belt, depth: 4, parent: https://en.wikipedia.org/wiki/Green_belt_(United_Kingdom)
+https://en.wikipedia.org/wiki/Nottingham_and_Derby_Green_Belt, anchor: Nottingham and Derby Green Belt, depth: 4, parent: https://en.wikipedia.org/wiki/Green_belt_(United_Kingdom)
+https://en.wikipedia.org/wiki/Gloucester_and_Cheltenham_Green_Belt, anchor: Gloucester and Cheltenham Green Belt, depth: 4, parent: https://en.wikipedia.org/wiki/Green_belt_(United_Kingdom)
+https://en.wikipedia.org/wiki/North_East_Green_Belt, anchor: North East Green Belt, depth: 4, parent: https://en.wikipedia.org/wiki/Green_belt_(United_Kingdom)
+https://en.wikipedia.org/wiki/Oxford_Green_Belt, anchor: Oxford Green Belt, depth: 4, parent: https://en.wikipedia.org/wiki/Green_belt_(United_Kingdom)
+https://en.wikipedia.org/wiki/Stoke-on-Trent_Green_Belt, anchor: Stoke-on-Trent Green Belt, depth: 4, parent: https://en.wikipedia.org/wiki/Green_belt_(United_Kingdom)
+https://en.wikipedia.org/wiki/York_Green_Belt, anchor: York Green Belt, depth: 4, parent: https://en.wikipedia.org/wiki/Green_belt_(United_Kingdom)
+https://en.wikipedia.org/wiki/Monadnock-Sunapee_Greenway, anchor: Monadnock-Sunapee Greenway, depth: 4, parent: https://en.wikipedia.org/wiki/Greenway_(landscape)
+https://en.wikipedia.org/wiki/Green_lane_(road), anchor: green lanes, depth: 4, parent: https://en.wikipedia.org/wiki/Greenway_(landscape)
+https://en.wikipedia.org/wiki/European_Greenways_Association, anchor: European Greenways Association, depth: 4, parent: https://en.wikipedia.org/wiki/Greenway_(landscape)
+https://en.wikipedia.org/wiki/East_River_Greenway, anchor: East River Greenway, depth: 4, parent: https://en.wikipedia.org/wiki/Greenway_(landscape)
+https://en.wikipedia.org/wiki/Manhattan_Waterfront_Greenway, anchor: Manhattan Waterfront Greenway, depth: 4, parent: https://en.wikipedia.org/wiki/Greenway_(landscape)
+https://en.wikipedia.org/wiki/Anne_Springs_Close_Greenway, anchor: Anne Springs Close Greenway, depth: 4, parent: https://en.wikipedia.org/wiki/Greenway_(landscape)
+https://en.wikipedia.org/wiki/Capital_Area_Greenbelt, anchor: Capital Area Greenbelt, depth: 4, parent: https://en.wikipedia.org/wiki/Greenway_(landscape)
+https://en.wikipedia.org/wiki/Capital_Area_Greenway, anchor: Capital Area Greenway, depth: 4, parent: https://en.wikipedia.org/wiki/Greenway_(landscape)
+https://en.wikipedia.org/wiki/Cardinal_Greenway, anchor: Cardinal Greenway, depth: 4, parent: https://en.wikipedia.org/wiki/Greenway_(landscape)
+https://en.wikipedia.org/wiki/East_Coast_Greenway, anchor: East Coast Greenway, depth: 4, parent: https://en.wikipedia.org/wiki/Greenway_(landscape)
+https://en.wikipedia.org/wiki/Greater_Grand_Forks_Greenway, anchor: Greater Grand Forks Greenway, depth: 4, parent: https://en.wikipedia.org/wiki/Greenway_(landscape)
+https://en.wikipedia.org/wiki/Lafitte_Greenway, anchor: Lafitte Greenway, depth: 4, parent: https://en.wikipedia.org/wiki/Greenway_(landscape)
+https://en.wikipedia.org/wiki/Little_Sugar_Creek_Greenway, anchor: Little Sugar Creek Greenway, depth: 4, parent: https://en.wikipedia.org/wiki/Greenway_(landscape)
+https://en.wikipedia.org/wiki/Maryville_Alcoa_Greenway, anchor: Maryville Alcoa Greenway, depth: 4, parent: https://en.wikipedia.org/wiki/Greenway_(landscape)
+https://en.wikipedia.org/wiki/Midtown_Greenway, anchor: Midtown Greenway, depth: 4, parent: https://en.wikipedia.org/wiki/Greenway_(landscape)
+https://en.wikipedia.org/wiki/MillionMile_Greenway, anchor: MillionMile Greenway, depth: 4, parent: https://en.wikipedia.org/wiki/Greenway_(landscape)
+https://en.wikipedia.org/wiki/Mountains_to_Sound_Greenway, anchor: Mountains to Sound Greenway, depth: 4, parent: https://en.wikipedia.org/wiki/Greenway_(landscape)
+https://en.wikipedia.org/wiki/Niagara_River_Greenway_Plan, anchor: Niagara River Greenway Plan, depth: 4, parent: https://en.wikipedia.org/wiki/Greenway_(landscape)
+https://en.wikipedia.org/wiki/Ohlone_Greenway, anchor: Ohlone Greenway, depth: 4, parent: https://en.wikipedia.org/wiki/Greenway_(landscape)
+https://en.wikipedia.org/wiki/Rachel_Carson_Greenway, anchor: Rachel Carson Greenway, depth: 4, parent: https://en.wikipedia.org/wiki/Greenway_(landscape)
+https://en.wikipedia.org/wiki/Rose_Kennedy_Greenway, anchor: Rose Kennedy Greenway, depth: 4, parent: https://en.wikipedia.org/wiki/Greenway_(landscape)
+https://en.wikipedia.org/wiki/Vancouver_Greenway_Network, anchor: Vancouver Greenway Network, depth: 4, parent: https://en.wikipedia.org/wiki/Greenway_(landscape)
+https://en.wikipedia.org/wiki/Central_Valley_Greenway, anchor: Central Valley Greenway, depth: 4, parent: https://en.wikipedia.org/wiki/Greenway_(landscape)
+https://en.wikipedia.org/wiki/Chrysler_Canada_Greenway, anchor: Chrysler Canada Greenway, depth: 4, parent: https://en.wikipedia.org/wiki/Greenway_(landscape)
+https://en.wikipedia.org/wiki/Ayot_Greenway, anchor: Ayot Greenway, depth: 4, parent: https://en.wikipedia.org/wiki/Greenway_(landscape)
+https://en.wikipedia.org/wiki/Cole_Green_Way, anchor: Cole Green Way, depth: 4, parent: https://en.wikipedia.org/wiki/Greenway_(landscape)
+https://en.wikipedia.org/wiki/Greenway,_London, anchor: The Greenway, depth: 4, parent: https://en.wikipedia.org/wiki/Greenway_(landscape)
+https://en.wikipedia.org/wiki/South_East_London_Green_Chain, anchor: South East London Green Chain, depth: 4, parent: https://en.wikipedia.org/wiki/Greenway_(landscape)
+https://en.wikipedia.org/wiki/GD_Greenway, anchor: Guangdong Greenway, depth: 4, parent: https://en.wikipedia.org/wiki/Greenway_(landscape)
+https://en.wikipedia.org/wiki/Green_Bridge_(disambiguation), anchor: Green Bridge (disambiguation), depth: 4, parent: https://en.wikipedia.org/wiki/Greenway_(landscape)
+https://en.wikipedia.org/wiki/Greenhills_Historic_District, anchor: Greenhills Historic District, depth: 4, parent: https://en.wikipedia.org/wiki/Greenhills,_Ohio
+https://en.wikipedia.org/wiki/Green_Township,_Hamilton_County,_Ohio, anchor: Green, depth: 4, parent: https://en.wikipedia.org/wiki/Greenhills,_Ohio
+https://en.wikipedia.org/wiki/Greendale_Historic_District, anchor: Greendale Historic District, depth: 4, parent: https://en.wikipedia.org/wiki/Greendale,_Wisconsin
+https://en.wikipedia.org/wiki/Greendale_High_School, anchor: Greendale High School, depth: 4, parent: https://en.wikipedia.org/wiki/Greendale,_Wisconsin
+https://en.wikipedia.org/wiki/Greenfield,_Wisconsin, anchor: Greenfield, depth: 4, parent: https://en.wikipedia.org/wiki/Greendale,_Wisconsin
+https://en.wikipedia.org/wiki/Green_sunfish, anchor: green sunfish, depth: 4, parent: https://en.wikipedia.org/wiki/Staten_Island_Greenbelt
+https://en.wikipedia.org/wiki/Asphalt_Green, anchor: Asphalt Green, depth: 4, parent: https://en.wikipedia.org/wiki/Staten_Island_Greenbelt
+https://en.wikipedia.org/wiki/Bowling_Green_(New_York_City), anchor: Bowling Green, depth: 4, parent: https://en.wikipedia.org/wiki/Staten_Island_Greenbelt
+https://en.wikipedia.org/wiki/Greenacre_Park, anchor: Greenacre Park, depth: 4, parent: https://en.wikipedia.org/wiki/Staten_Island_Greenbelt
+https://en.wikipedia.org/wiki/Brooklyn%E2%80%93Queens_Greenway, anchor: Brooklyn–Queens Greenway, depth: 4, parent: https://en.wikipedia.org/wiki/Staten_Island_Greenbelt
+https://en.wikipedia.org/wiki/Fort_Greene_Park, anchor: Fort Greene, depth: 4, parent: https://en.wikipedia.org/wiki/Staten_Island_Greenbelt
+https://en.wikipedia.org/wiki/Greenpeace_(disambiguation), anchor: Greenpeace (disambiguation), depth: 4, parent: https://en.wikipedia.org/wiki/Greenpeace
+https://en.wikipedia.org/wiki/Amchitka_(album), anchor: Amchitka, the 1970 concert that launched Greenpeace, depth: 4, parent: https://en.wikipedia.org/wiki/Greenpeace
+https://en.wikipedia.org/wiki/London_Greenpeace, anchor: London Greenpeace, depth: 4, parent: https://en.wikipedia.org/wiki/Greenpeace
+https://en.wikipedia.org/wiki/Greenpeace_Foundation, anchor: Greenpeace Foundation, depth: 4, parent: https://en.wikipedia.org/wiki/Greenpeace
+https://en.wikipedia.org/wiki/Greenpeace_Arctic_Sunrise_ship_case, anchor: arrested in the Pechora Sea, depth: 4, parent: https://en.wikipedia.org/wiki/Greenpeace
+https://en.wikipedia.org/wiki/Green_wash, anchor: green wash, depth: 4, parent: https://en.wikipedia.org/wiki/Greenpeace
+https://en.wikipedia.org/wiki/MV_Greenpeace, anchor: MV Greenpeace, depth: 4, parent: https://en.wikipedia.org/wiki/Greenpeace
+https://en.wikipedia.org/wiki/Criticism_of_Greenpeace, anchor: Criticism of Greenpeace, depth: 4, parent: https://en.wikipedia.org/wiki/Greenpeace
+https://en.wikipedia.org/wiki/Greenpeace_Aotearoa_New_Zealand, anchor: Greenpeace Aotearoa New Zealand, depth: 4, parent: https://en.wikipedia.org/wiki/Greenpeace
+https://en.wikipedia.org/wiki/Greenpeace_Australia_Pacific, anchor: Greenpeace Australia Pacific, depth: 4, parent: https://en.wikipedia.org/wiki/Greenpeace
+https://en.wikipedia.org/wiki/Greenpeace_East_Asia, anchor: Greenpeace East Asia, depth: 4, parent: https://en.wikipedia.org/wiki/Greenpeace
+https://en.wikipedia.org/wiki/Greenpeace_Nordic, anchor: Greenpeace Nordic, depth: 4, parent: https://en.wikipedia.org/wiki/Greenpeace
+https://en.wikipedia.org/wiki/Greenpeace_Southeast_Asia, anchor: Greenpeace Southeast Asia, depth: 4, parent: https://en.wikipedia.org/wiki/Greenpeace
+https://en.wikipedia.org/wiki/Greenpeace_USA, anchor: Greenpeace USA, depth: 4, parent: https://en.wikipedia.org/wiki/Greenpeace
+https://en.wikipedia.org/wiki/Greenpeace_%E2%80%93_The_Album, anchor: Greenpeace – The Album, depth: 4, parent: https://en.wikipedia.org/wiki/Greenpeace
+https://en.wikipedia.org/wiki/Jim_Green_(activist), anchor: Jim Green, depth: 4, parent: https://en.wikipedia.org/wiki/Greenpeace
+https://en.wikipedia.org/wiki/Cecil_Howard_Green, anchor: Cecil Howard Green, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Building_(MIT)
+https://en.wikipedia.org/wiki/Alan_Greenspan, anchor: Alan Greenspan, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Building_(MIT)
+https://en.wikipedia.org/wiki/Green_vehicles_(disambiguation), anchor: Green vehicles (disambiguation), depth: 5, parent: https://en.wikipedia.org/wiki/Green_vehicle
+https://en.wikipedia.org/wiki/Greenhouse_gas_emission, anchor: greenhouse gas emissions, depth: 5, parent: https://en.wikipedia.org/wiki/Green_vehicle
+https://en.wikipedia.org/wiki/Environmental_technology, anchor: green technology, depth: 5, parent: https://en.wikipedia.org/wiki/Green_vehicle
+https://en.wikipedia.org/wiki/Green_Car_Journal, anchor: Green Car Journal, depth: 5, parent: https://en.wikipedia.org/wiki/Green_vehicle
+https://en.wikipedia.org/wiki/Green_Car_of_the_Year, anchor: Green Car of the Year, depth: 5, parent: https://en.wikipedia.org/wiki/Green_vehicle
+https://en.wikipedia.org/wiki/Green_Car_Vision_Award, anchor: Green Car Vision Award, depth: 5, parent: https://en.wikipedia.org/wiki/Green_vehicle
+https://en.wikipedia.org/wiki/Green_tuning, anchor: Green tuning, depth: 5, parent: https://en.wikipedia.org/wiki/Green_vehicle
+https://en.wikipedia.org/wiki/Green_Challenge, anchor: Green Challenge, depth: 5, parent: https://en.wikipedia.org/wiki/Green_vehicle
+https://en.wikipedia.org/wiki/Green_Business_Certification_Inc., anchor: Green Business Certification Inc., depth: 5, parent: https://en.wikipedia.org/wiki/U.S._Green_Building_Council
+https://en.wikipedia.org/wiki/Leadership_in_Energy_and_Environmental_Design, anchor: LEED Green Building Rating System, depth: 5, parent: https://en.wikipedia.org/wiki/U.S._Green_Building_Council
+https://en.wikipedia.org/wiki/Canada_Green_Building_Council, anchor: Canada Green Building Council, depth: 5, parent: https://en.wikipedia.org/wiki/U.S._Green_Building_Council
+https://en.wikipedia.org/wiki/Green_Building_Certification_Institute, anchor: Green Building Certification Institute, depth: 5, parent: https://en.wikipedia.org/wiki/U.S._Green_Building_Council
+https://en.wikipedia.org/wiki/Green_Building_on_College_Campuses, anchor: Green Building on College Campuses, depth: 5, parent: https://en.wikipedia.org/wiki/U.S._Green_Building_Council
+https://en.wikipedia.org/wiki/UK_Green_Building_Council, anchor: UK Green Building Council, depth: 5, parent: https://en.wikipedia.org/wiki/U.S._Green_Building_Council
+https://en.wikipedia.org/wiki/Philippine_Green_Building_Council, anchor: Philippine Green Building Council, depth: 5, parent: https://en.wikipedia.org/wiki/U.S._Green_Building_Council
+https://en.wikipedia.org/wiki/Greensburg,_Kansas, anchor: Greensburg, Kansas, depth: 5, parent: https://en.wikipedia.org/wiki/Green_architecture
+https://en.wikipedia.org/wiki/Evergreen, anchor: evergreen plants, depth: 5, parent: https://en.wikipedia.org/wiki/Green_architecture
+https://en.wikipedia.org/wiki/Green_Building_Council_of_Australia, anchor: Green Building Council of Australia, depth: 5, parent: https://en.wikipedia.org/wiki/Green_roof
+https://en.wikipedia.org/wiki/Steven_W._Peck, anchor: Green Roofs for Healthy Cities, depth: 5, parent: https://en.wikipedia.org/wiki/Green_roof
+https://en.wikipedia.org/wiki/Green-winged_orchid, anchor: green-winged orchid, depth: 5, parent: https://en.wikipedia.org/wiki/Green_roof
+https://en.wikipedia.org/wiki/Going_green, anchor: Going green, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Building_in_Bangladesh
+https://en.wikipedia.org/wiki/Holcim_Awards_for_Sustainable_Construction, anchor: 2010 Holcim Green Built Sustainable Design Competition, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Building_in_Bangladesh
+https://en.wikipedia.org/wiki/Green_building_in_Australia, anchor: Green building in Australia, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Building_in_Bangladesh
+https://en.wikipedia.org/wiki/Green_building_in_New_Zealand, anchor: Green building in New Zealand, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Building_in_Bangladesh
+https://en.wikipedia.org/wiki/Green_building_in_Mexico, anchor: Green building in Mexico, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Building_in_Bangladesh
+https://en.wikipedia.org/wiki/NAHBGreen, anchor: NAHBGreen, depth: 5, parent: https://en.wikipedia.org/wiki/Green_building_in_the_United_States
+https://en.wikipedia.org/wiki/Green_Building_Initiative, anchor: Green Building Initiative, depth: 5, parent: https://en.wikipedia.org/wiki/Green_building_in_the_United_States
+https://en.wikipedia.org/wiki/Green_Globes, anchor: Green Globes, depth: 5, parent: https://en.wikipedia.org/wiki/Green_building_in_the_United_States
+https://en.wikipedia.org/wiki/Global_Green_USA, anchor: Global Green USA, depth: 5, parent: https://en.wikipedia.org/wiki/Green_building_in_the_United_States
+https://en.wikipedia.org/wiki/Office_of_High-Performance_Green_Buildings, anchor: Office of High-Performance Green Buildings, depth: 5, parent: https://en.wikipedia.org/wiki/Green_building_in_the_United_States
+https://en.wikipedia.org/wiki/Green_Affordable_Housing, anchor: Green Affordable Housing, depth: 5, parent: https://en.wikipedia.org/wiki/Green_building_in_the_United_States
+https://en.wikipedia.org/wiki/2010_California_Green_Building_Standards_Code, anchor: 2010 California Green Building Standards Code(Calgreen), depth: 5, parent: https://en.wikipedia.org/wiki/Green_building_in_the_United_States
+https://en.wikipedia.org/wiki/High-Performance_Green_Buildings, anchor: High-Performance Green Buildings, depth: 5, parent: https://en.wikipedia.org/wiki/Green_building_in_the_United_States
+https://en.wikipedia.org/wiki/United_States_Green_Building_Council, anchor: United States Green Building Council, depth: 5, parent: https://en.wikipedia.org/wiki/Green_building_in_the_United_States
+https://en.wikipedia.org/wiki/2010_California_Green_Building_Standards_Code_(Calgreen), anchor: 2010 California Green Building Standards Code (Calgreen), depth: 5, parent: https://en.wikipedia.org/wiki/Green_building_in_the_United_States
+https://en.wikipedia.org/wiki/Jordan_Green_Building_Council, anchor: Jordan Green Building Council, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Building_Council
+https://en.wikipedia.org/wiki/Green_design, anchor: green design, depth: 5, parent: https://en.wikipedia.org/wiki/Green_library
+https://en.wikipedia.org/wiki/Green-washing, anchor: green-washing, depth: 5, parent: https://en.wikipedia.org/wiki/Green_library
+https://en.wikipedia.org/wiki/Green_chemistry, anchor: green chemistry, depth: 5, parent: https://en.wikipedia.org/wiki/Green_technology
+https://en.wikipedia.org/wiki/Green_syndicalism, anchor: Green syndicalism, depth: 5, parent: https://en.wikipedia.org/wiki/Green_technology
+https://en.wikipedia.org/wiki/Green_Electronics_Council, anchor: Green Electronics Council, depth: 5, parent: https://en.wikipedia.org/wiki/Green_computing
+https://en.wikipedia.org/wiki/The_Green_Grid, anchor: The Green Grid, depth: 5, parent: https://en.wikipedia.org/wiki/Green_computing
+https://en.wikipedia.org/wiki/Green500, anchor: Green500, depth: 5, parent: https://en.wikipedia.org/wiki/Green_computing
+https://en.wikipedia.org/wiki/Green_Comm_Challenge, anchor: Green Comm Challenge, depth: 5, parent: https://en.wikipedia.org/wiki/Green_computing
+https://en.wikipedia.org/wiki/Green_information_system, anchor: Green information system, depth: 5, parent: https://en.wikipedia.org/wiki/Green_computing
+https://en.wikipedia.org/wiki/Green_House_(Hong_Kong), anchor: Green House (Hong Kong), depth: 5, parent: https://en.wikipedia.org/wiki/Green_House_(disambiguation)
+https://en.wikipedia.org/wiki/The_Green_House,_Sliema, anchor: The Green House, Sliema, depth: 5, parent: https://en.wikipedia.org/wiki/Green_House_(disambiguation)
+https://en.wikipedia.org/wiki/Green_House_(Little_Rock,_Arkansas), anchor: Green House (Little Rock, Arkansas), depth: 5, parent: https://en.wikipedia.org/wiki/Green_House_(disambiguation)
+https://en.wikipedia.org/wiki/Harley_E._Green_House, anchor: Harley E. Green House, depth: 5, parent: https://en.wikipedia.org/wiki/Green_House_(disambiguation)
+https://en.wikipedia.org/wiki/Green-Rankin-Bembridge_House, anchor: Green-Rankin-Bembridge House, depth: 5, parent: https://en.wikipedia.org/wiki/Green_House_(disambiguation)
+https://en.wikipedia.org/wiki/Green_Mansion_House_(Kenton,_Delaware), anchor: Green Mansion House (Kenton, Delaware), depth: 5, parent: https://en.wikipedia.org/wiki/Green_House_(disambiguation)
+https://en.wikipedia.org/wiki/Green_Mansion_(Newark,_Delaware), anchor: Green Mansion (Newark, Delaware), depth: 5, parent: https://en.wikipedia.org/wiki/Green_House_(disambiguation)
+https://en.wikipedia.org/wiki/Joseph_Green_House, anchor: Joseph Green House, depth: 5, parent: https://en.wikipedia.org/wiki/Green_House_(disambiguation)
+https://en.wikipedia.org/wiki/Green-Meldrim_House, anchor: Green-Meldrim House, depth: 5, parent: https://en.wikipedia.org/wiki/Green_House_(disambiguation)
+https://en.wikipedia.org/wiki/John_A._Green_Estate, anchor: John A. Green Estate, depth: 5, parent: https://en.wikipedia.org/wiki/Green_House_(disambiguation)
+https://en.wikipedia.org/wiki/William_Green_House_(Rochester,_Iowa), anchor: William Green House (Rochester, Iowa), depth: 5, parent: https://en.wikipedia.org/wiki/Green_House_(disambiguation)
+https://en.wikipedia.org/wiki/Green-Lovelace_House, anchor: Green-Lovelace House, depth: 5, parent: https://en.wikipedia.org/wiki/Green_House_(disambiguation)
+https://en.wikipedia.org/wiki/Jonathan_Green_House, anchor: Jonathan Green House, depth: 5, parent: https://en.wikipedia.org/wiki/Green_House_(disambiguation)
+https://en.wikipedia.org/wiki/Green_House_(Wakefield,_Massachusetts), anchor: Green House (Wakefield, Massachusetts), depth: 5, parent: https://en.wikipedia.org/wiki/Green_House_(disambiguation)
+https://en.wikipedia.org/wiki/Capt._William_Green_House, anchor: Capt. William Green House, depth: 5, parent: https://en.wikipedia.org/wiki/Green_House_(disambiguation)
+https://en.wikipedia.org/wiki/Deacon_Daniel_Green_House, anchor: Deacon Daniel Green House, depth: 5, parent: https://en.wikipedia.org/wiki/Green_House_(disambiguation)
+https://en.wikipedia.org/wiki/Alanson_Green_Farm_House, anchor: Alanson Green Farm House, depth: 5, parent: https://en.wikipedia.org/wiki/Green_House_(disambiguation)
+https://en.wikipedia.org/wiki/Garner_Wynn_Green_House, anchor: Garner Wynn Green House, depth: 5, parent: https://en.wikipedia.org/wiki/Green_House_(disambiguation)
+https://en.wikipedia.org/wiki/William_Green_House_(Ewing_Township,_New_Jersey), anchor: William Green House (Ewing Township, New Jersey), depth: 5, parent: https://en.wikipedia.org/wiki/Green_House_(disambiguation)
+https://en.wikipedia.org/wiki/Green-Reading_House, anchor: Green-Reading House, depth: 5, parent: https://en.wikipedia.org/wiki/Green_House_(disambiguation)
+https://en.wikipedia.org/wiki/Joseph_Green_Farmhouse, anchor: Joseph Green Farmhouse, depth: 5, parent: https://en.wikipedia.org/wiki/Green_House_(disambiguation)
+https://en.wikipedia.org/wiki/John_Green_House_(Huntington_Bay,_New_York), anchor: John Green House (Huntington Bay, New York), depth: 5, parent: https://en.wikipedia.org/wiki/Green_House_(disambiguation)
+https://en.wikipedia.org/wiki/Asahel_Green_Farm, anchor: Asahel Green Farm, depth: 5, parent: https://en.wikipedia.org/wiki/Green_House_(disambiguation)
+https://en.wikipedia.org/wiki/Nathan_and_Clarissa_Green_House, anchor: Nathan and Clarissa Green House, depth: 5, parent: https://en.wikipedia.org/wiki/Green_House_(disambiguation)
+https://en.wikipedia.org/wiki/Herman_Green_House, anchor: Herman Green House, depth: 5, parent: https://en.wikipedia.org/wiki/Green_House_(disambiguation)
+https://en.wikipedia.org/wiki/Green-Hartsfield_House, anchor: Green-Hartsfield House, depth: 5, parent: https://en.wikipedia.org/wiki/Green_House_(disambiguation)
+https://en.wikipedia.org/wiki/Bertha_M._and_Marie_A._Green_House, anchor: Bertha M. and Marie A. Green House, depth: 5, parent: https://en.wikipedia.org/wiki/Green_House_(disambiguation)
+https://en.wikipedia.org/wiki/Harry_A._and_Ada_Green_House, anchor: Harry A. and Ada Green House, depth: 5, parent: https://en.wikipedia.org/wiki/Green_House_(disambiguation)
+https://en.wikipedia.org/wiki/Green-Evans_House, anchor: Green-Evans House, depth: 5, parent: https://en.wikipedia.org/wiki/Green_House_(disambiguation)
+https://en.wikipedia.org/wiki/Sherwood_Green_House, anchor: Sherwood Green House, depth: 5, parent: https://en.wikipedia.org/wiki/Green_House_(disambiguation)
+https://en.wikipedia.org/wiki/Samuel_Green_House, anchor: Samuel Green House, depth: 5, parent: https://en.wikipedia.org/wiki/Green_House_(disambiguation)
+https://en.wikipedia.org/wiki/Albert_and_Letha_Green_House_and_Barn, anchor: Albert and Letha Green House and Barn, depth: 5, parent: https://en.wikipedia.org/wiki/Green_House_(disambiguation)
+https://en.wikipedia.org/wiki/August_G._and_Theresa_Green_House, anchor: August G. and Theresa Green House, depth: 5, parent: https://en.wikipedia.org/wiki/Green_House_(disambiguation)
+https://en.wikipedia.org/wiki/The_Green_House, anchor: The Green House, depth: 5, parent: https://en.wikipedia.org/wiki/Green_House_(disambiguation)
+https://en.wikipedia.org/wiki/Green_House_Project, anchor: Green House Project, depth: 5, parent: https://en.wikipedia.org/wiki/Green_House_(disambiguation)
+https://en.wikipedia.org/wiki/William_Green_House_(disambiguation), anchor: William Green House (disambiguation), depth: 5, parent: https://en.wikipedia.org/wiki/Green_House_(disambiguation)
+https://en.wikipedia.org/wiki/Green_House, anchor: Article, depth: 5, parent: https://en.wikipedia.org/wiki/Green_House_(disambiguation)
+https://en.wikipedia.org/wiki/Ernest_Edward_Greene_House, anchor: Ernest Edward Greene House, depth: 5, parent: https://en.wikipedia.org/wiki/Greene_House_(disambiguation)
+https://en.wikipedia.org/wiki/Greene-Marston_House, anchor: Greene-Marston House, depth: 5, parent: https://en.wikipedia.org/wiki/Greene_House_(disambiguation)
+https://en.wikipedia.org/wiki/Greene_Thomas_House, anchor: Greene Thomas House, depth: 5, parent: https://en.wikipedia.org/wiki/Greene_House_(disambiguation)
+https://en.wikipedia.org/wiki/Greene-Lewis_House, anchor: Greene-Lewis House, depth: 5, parent: https://en.wikipedia.org/wiki/Greene_House_(disambiguation)
+https://en.wikipedia.org/wiki/Benjamin_F._Greene_House, anchor: Benjamin F. Greene House, depth: 5, parent: https://en.wikipedia.org/wiki/Greene_House_(disambiguation)
+https://en.wikipedia.org/wiki/Nathanael_Greene_Homestead, anchor: Nathanael Greene Homestead, depth: 5, parent: https://en.wikipedia.org/wiki/Greene_House_(disambiguation)
+https://en.wikipedia.org/wiki/Christopher_Rhodes_Greene_House, anchor: Christopher Rhodes Greene House, depth: 5, parent: https://en.wikipedia.org/wiki/Greene_House_(disambiguation)
+https://en.wikipedia.org/wiki/Caleb_Greene_House, anchor: Caleb Greene House, depth: 5, parent: https://en.wikipedia.org/wiki/Greene_House_(disambiguation)
+https://en.wikipedia.org/wiki/Greene-Bowen_House, anchor: Greene-Bowen House, depth: 5, parent: https://en.wikipedia.org/wiki/Greene_House_(disambiguation)
+https://en.wikipedia.org/wiki/Greene-Durfee_House, anchor: Greene-Durfee House, depth: 5, parent: https://en.wikipedia.org/wiki/Greene_House_(disambiguation)
+https://en.wikipedia.org/wiki/Moses_Greene_House, anchor: Moses Greene House, depth: 5, parent: https://en.wikipedia.org/wiki/Greene_House_(disambiguation)
+https://en.wikipedia.org/wiki/Peter_Greene_House, anchor: Peter Greene House, depth: 5, parent: https://en.wikipedia.org/wiki/Greene_House_(disambiguation)
+https://en.wikipedia.org/wiki/Richard_Wickes_Greene_House, anchor: Richard Wickes Greene House, depth: 5, parent: https://en.wikipedia.org/wiki/Greene_House_(disambiguation)
+https://en.wikipedia.org/wiki/Nelson_H._Greene_House, anchor: Nelson H. Greene House, depth: 5, parent: https://en.wikipedia.org/wiki/Greene_House_(disambiguation)
+https://en.wikipedia.org/wiki/Thomas_A._Greene_Memorial_Museum, anchor: Thomas A. Greene Memorial Museum, depth: 5, parent: https://en.wikipedia.org/wiki/Greene_House_(disambiguation)
+https://en.wikipedia.org/wiki/Greene_House, anchor: Article, depth: 5, parent: https://en.wikipedia.org/wiki/Greene_House_(disambiguation)
+https://en.wikipedia.org/wiki/Green_Sahara, anchor: Green Sahara, depth: 5, parent: https://en.wikipedia.org/wiki/Seawater_greenhouse
+https://en.wikipedia.org/wiki/The_Green_Wall, anchor: The Green Wall, depth: 5, parent: https://en.wikipedia.org/wiki/Green_wall
+https://en.wikipedia.org/wiki/Environmentalism, anchor: green movement, depth: 5, parent: https://en.wikipedia.org/wiki/Green_PR
+https://en.wikipedia.org/wiki/Greenwash, anchor: Greenwash, depth: 5, parent: https://en.wikipedia.org/wiki/Green_PR
+https://en.wikipedia.org/wiki/Go_green, anchor: go green, depth: 5, parent: https://en.wikipedia.org/wiki/Green_company
+https://en.wikipedia.org/wiki/Regional_Greenhouse_Gas_Initiative, anchor: Regional Greenhouse Gas Initiative, depth: 5, parent: https://en.wikipedia.org/wiki/Green_bank
+https://en.wikipedia.org/wiki/UK_Green_Investment_Bank, anchor: UK Green Investment Bank, depth: 5, parent: https://en.wikipedia.org/wiki/Green_bank
+https://en.wikipedia.org/wiki/Coalition_for_Green_Capital, anchor: Coalition for Green Capital, depth: 5, parent: https://en.wikipedia.org/wiki/Green_bank
+https://en.wikipedia.org/wiki/List_of_green_political_parties, anchor: List of green political parties, depth: 5, parent: https://en.wikipedia.org/wiki/Green_party
+https://en.wikipedia.org/wiki/Green_Party_(disambiguation), anchor: Green Party (disambiguation), depth: 5, parent: https://en.wikipedia.org/wiki/Green_party
+https://en.wikipedia.org/wiki/Green_Party_(UK), anchor: Green Party, depth: 5, parent: https://en.wikipedia.org/wiki/Green_party
+https://en.wikipedia.org/wiki/German_Green_Party, anchor: German Green Party, depth: 5, parent: https://en.wikipedia.org/wiki/Green_party
+https://en.wikipedia.org/wiki/Vihre%C3%A4_Liitto, anchor: Finnish Green Party, depth: 5, parent: https://en.wikipedia.org/wiki/Green_party
+https://en.wikipedia.org/wiki/The_Greens_(France), anchor: Les Verts, depth: 5, parent: https://en.wikipedia.org/wiki/Green_party
+https://en.wikipedia.org/wiki/Green_Party_of_Alaska, anchor: Green Party of Alaska, depth: 5, parent: https://en.wikipedia.org/wiki/Green_party
+https://en.wikipedia.org/wiki/Blue-Green_alliance, anchor: Blue-Green alliance, depth: 5, parent: https://en.wikipedia.org/wiki/Green_party
+https://en.wikipedia.org/wiki/U.S._Greens, anchor: U.S. Greens, depth: 5, parent: https://en.wikipedia.org/wiki/Green_party
+https://en.wikipedia.org/wiki/Green_Party_of_New_Zealand, anchor: Green Party of New Zealand, depth: 5, parent: https://en.wikipedia.org/wiki/Green_party
+https://en.wikipedia.org/wiki/Papua_New_Guinea_Greens_Party, anchor: Papua New Guinea Greens Party, depth: 5, parent: https://en.wikipedia.org/wiki/Green_party
+https://en.wikipedia.org/wiki/Green_Party_of_Saudi_Arabia, anchor: Green Party of Saudi Arabia, depth: 5, parent: https://en.wikipedia.org/wiki/Green_party
+https://en.wikipedia.org/wiki/GreenLeft, anchor: GreenLeft, depth: 5, parent: https://en.wikipedia.org/wiki/Green_party
+https://en.wikipedia.org/wiki/Nordic_Green_Left_Alliance, anchor: Nordic Green Left Alliance, depth: 5, parent: https://en.wikipedia.org/wiki/Green_party
+https://en.wikipedia.org/wiki/Ecologists_Greens, anchor: Greece, depth: 5, parent: https://en.wikipedia.org/wiki/Green_party
+https://en.wikipedia.org/wiki/List_of_Green_party_leaders_in_Canada, anchor: List of Green party leaders in Canada, depth: 5, parent: https://en.wikipedia.org/wiki/Green_party
+https://en.wikipedia.org/wiki/Oxygen_Green_Party, anchor: Oxygen Green Party, depth: 5, parent: https://en.wikipedia.org/wiki/Green_party
+https://en.wikipedia.org/wiki/Green_Party_(Colombia), anchor: Colombian Green Party, depth: 5, parent: https://en.wikipedia.org/wiki/Green_party
+https://en.wikipedia.org/wiki/Green, anchor: Green, depth: 5, parent: https://en.wikipedia.org/wiki/Green_party
+https://en.wikipedia.org/wiki/Green_state, anchor: Green state, depth: 5, parent: https://en.wikipedia.org/wiki/Outline_of_green_politics
+https://en.wikipedia.org/wiki/Green_municipalism, anchor: Green municipalism, depth: 5, parent: https://en.wikipedia.org/wiki/Outline_of_green_politics
+https://en.wikipedia.org/wiki/European_Federation_of_Green_Parties/European_Free_Alliance, anchor: European Federation of Green Parties/European Free Alliance, depth: 5, parent: https://en.wikipedia.org/wiki/Outline_of_green_politics
+https://en.wikipedia.org/wiki/Austrian_Green_Party, anchor: Austrian Green Party, depth: 5, parent: https://en.wikipedia.org/wiki/Outline_of_green_politics
+https://en.wikipedia.org/wiki/Europe_%C3%89cologie%E2%80%93The_Greens, anchor: Les Verts, depth: 5, parent: https://en.wikipedia.org/wiki/Outline_of_green_politics
+https://en.wikipedia.org/wiki/Green_Party_faction_(Bundestag), anchor: Green Party faction (Bundestag), depth: 5, parent: https://en.wikipedia.org/wiki/Outline_of_green_politics
+https://en.wikipedia.org/wiki/Environment_Party_The_Greens_(Norway), anchor: Environment Party The Greens (Norway), depth: 5, parent: https://en.wikipedia.org/wiki/Outline_of_green_politics
+https://en.wikipedia.org/wiki/The_Greens_(Portugal), anchor: The Greens (Portugal), depth: 5, parent: https://en.wikipedia.org/wiki/Outline_of_green_politics
+https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland, anchor: Green Liberal Party of Switzerland, depth: 5, parent: https://en.wikipedia.org/wiki/Outline_of_green_politics
+https://en.wikipedia.org/wiki/Rainbow_and_Greens, anchor: Rainbow and Greens, depth: 5, parent: https://en.wikipedia.org/wiki/Outline_of_green_politics
+https://en.wikipedia.org/wiki/Federation_of_Green_Parties_of_the_Americas, anchor: Federation of Green Parties of the Americas, depth: 5, parent: https://en.wikipedia.org/wiki/Outline_of_green_politics
+https://en.wikipedia.org/wiki/Green_Ecological_Party_of_Mexico, anchor: Green Ecological Party of Mexico, depth: 5, parent: https://en.wikipedia.org/wiki/Outline_of_green_politics
+https://en.wikipedia.org/wiki/List_of_Green_politicians_who_have_held_office_in_Canada, anchor: List of Green politicians who have held office in Canada, depth: 5, parent: https://en.wikipedia.org/wiki/Outline_of_green_politics
+https://en.wikipedia.org/wiki/Greens/Green_Party_USA, anchor: Greens/Green Party USA, depth: 5, parent: https://en.wikipedia.org/wiki/Outline_of_green_politics
+https://en.wikipedia.org/wiki/The_Green_Party_of_Alaska, anchor: The Green Party of Alaska, depth: 5, parent: https://en.wikipedia.org/wiki/Outline_of_green_politics
+https://en.wikipedia.org/wiki/Australian_Greens_Party, anchor: Australian Greens Party, depth: 5, parent: https://en.wikipedia.org/wiki/Outline_of_green_politics
+https://en.wikipedia.org/wiki/Wild_Greens, anchor: Wild Greens, depth: 5, parent: https://en.wikipedia.org/wiki/Outline_of_green_politics
+https://en.wikipedia.org/wiki/Pan-Green_Coalition, anchor: Pan-Green Coalition, depth: 5, parent: https://en.wikipedia.org/wiki/Outline_of_green_politics
+https://en.wikipedia.org/wiki/European_United_Left%E2%80%93Nordic_Green_Left, anchor: European United Left–Nordic Green Left, depth: 5, parent: https://en.wikipedia.org/wiki/Outline_of_green_politics
+https://en.wikipedia.org/wiki/Gaian_Greens, anchor: Gaian Greens, depth: 5, parent: https://en.wikipedia.org/wiki/Outline_of_green_politics
+https://en.wikipedia.org/wiki/Green_International, anchor: Green International, depth: 5, parent: https://en.wikipedia.org/wiki/Outline_of_green_politics
+https://en.wikipedia.org/wiki/Viridian_design_movement, anchor: Viridian Greens, depth: 5, parent: https://en.wikipedia.org/wiki/Outline_of_green_politics
+https://en.wikipedia.org/wiki/List_of_green_parties, anchor: List of green parties, depth: 5, parent: https://en.wikipedia.org/wiki/Outline_of_green_politics
+https://en.wikipedia.org/wiki/Green_energy, anchor: green energy, depth: 5, parent: https://en.wikipedia.org/wiki/Bright_green_environmentalism
+https://en.wikipedia.org/wiki/Green_Anarchy, anchor: Green Anarchy, depth: 5, parent: https://en.wikipedia.org/wiki/Green_anarchism
+https://en.wikipedia.org/wiki/Green_Anarchist, anchor: Green Anarchist, depth: 5, parent: https://en.wikipedia.org/wiki/Green_anarchism
+https://en.wikipedia.org/wiki/Green_movement, anchor: Green, depth: 5, parent: https://en.wikipedia.org/wiki/Green_anarchism
+https://en.wikipedia.org/wiki/Green_Scare, anchor: Green Scare, depth: 5, parent: https://en.wikipedia.org/wiki/Green_anarchism
+https://en.wikipedia.org/wiki/Independent_Greens_of_Virginia, anchor: Independent Greens of Virginia, depth: 5, parent: https://en.wikipedia.org/wiki/Green_conservatism
+https://en.wikipedia.org/wiki/Green_Party_of_Hungary, anchor: Green Party of Hungary, depth: 5, parent: https://en.wikipedia.org/wiki/Green_conservatism
+https://en.wikipedia.org/wiki/Greens_Greens, anchor: Greens Greens, depth: 5, parent: https://en.wikipedia.org/wiki/Green_conservatism
+https://en.wikipedia.org/wiki/Green_Left_(disambiguation), anchor: Green Left, depth: 5, parent: https://en.wikipedia.org/wiki/Green_left
+https://en.wikipedia.org/wiki/Political_Party_of_Radicals, anchor: green, depth: 5, parent: https://en.wikipedia.org/wiki/Green_left
+https://en.wikipedia.org/wiki/Blue%E2%80%93green_alliance, anchor: blue–green alliances, depth: 5, parent: https://en.wikipedia.org/wiki/Green_left
+https://en.wikipedia.org/wiki/Civil_Will-Green_Party, anchor: Civil Will-Green Party, depth: 5, parent: https://en.wikipedia.org/wiki/Green_liberalism
+https://en.wikipedia.org/wiki/Greens_and_the_Left_Party_of_the_Future, anchor: Greens and the Left Party of the Future, depth: 5, parent: https://en.wikipedia.org/wiki/Green_liberalism
+https://en.wikipedia.org/wiki/Thomas_Hill_Green, anchor: Thomas Hill Green, depth: 5, parent: https://en.wikipedia.org/wiki/Green_liberalism
+https://en.wikipedia.org/wiki/Green_to_Gold_(book), anchor: Green to Gold, depth: 5, parent: https://en.wikipedia.org/wiki/Green_libertarianism
+https://en.wikipedia.org/wiki/The_Green_Movement_(Israel), anchor: The Green Movement (Israel), depth: 5, parent: https://en.wikipedia.org/wiki/Green_Zionism
+https://en.wikipedia.org/wiki/Taiwan_Friends_of_the_Global_Greens, anchor: Taiwan Friends of the Global Greens, depth: 5, parent: https://en.wikipedia.org/wiki/Asia_Pacific_Greens_Federation
+https://en.wikipedia.org/wiki/Green_Nepal_Party, anchor: Green Nepal Party, depth: 5, parent: https://en.wikipedia.org/wiki/Asia_Pacific_Greens_Federation
+https://en.wikipedia.org/wiki/Philippine_Greens, anchor: Philippine Greens, depth: 5, parent: https://en.wikipedia.org/wiki/Asia_Pacific_Greens_Federation
+https://en.wikipedia.org/wiki/Green_European_Foundation, anchor: Green European Foundation, depth: 5, parent: https://en.wikipedia.org/wiki/European_Green_Party
+https://en.wikipedia.org/wiki/Greens%E2%80%93European_Free_Alliance, anchor: Greens–European Free Alliance, depth: 5, parent: https://en.wikipedia.org/wiki/European_Green_Party
+https://en.wikipedia.org/wiki/The_Green_Group_in_the_European_Parliament, anchor: The Green Group in the European Parliament, depth: 5, parent: https://en.wikipedia.org/wiki/European_Green_Party
+https://en.wikipedia.org/wiki/Green_Group_in_the_European_Parliament, anchor: Green Group, depth: 5, parent: https://en.wikipedia.org/wiki/European_Green_Party
+https://en.wikipedia.org/wiki/Greens_(South_Tyrol), anchor: Greens, depth: 5, parent: https://en.wikipedia.org/wiki/European_Green_Party
+https://en.wikipedia.org/wiki/Belarusian_Party_%22The_Greens%22, anchor: Belarusian Party "The Greens", depth: 5, parent: https://en.wikipedia.org/wiki/European_Green_Party
+https://en.wikipedia.org/wiki/Green_Russia, anchor: Green Russia, depth: 5, parent: https://en.wikipedia.org/wiki/European_Green_Party
+https://en.wikipedia.org/wiki/Green_Alternative, anchor: Green Alternative, depth: 5, parent: https://en.wikipedia.org/wiki/European_Green_Party
+https://en.wikipedia.org/wiki/Green_Left_(Hungary), anchor: Zöld Baloldal, depth: 5, parent: https://en.wikipedia.org/wiki/European_Green_Party
+https://en.wikipedia.org/wiki/Green_Seniors, anchor: European Network of Green Seniors, depth: 5, parent: https://en.wikipedia.org/wiki/European_Green_Party
+https://en.wikipedia.org/wiki/Rainbow_Greens, anchor: Rainbow Greens, depth: 5, parent: https://en.wikipedia.org/wiki/European_Green_Party
+https://en.wikipedia.org/wiki/Green_Lists, anchor: Green Lists, depth: 5, parent: https://en.wikipedia.org/wiki/European_Green_Party
+https://en.wikipedia.org/wiki/Worldwide_Green_parties, anchor: Green parties, depth: 5, parent: https://en.wikipedia.org/wiki/Federation_of_Green_Parties_of_Africa
+https://en.wikipedia.org/wiki/Mazingira_Green_Party, anchor: Mazingira Green Party, depth: 5, parent: https://en.wikipedia.org/wiki/Federation_of_Green_Parties_of_Africa
+https://en.wikipedia.org/wiki/Union_of_Greens_for_the_Development_of_Burkina_Faso, anchor: Union of Greens for the Development of Burkina Faso, depth: 5, parent: https://en.wikipedia.org/wiki/Federation_of_Green_Parties_of_Africa
+https://en.wikipedia.org/wiki/Rally_of_Congolese_Ecologists_-_The_Greens, anchor: Rally of Congolese Ecologists - The Greens, depth: 5, parent: https://en.wikipedia.org/wiki/Federation_of_Green_Parties_of_Africa
+https://en.wikipedia.org/wiki/Green_Party_of_Egypt, anchor: Green Party of Egypt, depth: 5, parent: https://en.wikipedia.org/wiki/Federation_of_Green_Parties_of_Africa
+https://en.wikipedia.org/wiki/The_Greens_(Mauritius), anchor: The Greens, depth: 5, parent: https://en.wikipedia.org/wiki/Federation_of_Green_Parties_of_Africa
+https://en.wikipedia.org/wiki/Green_Party_of_Chile, anchor: Partido Ecologista, depth: 5, parent: https://en.wikipedia.org/wiki/Federation_of_the_Green_Parties_of_the_Americas
+https://en.wikipedia.org/wiki/Young_Greens_of_Albania, anchor: Rinia e Gjelbër e Shqipërisë, depth: 5, parent: https://en.wikipedia.org/wiki/Federation_of_Young_European_Greens
+https://en.wikipedia.org/wiki/Young_Green_(Flanders), anchor: Young Green, depth: 5, parent: https://en.wikipedia.org/wiki/Federation_of_Young_European_Greens
+https://en.wikipedia.org/wiki/Czech_Young_Greens, anchor: Mladí zelení, depth: 5, parent: https://en.wikipedia.org/wiki/Federation_of_Young_European_Greens
+https://en.wikipedia.org/wiki/Young_Greens_of_England_and_Wales, anchor: Young Greens of England and Wales, depth: 5, parent: https://en.wikipedia.org/wiki/Federation_of_Young_European_Greens
+https://en.wikipedia.org/wiki/Green_Youth_and_Students_League, anchor: Green Youth and Students League, depth: 5, parent: https://en.wikipedia.org/wiki/Federation_of_Young_European_Greens
+https://en.wikipedia.org/wiki/Young_Greens_(Ireland), anchor: Young Greens, depth: 5, parent: https://en.wikipedia.org/wiki/Federation_of_Young_European_Greens
+https://en.wikipedia.org/wiki/Scottish_Young_Greens, anchor: Young Greens, depth: 5, parent: https://en.wikipedia.org/wiki/Federation_of_Young_European_Greens
+https://en.wikipedia.org/wiki/Young_Greens_of_Greece, anchor: Νέοι Πράσινοι, depth: 5, parent: https://en.wikipedia.org/wiki/Federation_of_Young_European_Greens
+https://en.wikipedia.org/wiki/Green_Youth_(Sweden), anchor: Grön Ungdom, depth: 5, parent: https://en.wikipedia.org/wiki/Federation_of_Young_European_Greens
+https://en.wikipedia.org/wiki/Federation_of_Green_Youth_and_Students, anchor: Green Youth and Students League, depth: 5, parent: https://en.wikipedia.org/wiki/Federation_of_Young_European_Greens
+https://en.wikipedia.org/wiki/Green_Youth_(Germany), anchor: Grüne Jugend, depth: 5, parent: https://en.wikipedia.org/wiki/Federation_of_Young_European_Greens
+https://en.wikipedia.org/wiki/Young_Greens_of_Sweden, anchor: Grön Ungdom, depth: 5, parent: https://en.wikipedia.org/wiki/Federation_of_Young_European_Greens
+https://en.wikipedia.org/wiki/Green_Party_of_Vancouver, anchor: party, depth: 5, parent: https://en.wikipedia.org/wiki/Global_Greens
+https://en.wikipedia.org/wiki/Egyptian_Greens, anchor: Egyptian Greens, depth: 5, parent: https://en.wikipedia.org/wiki/Global_Greens
+https://en.wikipedia.org/wiki/Madagascar_Green_Party, anchor: Madagascar Green Party, depth: 5, parent: https://en.wikipedia.org/wiki/Global_Greens
+https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement, anchor: Cyprus Green Party, depth: 5, parent: https://en.wikipedia.org/wiki/Global_Greens
+https://en.wikipedia.org/wiki/Green_Party_(Georgia), anchor: Sakartvelo’s Mtsvaneta Partia/Green Party of Georgia, depth: 5, parent: https://en.wikipedia.org/wiki/Global_Greens
+https://en.wikipedia.org/wiki/Jenny_Jones_(Green_politician), anchor: one, depth: 5, parent: https://en.wikipedia.org/wiki/Global_Greens
+https://en.wikipedia.org/wiki/2009%E2%80%932010_Iranian_election_protests, anchor: Green Movement protests, depth: 5, parent: https://en.wikipedia.org/wiki/Iranian_Green_Movement
+https://en.wikipedia.org/wiki/The_Green_Path_of_Hope, anchor: The Green Path of Hope, depth: 5, parent: https://en.wikipedia.org/wiki/Iranian_Green_Movement
+https://en.wikipedia.org/wiki/The_Green_Scroll_Campaign, anchor: The Green Scroll Campaign, depth: 5, parent: https://en.wikipedia.org/wiki/Iranian_Green_Movement
+https://en.wikipedia.org/wiki/Young_Greens_of_Canada, anchor: Young Greens of Canada, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Canada
+https://en.wikipedia.org/wiki/History_of_the_Green_Party_of_Canada, anchor: History of the Green Party of Canada, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Canada
+https://en.wikipedia.org/wiki/Green_Party_of_Alberta_(2011%E2%80%93present), anchor: Alberta, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Canada
+https://en.wikipedia.org/wiki/Green_Party_of_Saskatchewan, anchor: Saskatchewan, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Canada
+https://en.wikipedia.org/wiki/Green_Party_of_Manitoba, anchor: Manitoba, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Canada
+https://en.wikipedia.org/wiki/Green_Party_of_Quebec, anchor: Quebec, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Canada
+https://en.wikipedia.org/wiki/Green_Party_of_New_Brunswick, anchor: New Brunswick, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Canada
+https://en.wikipedia.org/wiki/Green_Party_of_Nova_Scotia, anchor: Nova Scotia, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Canada
+https://en.wikipedia.org/wiki/Green_Party_of_Prince_Edward_Island, anchor: Prince Edward Island, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Canada
+https://en.wikipedia.org/wiki/Yukon_Green_Party, anchor: Yukon Green Party, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Canada
+https://en.wikipedia.org/wiki/Alberta_Greens, anchor: Alberta Greens, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Canada
+https://en.wikipedia.org/wiki/Green_Party_of_Alberta, anchor: Green Party of Alberta, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Canada
+https://en.wikipedia.org/wiki/Green_Party_of_Canada_leadership_elections, anchor: Green Party of Canada leadership elections, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Canada
+https://en.wikipedia.org/wiki/Burnaby_Municipal_Green_Party, anchor: Burnaby, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Canada
+https://en.wikipedia.org/wiki/Winnipeg_Green_Party, anchor: Winnipeg, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Canada
+https://en.wikipedia.org/wiki/Green_Party_of_Canada_leadership_election,_2006, anchor: 2006, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Canada
+https://en.wikipedia.org/wiki/Green_Party_of_Canada_candidates,_1984_Canadian_federal_election, anchor: 1984, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Canada
+https://en.wikipedia.org/wiki/Green_Party_of_Canada_candidates,_1988_Canadian_federal_election, anchor: 1988, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Canada
+https://en.wikipedia.org/wiki/Green_Party_of_Canada_candidates,_1993_Canadian_federal_election, anchor: 1993, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Canada
+https://en.wikipedia.org/wiki/Green_Party_of_Canada_candidates,_1997_Canadian_federal_election, anchor: 1997, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Canada
+https://en.wikipedia.org/wiki/Green_Party_of_Canada_candidates,_2000_Canadian_federal_election, anchor: 2000, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Canada
+https://en.wikipedia.org/wiki/Green_Party_of_Canada_candidates,_2004_Canadian_federal_election, anchor: 2004, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Canada
+https://en.wikipedia.org/wiki/Green_Party_of_Canada_candidates,_2006_Canadian_federal_election, anchor: 2006, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Canada
+https://en.wikipedia.org/wiki/Green_Party_of_Canada_candidates,_2008_Canadian_federal_election, anchor: 2008, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Canada
+https://en.wikipedia.org/wiki/Green_Party_of_Canada_candidates,_2011_Canadian_federal_election, anchor: 2011, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Canada
+https://en.wikipedia.org/wiki/Green_Party_of_Canada_candidates,_2015_Canadian_federal_election, anchor: 2015, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Canada
+https://en.wikipedia.org/wiki/Green_Party_of_Alberta_leadership_election,_2018, anchor: Alberta 2018, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Canada
+https://en.wikipedia.org/wiki/Green_Party_of_Ontario_leadership_election,_2009, anchor: Ontario 2009, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Canada
+https://en.wikipedia.org/wiki/Green_Party_of_Prince_Edward_Island_leadership_election,_2012, anchor: Prince Edward Island 2012, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Canada
+https://en.wikipedia.org/wiki/Green_Party_candidates,_1999_Ontario_provincial_election, anchor: candidates, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Ontario
+https://en.wikipedia.org/wiki/Green_Party_candidates,_2003_Ontario_provincial_election, anchor: candidates, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Ontario
+https://en.wikipedia.org/wiki/Green_Party_candidates,_2007_Ontario_provincial_election, anchor: candidates, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Ontario
+https://en.wikipedia.org/wiki/Green_tax_shifting, anchor: green tax shifting, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Ontario
+https://en.wikipedia.org/wiki/Green_Party_of_Ontario_leadership_elections, anchor: 1993, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Ontario
+https://en.wikipedia.org/wiki/Green_Party_of_Ontario_leadership_election,_2001, anchor: 2001, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Ontario
+https://en.wikipedia.org/wiki/List_of_Green_Party_of_Ontario_candidates, anchor: List of Green Party of Ontario candidates, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Ontario
+https://en.wikipedia.org/wiki/Ontario_Greens_Shadow_Cabinet, anchor: Ontario Greens Shadow Cabinet, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Ontario
+https://en.wikipedia.org/wiki/The_People_%26_Planet_Green_League, anchor: The People & Planet Green League, depth: 5, parent: https://en.wikipedia.org/wiki/Green_League
+https://en.wikipedia.org/wiki/The_Greens%E2%80%93European_Free_Alliance, anchor: The Greens–European Free Alliance, depth: 5, parent: https://en.wikipedia.org/wiki/Green_League
+https://en.wikipedia.org/wiki/Green_League_leadership_election,_2017, anchor: leadership election, depth: 5, parent: https://en.wikipedia.org/wiki/Green_League
+https://en.wikipedia.org/wiki/Red-Green_Alliance_(Denmark), anchor: Red-Green Alliance (Denmark), depth: 5, parent: https://en.wikipedia.org/wiki/Red-Green_Alliance
+https://en.wikipedia.org/wiki/Red%E2%80%93red%E2%80%93green_coalition, anchor: Red–red–green coalition, depth: 5, parent: https://en.wikipedia.org/wiki/Red-Green_Alliance
+https://en.wikipedia.org/wiki/Red%E2%80%93green_coalition_(Norway), anchor: Red-Green Coalition, depth: 5, parent: https://en.wikipedia.org/wiki/Red-Green_Alliance
+https://en.wikipedia.org/wiki/Red%E2%80%93Green_Alliance_(Denmark), anchor: Unity List – The Red–Greens, depth: 5, parent: https://en.wikipedia.org/wiki/Red-Green_Alliance
+https://en.wikipedia.org/wiki/Red-Greens_(Sweden), anchor: Red-Greens, depth: 5, parent: https://en.wikipedia.org/wiki/Red-Green_Alliance
+https://en.wikipedia.org/wiki/Red-green_political_alliance, anchor: red-green political alliance, depth: 5, parent: https://en.wikipedia.org/wiki/Red-Green_Alliance
+https://en.wikipedia.org/wiki/Red%E2%80%93green%E2%80%93brown_alliance, anchor: Red–green–brown alliance, depth: 5, parent: https://en.wikipedia.org/wiki/Red-Green_Alliance
+https://en.wikipedia.org/wiki/Green_socialist_(disambiguation), anchor: Green socialist (disambiguation), depth: 5, parent: https://en.wikipedia.org/wiki/Red-Green_Alliance
+https://en.wikipedia.org/wiki/Red%E2%80%93green_alliance, anchor: Article, depth: 5, parent: https://en.wikipedia.org/wiki/Red-Green_Alliance
+https://en.wikipedia.org/wiki/Green_conservative, anchor: green conservative, depth: 5, parent: https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
+https://en.wikipedia.org/wiki/History_of_the_Green_Party_of_the_United_States, anchor: Ten Key Values, depth: 5, parent: https://en.wikipedia.org/wiki/Global_Greens_Charter
+https://en.wikipedia.org/wiki/Green_accounting, anchor: Green accounting, depth: 5, parent: https://en.wikipedia.org/wiki/Green_economics
+https://en.wikipedia.org/wiki/Green_trading, anchor: Green trading, depth: 5, parent: https://en.wikipedia.org/wiki/Green_economics
+https://en.wikipedia.org/wiki/Green_job, anchor: Green job, depth: 5, parent: https://en.wikipedia.org/wiki/Green_economics
+https://en.wikipedia.org/wiki/Green_paradox, anchor: Green paradox, depth: 5, parent: https://en.wikipedia.org/wiki/Green_economics
+https://en.wikipedia.org/wiki/Green_parties, anchor: Green parties, depth: 5, parent: https://en.wikipedia.org/wiki/Green_economics
+https://en.wikipedia.org/wiki/Green_growth, anchor: Green growth, depth: 5, parent: https://en.wikipedia.org/wiki/Green_economics
+https://en.wikipedia.org/wiki/List_of_Green_topics, anchor: List of Green topics, depth: 5, parent: https://en.wikipedia.org/wiki/Green_economics
+https://en.wikipedia.org/wiki/International_Journal_of_Green_Economics, anchor: International Journal of Green Economics, depth: 5, parent: https://en.wikipedia.org/wiki/Green_economics
+https://en.wikipedia.org/wiki/Green_economy, anchor: Article, depth: 5, parent: https://en.wikipedia.org/wiki/Green_economics
+https://en.wikipedia.org/wiki/Green_National_Committee, anchor: Green National Committee, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Association_of_State_Green_Parties, anchor: Association of State Green Parties, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Green_Senatorial_Campaign_Committee, anchor: Green Senatorial Campaign Committee, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/List_of_state_Green_Parties_in_the_United_States, anchor: List of state Green Parties in the United States, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Vermont_Green_Party, anchor: Vermont, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/List_of_Green_politicians_who_have_held_office_in_the_United_States, anchor: List of Green politicians who have held office in the United States, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Green_National_Convention, anchor: Green National Convention, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/2000_Green_National_Convention, anchor: 2000, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/2004_Green_National_Convention, anchor: 2004, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/2008_Green_National_Convention, anchor: 2008, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/2012_Green_National_Convention, anchor: 2012, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/2016_Green_National_Convention, anchor: 2016, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Green_Party_presidential_primaries,_2016, anchor: Green Party presidential primaries, 2016, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/List_of_United_States_Green_Party_presidential_tickets, anchor: Presidential tickets, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Green_Party_presidential_primaries,_2008, anchor: 2008, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Green_Party_presidential_primaries,_2012, anchor: 2012, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Alabama_Green_Party, anchor: Alabama, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Arizona_Green_Party, anchor: Arizona, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Green_Party_of_Arkansas, anchor: Arkansas, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Green_Party_of_California, anchor: California, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Green_Party_of_Colorado, anchor: Colorado, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Connecticut_Green_Party, anchor: Connecticut, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Green_Party_of_Delaware, anchor: Delaware, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/D.C._Statehood_Green_Party, anchor: District of Columbia, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Green_Party_of_Florida, anchor: Florida, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Georgia_Green_Party, anchor: Georgia, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Green_Party_of_Hawaii, anchor: Hawaii, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Idaho_Green_Party, anchor: Idaho, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Illinois_Green_Party, anchor: Illinois, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Indiana_Green_Party, anchor: Indiana, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Iowa_Green_Party, anchor: Iowa, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Kansas_Green_Party, anchor: Kansas, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Kentucky_Green_Party, anchor: Kentucky, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Green_Party_of_Louisiana, anchor: Louisiana, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Maine_Green_Independent_Party, anchor: Maine, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Maryland_Green_Party, anchor: Maryland, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Green-Rainbow_Party, anchor: Massachusetts, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Green_Party_of_Michigan, anchor: Michigan, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Green_Party_of_Minnesota, anchor: Minnesota, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Green_Party_of_Mississippi, anchor: Mississippi, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Green_Party_of_Missouri, anchor: Missouri, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Montana_Green_Party, anchor: Montana, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Nebraska_Green_Party, anchor: Nebraska, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Green_Party_of_Nevada, anchor: Nevada, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Green_Party_of_New_Hampshire, anchor: New Hampshire, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Green_Party_of_New_Jersey, anchor: New Jersey, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Green_Party_of_New_Mexico, anchor: New Mexico, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Green_Party_of_New_York, anchor: New York, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/North_Carolina_Green_Party, anchor: North Carolina, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Green_Party_of_North_Dakota, anchor: North Dakota, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Green_Party_of_Ohio, anchor: Ohio, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Green_Party_of_Oklahoma, anchor: Oklahoma, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Pacific_Green_Party, anchor: Oregon, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Green_Party_of_Pennsylvania, anchor: Pennsylvania, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Green_Party_of_Rhode_Island, anchor: Rhode Island, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/South_Carolina_Green_Party, anchor: South Carolina, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/South_Dakota_Green_Party, anchor: South Dakota, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Green_Party_of_Tennessee, anchor: Tennessee, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Green_Party_of_Texas, anchor: Texas, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Green_Party_of_Utah, anchor: Utah, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Green_Party_of_Virginia, anchor: Virginia, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Green_Party_of_Washington_State, anchor: Washington, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Wisconsin_Green_Party, anchor: Wisconsin, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Green_Party_of_Wyoming, anchor: Wyoming, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Greenback_Party, anchor: Greenback, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(United_States)
+https://en.wikipedia.org/wiki/Mary_White_(Green_Party_politician), anchor: Mary White, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(Ireland)
+https://en.wikipedia.org/wiki/Australian_Young_Greens, anchor: Young Greens, depth: 5, parent: https://en.wikipedia.org/wiki/Australian_Greens
+https://en.wikipedia.org/wiki/Tasmanian_Greens, anchor: Tasmanian Greens, depth: 5, parent: https://en.wikipedia.org/wiki/Australian_Greens
+https://en.wikipedia.org/wiki/Hall_Greenland, anchor: Hall Greenland, depth: 5, parent: https://en.wikipedia.org/wiki/Australian_Greens
+https://en.wikipedia.org/wiki/Greens_New_South_Wales, anchor: The Greens NSW, depth: 5, parent: https://en.wikipedia.org/wiki/Australian_Greens
+https://en.wikipedia.org/wiki/Greens_Western_Australia, anchor: The Greens (WA), depth: 5, parent: https://en.wikipedia.org/wiki/Australian_Greens
+https://en.wikipedia.org/wiki/2004_Australian_Greens_candidates, anchor: candidates, depth: 5, parent: https://en.wikipedia.org/wiki/Australian_Greens
+https://en.wikipedia.org/wiki/Greens_NSW, anchor: Greens NSW, depth: 5, parent: https://en.wikipedia.org/wiki/Australian_Greens
+https://en.wikipedia.org/wiki/Queensland_Greens, anchor: Queensland Greens, depth: 5, parent: https://en.wikipedia.org/wiki/Australian_Greens
+https://en.wikipedia.org/wiki/ACT_Greens, anchor: ACT Greens, depth: 5, parent: https://en.wikipedia.org/wiki/Australian_Greens
+https://en.wikipedia.org/wiki/Australian_Greens_Victoria, anchor: Australian Greens Victoria, depth: 5, parent: https://en.wikipedia.org/wiki/Australian_Greens
+https://en.wikipedia.org/wiki/Greens_South_Australia, anchor: Greens South Australia, depth: 5, parent: https://en.wikipedia.org/wiki/Australian_Greens
+https://en.wikipedia.org/wiki/Northern_Territory_Greens, anchor: Northern Territory Greens, depth: 5, parent: https://en.wikipedia.org/wiki/Australian_Greens
+https://en.wikipedia.org/wiki/List_of_Australian_Greens_parliamentarians_by_length_of_term, anchor: List of Australian Greens parliamentarians by length of term, depth: 5, parent: https://en.wikipedia.org/wiki/Australian_Greens
+https://en.wikipedia.org/wiki/Victorian_Greens, anchor: Victorian Greens, depth: 5, parent: https://en.wikipedia.org/wiki/Australian_Greens
+https://en.wikipedia.org/wiki/Antony_Green, anchor: Green, Antony, depth: 5, parent: https://en.wikipedia.org/wiki/Australian_Greens
+https://en.wikipedia.org/wiki/List_of_Australian_Greens_parliamentarians, anchor: List of parliamentarians, depth: 5, parent: https://en.wikipedia.org/wiki/Australian_Greens
+https://en.wikipedia.org/wiki/Australian_Greens_leadership_elections, anchor: Australian Greens leadership elections, depth: 5, parent: https://en.wikipedia.org/wiki/Australian_Greens
+https://en.wikipedia.org/wiki/Australian_Greens_Front_Bench, anchor: Australian Greens Front Bench, depth: 5, parent: https://en.wikipedia.org/wiki/Australian_Greens
+https://en.wikipedia.org/wiki/Green_movement_in_South_Africa, anchor: Green movement in South Africa, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_South_Africa
+https://en.wikipedia.org/wiki/Green_political_party, anchor: Green political party, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Initiative
+https://en.wikipedia.org/wiki/The_Greens_(Chile), anchor: The Greens, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Ecologist_Party_(Chile)
+https://en.wikipedia.org/wiki/Social_Green_Regionalist_Federation, anchor: Social Green Regionalist Federation, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Ecologist_Party_(Chile)
+https://en.wikipedia.org/wiki/Green_Socialist_Party, anchor: Article, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Democratic_Unity
+https://en.wikipedia.org/wiki/Ecological_Green_Party_of_Mexico, anchor: PVEM, depth: 5, parent: https://en.wikipedia.org/wiki/Ecologist_Green_Party_of_Mexico
+https://en.wikipedia.org/wiki/Green_Party_(Iran), anchor: Green Party (Iran), depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Iran
+https://en.wikipedia.org/wiki/Natural_environment, anchor: green spaces, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Lebanon
+https://en.wikipedia.org/wiki/Young_Greens_of_Aotearoa_New_Zealand, anchor: Young Greens of Aotearoa New Zealand, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Aotearoa_New_Zealand
+https://en.wikipedia.org/wiki/Young_Greens_(New_Zealand), anchor: Young Greens, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Aotearoa_New_Zealand
+https://en.wikipedia.org/wiki/List_of_Green_Party_of_Aotearoa_New_Zealand_MPs, anchor: Former parliamentarians, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Aotearoa_New_Zealand
+https://en.wikipedia.org/wiki/Green_Party_of_Aotearoa_New_Zealand_male_co-leadership_election,_2015, anchor: 2015, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Aotearoa_New_Zealand
+https://en.wikipedia.org/wiki/Green_Party_of_Aotearoa_New_Zealand_female_co-leadership_election,_2018, anchor: 2018, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Aotearoa_New_Zealand
+https://en.wikipedia.org/wiki/Green_Party_of_Aotearoa_New_Zealand_Front_Bench, anchor: Front Bench, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_Aotearoa_New_Zealand
+https://en.wikipedia.org/wiki/Vanimo-Green_River_District, anchor: Vanimo-Green River, depth: 5, parent: https://en.wikipedia.org/wiki/Papua_New_Guinea_Greens
+https://en.wikipedia.org/wiki/Korea_Greens, anchor: Korea Greens, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_Korea
+https://en.wikipedia.org/wiki/Spokesperson_of_the_Austrian_Green_Party, anchor: Spokesman, depth: 5, parent: https://en.wikipedia.org/wiki/The_Greens_%E2%80%93_The_Green_Alternative
+https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)_leadership_election,_2016, anchor: 2016, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
+https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)_leadership_election,_2018, anchor: 2018, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
+https://en.wikipedia.org/wiki/Greenland, anchor: Greenland, depth: 5, parent: https://en.wikipedia.org/wiki/The_Greens_(Denmark)
+https://en.wikipedia.org/wiki/Judiciary_of_Greenland, anchor: Courts of Greenland, depth: 5, parent: https://en.wikipedia.org/wiki/The_Greens_(Denmark)
+https://en.wikipedia.org/wiki/Administrative_divisions_of_Greenland, anchor: Subdivisions of Greenland, depth: 5, parent: https://en.wikipedia.org/wiki/The_Greens_(Denmark)
+https://en.wikipedia.org/wiki/Greenland_and_the_European_Union, anchor: Greenland and the EU, depth: 5, parent: https://en.wikipedia.org/wiki/The_Greens_(Denmark)
+https://en.wikipedia.org/wiki/Politics_of_Greenland, anchor: Politics of Greenland, depth: 5, parent: https://en.wikipedia.org/wiki/The_Greens_(Denmark)
+https://en.wikipedia.org/wiki/European_Greens%E2%80%93European_Free_Alliance, anchor: European Greens–European Free Alliance, depth: 5, parent: https://en.wikipedia.org/wiki/The_Greens_(Denmark)
+https://en.wikipedia.org/wiki/List_of_political_parties_in_Greenland, anchor: Greenland, depth: 5, parent: https://en.wikipedia.org/wiki/The_Greens_(Denmark)
+https://en.wikipedia.org/wiki/European_Greens-European_Free_Alliance, anchor: European Greens-European Free Alliance, depth: 5, parent: https://en.wikipedia.org/wiki/Ecologist_Greens
+https://en.wikipedia.org/wiki/Light_green, anchor: Light green, depth: 5, parent: https://en.wikipedia.org/wiki/Ecologist_Greens
+https://en.wikipedia.org/wiki/European_Green, anchor: European Green, depth: 5, parent: https://en.wikipedia.org/wiki/Ecologist_Greens
+https://en.wikipedia.org/wiki/Green_Italy_%E2%80%93_European_Greens, anchor: Green Italy – European Greens, depth: 5, parent: https://en.wikipedia.org/wiki/Federation_of_the_Greens
+https://en.wikipedia.org/wiki/Alternative_Greens, anchor: Alternative Greens, depth: 5, parent: https://en.wikipedia.org/wiki/Federation_of_the_Greens
+https://en.wikipedia.org/wiki/Green_Alternative_Party, anchor: Green Alternative Party, depth: 5, parent: https://en.wikipedia.org/wiki/The_Greens_(Luxembourg)
+https://en.wikipedia.org/wiki/Green_and_Liberal_Alliance, anchor: Green and Liberal Alliance, depth: 5, parent: https://en.wikipedia.org/wiki/The_Greens_(Luxembourg)
+https://en.wikipedia.org/wiki/Ecologist_Party_of_Moldova_%22Green_Alliance%22, anchor: Ecologist Party of Moldova "Green Alliance", depth: 5, parent: https://en.wikipedia.org/wiki/Ecologist_Green_Party_(Moldova)
+https://en.wikipedia.org/wiki/German_Greens, anchor: German Greens, depth: 5, parent: https://en.wikipedia.org/wiki/The_Greens_(Netherlands)
+https://en.wikipedia.org/wiki/Green_Progressive_Accord, anchor: Green Progressive Accord, depth: 5, parent: https://en.wikipedia.org/wiki/The_Greens_(Netherlands)
+https://en.wikipedia.org/wiki/Young_Greens_of_Norway, anchor: Young Greens of Norway, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(Norway)
+https://en.wikipedia.org/wiki/Alliance_of_Greens_%E2%80%93_The_People%27s_Party, anchor: Alliance of Greens – The People's Party, depth: 5, parent: https://en.wikipedia.org/wiki/Civil_United_Green_Alternative
+https://en.wikipedia.org/wiki/Green_Alliance_(Russia), anchor: Green Alliance, depth: 5, parent: https://en.wikipedia.org/wiki/Russian_Ecological_Party_%22The_Greens%22
+https://en.wikipedia.org/wiki/Slovak_Green_Party, anchor: Slovak Green Party, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(Slovakia)
+https://en.wikipedia.org/wiki/Andrej_%C4%8Cu%C5%A1_and_Greens_of_Slovenia, anchor: Article, depth: 5, parent: https://en.wikipedia.org/wiki/Greens_of_Slovenia
+https://en.wikipedia.org/wiki/Green_List_(Spain), anchor: Green List, depth: 5, parent: https://en.wikipedia.org/wiki/Confederation_of_the_Greens
+https://en.wikipedia.org/wiki/Green_Party_in_the_Church_of_Sweden, anchor: Miljöpartister i Svenska kyrkan, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_(Sweden)
+https://en.wikipedia.org/wiki/Greens_Party_(Turkey), anchor: Greens Party, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Left_Party
+https://en.wikipedia.org/wiki/Greens_(Ukraine), anchor: Greens (Ukraine), depth: 5, parent: https://en.wikipedia.org/wiki/Party_of_Greens_of_Ukraine
+https://en.wikipedia.org/wiki/Green_2000, anchor: Green 2000, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_England_and_Wales
+https://en.wikipedia.org/wiki/History_of_the_Green_Party_of_England_and_Wales, anchor: History of the Green Party of England and Wales, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_England_and_Wales
+https://en.wikipedia.org/wiki/Green_Party_of_England_and_Wales_leadership_election,_2012, anchor: leadership election took place, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_England_and_Wales
+https://en.wikipedia.org/wiki/Green_Party_of_England_and_Wales_leadership_election,_2016, anchor: leadership election, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_England_and_Wales
+https://en.wikipedia.org/wiki/Green_Party_of_England_and_Wales_leadership_election,_2018, anchor: Green Party of England and Wales leadership election, 2018, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_England_and_Wales
+https://en.wikipedia.org/wiki/Green_Party_of_England_and_Wales_election_results, anchor: Green Party of England and Wales election results, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_England_and_Wales
+https://en.wikipedia.org/wiki/Leader_of_the_Green_Party_of_England_and_Wales, anchor: Leadership, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_England_and_Wales
+https://en.wikipedia.org/wiki/Green_Party_of_England_and_Wales_leadership_election,_2008, anchor: 2008, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_England_and_Wales
+https://en.wikipedia.org/wiki/Green_Party_of_England_and_Wales_leadership_election,_2010, anchor: 2010, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_England_and_Wales
+https://en.wikipedia.org/wiki/Green_Party_of_England_and_Wales_leadership_election,_2014, anchor: 2014, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_England_and_Wales
+https://en.wikipedia.org/wiki/Richard_Lawson_(Green_politician), anchor: Richard Lawson, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_England_and_Wales
+https://en.wikipedia.org/wiki/David_Taylor_(Green_politician), anchor: David Taylor, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_England_and_Wales
+https://en.wikipedia.org/wiki/Green_Left_(UK), anchor: Green Left, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_England_and_Wales
+https://en.wikipedia.org/wiki/London_Green_Party, anchor: Green (E&W), depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_of_England_and_Wales
+https://en.wikipedia.org/wiki/Green_New_Deal, anchor: Green New Deal, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_in_Northern_Ireland
+https://en.wikipedia.org/wiki/Green_Party_(Ireland)_Front_Bench, anchor: Green Party Front Bench, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Party_in_Northern_Ireland
+https://en.wikipedia.org/wiki/Independent_Green_Voice, anchor: Independent Green Voice, depth: 5, parent: https://en.wikipedia.org/wiki/Scottish_Green_Party
+https://en.wikipedia.org/wiki/Linda_Greenhouse, anchor: Linda Greenhouse, depth: 5, parent: https://en.wikipedia.org/wiki/Greenhouse_effect_(United_States_Supreme_Court)
+https://en.wikipedia.org/wiki/Bernard_Greenhouse, anchor: Bernard Greenhouse, depth: 5, parent: https://en.wikipedia.org/wiki/Greenhouse_(surname)
+https://en.wikipedia.org/wiki/Bunny_Greenhouse, anchor: Bunny Greenhouse, depth: 5, parent: https://en.wikipedia.org/wiki/Greenhouse_(surname)
+https://en.wikipedia.org/wiki/Isaiah_Greenhouse, anchor: Isaiah Greenhouse, depth: 5, parent: https://en.wikipedia.org/wiki/Greenhouse_(surname)
+https://en.wikipedia.org/wiki/Martha_Greenhouse, anchor: Martha Greenhouse, depth: 5, parent: https://en.wikipedia.org/wiki/Greenhouse_(surname)
+https://en.wikipedia.org/wiki/Steven_Greenhouse, anchor: Steven Greenhouse, depth: 5, parent: https://en.wikipedia.org/wiki/Greenhouse_(surname)
+https://en.wikipedia.org/wiki/Roger_Greenaway, anchor: Roger Greenaway, depth: 5, parent: https://en.wikipedia.org/wiki/Greenhouse_(Brotherhood_of_Man_album)
+https://en.wikipedia.org/wiki/Greenhouse_Item, anchor: Item, depth: 5, parent: https://en.wikipedia.org/wiki/Operation_Greenhouse
+https://en.wikipedia.org/wiki/Greenhouse_(car), anchor: Article, depth: 5, parent: https://en.wikipedia.org/wiki/Greenhouse_(automotive)
+https://en.wikipedia.org/wiki/Greenhouse_Academy, anchor: Greenhouse Academy, depth: 5, parent: https://en.wikipedia.org/wiki/The_Greenhouse_(TV_series)
+https://en.wikipedia.org/wiki/Greenbrook,_New_Jersey, anchor: Greenbrook, New Jersey, depth: 5, parent: https://en.wikipedia.org/wiki/Greenbelt_Historic_District
+https://en.wikipedia.org/wiki/Greenbrier_State_Park, anchor: Greenbrier, depth: 5, parent: https://en.wikipedia.org/wiki/Greenbelt_Park
+https://en.wikipedia.org/wiki/Greenwell_State_Park, anchor: Greenwell, depth: 5, parent: https://en.wikipedia.org/wiki/Greenbelt_Park
+https://en.wikipedia.org/wiki/Green_Ridge_State_Forest, anchor: Green Ridge, depth: 5, parent: https://en.wikipedia.org/wiki/Greenbelt_Park
+https://en.wikipedia.org/wiki/Jonas_Green_State_Park, anchor: Jonas Green, depth: 5, parent: https://en.wikipedia.org/wiki/Greenbelt_Park
+https://en.wikipedia.org/wiki/Greenbelt%E2%80%93BWI_Airport_Line, anchor: B30 (BWI Airport), depth: 5, parent: https://en.wikipedia.org/wiki/Greenbelt_station
+https://en.wikipedia.org/wiki/Greensboro_station_(Washington_Metro), anchor: Greensboro, depth: 5, parent: https://en.wikipedia.org/wiki/Greenbelt_station
+https://en.wikipedia.org/wiki/Greenbelt_Cooperative_Publishing_Assn.,_Inc._v._Bresler, anchor: Greenbelt Cooperative Publishing Assn., Inc. v. Bresler, depth: 5, parent: https://en.wikipedia.org/wiki/Greenbelt_News_Review
+https://en.wikipedia.org/wiki/Greenbelt,_MD, anchor: Greenbelt, depth: 5, parent: https://en.wikipedia.org/wiki/Greenbelt_Police_Department
+https://en.wikipedia.org/wiki/Greenlee_Field, anchor: Greenlee Field, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Belt_(Pittsburgh)
+https://en.wikipedia.org/wiki/Mellon_Green, anchor: Mellon Green, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Belt_(Pittsburgh)
+https://en.wikipedia.org/wiki/Greensburg_Jeannette_Regional_Airport, anchor: Greensburg Jeannette, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Belt_(Pittsburgh)
+https://en.wikipedia.org/wiki/Greengate_Centre, anchor: Greengate Mall, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Belt_(Pittsburgh)
+https://en.wikipedia.org/wiki/The_Residences_at_Greenbelt, anchor: The Residences at Greenbelt, depth: 5, parent: https://en.wikipedia.org/wiki/Greenbelt_(Ayala_Center)
+https://en.wikipedia.org/wiki/Greenhills_Shopping_Center, anchor: Greenhills Shopping Center, depth: 5, parent: https://en.wikipedia.org/wiki/Greenbelt_(Ayala_Center)
+https://en.wikipedia.org/wiki/Gawain_and_the_Green_Knight_(film), anchor: Gawain and the Green Knight (film), depth: 5, parent: https://en.wikipedia.org/wiki/Sir_Gawain_and_the_Green_Knight
+https://en.wikipedia.org/wiki/Green_Knight, anchor: Green Knight, depth: 5, parent: https://en.wikipedia.org/wiki/Sir_Gawain_and_the_Green_Knight
+https://en.wikipedia.org/wiki/Green_Chapel, anchor: Green Chapel, depth: 5, parent: https://en.wikipedia.org/wiki/Sir_Gawain_and_the_Green_Knight
+https://en.wikipedia.org/wiki/The_Greene_Knight, anchor: The Greene Knight, depth: 5, parent: https://en.wikipedia.org/wiki/Sir_Gawain_and_the_Green_Knight
+https://en.wikipedia.org/wiki/Jack_in_the_green, anchor: Jack in the green, depth: 5, parent: https://en.wikipedia.org/wiki/Sir_Gawain_and_the_Green_Knight
+https://en.wikipedia.org/wiki/Gawain_and_the_Green_Knight_(1973_film), anchor: Gawain and the Green Knight, depth: 5, parent: https://en.wikipedia.org/wiki/Sir_Gawain_and_the_Green_Knight
+https://en.wikipedia.org/wiki/Oxford_Green_Belt_Way, anchor: Oxford Green Belt Way, depth: 5, parent: https://en.wikipedia.org/wiki/Oxford_Green_Belt
+https://en.wikipedia.org/wiki/Scholar_Green, anchor: Scholar Green, depth: 5, parent: https://en.wikipedia.org/wiki/Stoke-on-Trent_Green_Belt
+https://en.wikipedia.org/wiki/Green_Lane_(disambiguation), anchor: Green Lane (disambiguation), depth: 5, parent: https://en.wikipedia.org/wiki/Green_lane_(road)
+https://en.wikipedia.org/wiki/Andrew_Haswell_Green, anchor: Andrew Haswell Green, depth: 5, parent: https://en.wikipedia.org/wiki/East_River_Greenway
+https://en.wikipedia.org/wiki/Inspiration_Point_-_Hudson_River_Greenway, anchor: Inspiration Point, depth: 5, parent: https://en.wikipedia.org/wiki/Manhattan_Waterfront_Greenway
+https://en.wikipedia.org/wiki/2017_New_York_City_truck_attack, anchor: attack on the Greenway on October 31, 2017, depth: 5, parent: https://en.wikipedia.org/wiki/Manhattan_Waterfront_Greenway
+https://en.wikipedia.org/wiki/Greene_River_Trail, anchor: Greene River, depth: 5, parent: https://en.wikipedia.org/wiki/Capital_Area_Greenbelt
+https://en.wikipedia.org/wiki/Northwest_River_Trail_(Charles_Greenway), anchor: Northwest River, depth: 5, parent: https://en.wikipedia.org/wiki/Capital_Area_Greenbelt
+https://en.wikipedia.org/wiki/South_Tar_River_Greenway, anchor: South Tar River, depth: 5, parent: https://en.wikipedia.org/wiki/Capital_Area_Greenway
+https://en.wikipedia.org/wiki/Farmington_Canal_Heritage_Trail, anchor: Farmington Canal Greenway, depth: 5, parent: https://en.wikipedia.org/wiki/East_Coast_Greenway
+https://en.wikipedia.org/wiki/Blackstone_River_Greenway, anchor: Blackstone River Bikeway, depth: 5, parent: https://en.wikipedia.org/wiki/East_Coast_Greenway
+https://en.wikipedia.org/wiki/Hudson_River_Greenway, anchor: Hudson River Greenway, depth: 5, parent: https://en.wikipedia.org/wiki/East_Coast_Greenway
+https://en.wikipedia.org/wiki/Middlesex_Greenway_(New_Jersey), anchor: Middlesex Greenway, depth: 5, parent: https://en.wikipedia.org/wiki/East_Coast_Greenway
+https://en.wikipedia.org/wiki/Greenville,_North_Carolina, anchor: Greenville, depth: 5, parent: https://en.wikipedia.org/wiki/East_Coast_Greenway
+https://en.wikipedia.org/wiki/West_Ashley_Greenway, anchor: West Ashley Greenway, depth: 5, parent: https://en.wikipedia.org/wiki/East_Coast_Greenway
+https://en.wikipedia.org/wiki/Raritan_River_Greenway, anchor: Raritan River Greenway, depth: 5, parent: https://en.wikipedia.org/wiki/East_Coast_Greenway
+https://en.wikipedia.org/wiki/Genesee_Valley_Greenway, anchor: Genesee Valley Greenway, depth: 5, parent: https://en.wikipedia.org/wiki/East_Coast_Greenway
+https://en.wikipedia.org/wiki/Connecticut_River_Greenway_State_Park, anchor: Connecticut River Greenway, depth: 5, parent: https://en.wikipedia.org/wiki/East_Coast_Greenway
+https://en.wikipedia.org/wiki/Greenwood_Farm_(Ipswich,_Massachusetts), anchor: Greenwood Farm, depth: 5, parent: https://en.wikipedia.org/wiki/East_Coast_Greenway
+https://en.wikipedia.org/wiki/Green_Bank_State_Forest, anchor: Green Bank, depth: 5, parent: https://en.wikipedia.org/wiki/East_Coast_Greenway
+https://en.wikipedia.org/wiki/Norvin_Green_State_Forest, anchor: Norvin Green, depth: 5, parent: https://en.wikipedia.org/wiki/East_Coast_Greenway
+https://en.wikipedia.org/wiki/Green_Lakes_State_Park, anchor: Green Lakes, depth: 5, parent: https://en.wikipedia.org/wiki/East_Coast_Greenway
+https://en.wikipedia.org/wiki/Greenwood_Furnace_State_Park, anchor: Greenwood Furnace, depth: 5, parent: https://en.wikipedia.org/wiki/East_Coast_Greenway
+https://en.wikipedia.org/wiki/Lake_Greenwood_State_Park, anchor: Lake Greenwood, depth: 5, parent: https://en.wikipedia.org/wiki/East_Coast_Greenway
+https://en.wikipedia.org/wiki/Green%27s_Shell_Enclosure, anchor: Green's Shell Enclosure, depth: 5, parent: https://en.wikipedia.org/wiki/East_Coast_Greenway
+https://en.wikipedia.org/wiki/Tulane_Green_Wave, anchor: Tulane Green Wave, depth: 5, parent: https://en.wikipedia.org/wiki/Lafitte_Greenway
+https://en.wikipedia.org/wiki/Bicentennial_Park_(Greenbelt), anchor: Bicentennial Park (Greenbelt), depth: 5, parent: https://en.wikipedia.org/wiki/Maryville_Alcoa_Greenway
+https://en.wikipedia.org/wiki/Open_space_reserve, anchor: greenspace, depth: 5, parent: https://en.wikipedia.org/wiki/MillionMile_Greenway
+https://en.wikipedia.org/wiki/Richmond_Greenway, anchor: Richmond Greenway, depth: 5, parent: https://en.wikipedia.org/wiki/Ohlone_Greenway
+https://en.wikipedia.org/wiki/Rose_Fitzgerald_Kennedy_Greenway, anchor: Article, depth: 5, parent: https://en.wikipedia.org/wiki/Rose_Kennedy_Greenway
+https://en.wikipedia.org/wiki/Cypher_Systems_Group_Greenway, anchor: Cypher Systems Group Greenway, depth: 5, parent: https://en.wikipedia.org/wiki/Chrysler_Canada_Greenway
+https://en.wikipedia.org/wiki/Cole_Green_railway_station, anchor: Cole Green railway station, depth: 5, parent: https://en.wikipedia.org/wiki/Cole_Green_Way
+https://en.wikipedia.org/wiki/Letty_Green, anchor: Letty Green, depth: 5, parent: https://en.wikipedia.org/wiki/Cole_Green_Way
+https://en.wikipedia.org/wiki/Dollis_Valley_Greenwalk, anchor: Dollis Valley Greenwalk, depth: 5, parent: https://en.wikipedia.org/wiki/Greenway,_London
+https://en.wikipedia.org/wiki/Jubilee_Greenway, anchor: Jubilee Greenway, depth: 5, parent: https://en.wikipedia.org/wiki/Greenway,_London
+https://en.wikipedia.org/wiki/Green_Park, anchor: Green, depth: 5, parent: https://en.wikipedia.org/wiki/Greenway,_London
+https://en.wikipedia.org/wiki/Greenwich_Park, anchor: Greenwich, depth: 5, parent: https://en.wikipedia.org/wiki/Greenway,_London
+https://en.wikipedia.org/wiki/Village_green, anchor: Village greens, depth: 5, parent: https://en.wikipedia.org/wiki/Greenway,_London
+https://en.wikipedia.org/wiki/Camberwell_Green, anchor: Camberwell, depth: 5, parent: https://en.wikipedia.org/wiki/Greenway,_London
+https://en.wikipedia.org/wiki/Islington_Green, anchor: Islington, depth: 5, parent: https://en.wikipedia.org/wiki/Greenway,_London
+https://en.wikipedia.org/wiki/Kew_Green, anchor: Kew, depth: 5, parent: https://en.wikipedia.org/wiki/Greenway,_London
+https://en.wikipedia.org/wiki/Newington_Green, anchor: Newington, depth: 5, parent: https://en.wikipedia.org/wiki/Greenway,_London
+https://en.wikipedia.org/wiki/Parsons_Green_(The_green), anchor: Parsons, depth: 5, parent: https://en.wikipedia.org/wiki/Greenway,_London
+https://en.wikipedia.org/wiki/Richmond_Green, anchor: Richmond, depth: 5, parent: https://en.wikipedia.org/wiki/Greenway,_London
+https://en.wikipedia.org/wiki/Shepherd%27s_Bush_Green, anchor: Shepherd's Bush, depth: 5, parent: https://en.wikipedia.org/wiki/Greenway,_London
+https://en.wikipedia.org/wiki/Turnham_Green, anchor: Turnham, depth: 5, parent: https://en.wikipedia.org/wiki/Greenway,_London
+https://en.wikipedia.org/wiki/Parks_and_open_spaces_in_Greenwich, anchor: Greenwich, depth: 5, parent: https://en.wikipedia.org/wiki/Greenway,_London
+https://en.wikipedia.org/wiki/Greenway_footpath,_London, anchor: Article, depth: 5, parent: https://en.wikipedia.org/wiki/Greenway,_London
+https://en.wikipedia.org/wiki/Royal_Borough_of_Greenwich, anchor: Greenwich, depth: 5, parent: https://en.wikipedia.org/wiki/South_East_London_Green_Chain
+https://en.wikipedia.org/wiki/Charlton_Park,_Greenwich, anchor: Charlton Park, depth: 5, parent: https://en.wikipedia.org/wiki/South_East_London_Green_Chain
+https://en.wikipedia.org/wiki/Green_Bridge_(filtration_system), anchor: Green Bridge (filtration system), depth: 5, parent: https://en.wikipedia.org/wiki/Green_Bridge_(disambiguation)
+https://en.wikipedia.org/wiki/Montreal/Laval_Green_Bridge, anchor: Montreal/Laval Green Bridge, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Bridge_(disambiguation)
+https://en.wikipedia.org/wiki/Green_Bridge_(Vilnius), anchor: Green Bridge (Vilnius), depth: 5, parent: https://en.wikipedia.org/wiki/Green_Bridge_(disambiguation)
+https://en.wikipedia.org/wiki/Green_Bridge_(St._Petersburg), anchor: Green Bridge (St. Petersburg), depth: 5, parent: https://en.wikipedia.org/wiki/Green_Bridge_(disambiguation)
+https://en.wikipedia.org/wiki/Green_Bridge_of_Wales, anchor: Green Bridge of Wales, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Bridge_(disambiguation)
+https://en.wikipedia.org/wiki/Green_Bridge_(New_Orleans), anchor: Green Bridge (New Orleans), depth: 5, parent: https://en.wikipedia.org/wiki/Green_Bridge_(disambiguation)
+https://en.wikipedia.org/wiki/Greenbridge_science_park, anchor: Greenbridge science park, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Bridge_(disambiguation)
+https://en.wikipedia.org/wiki/Green_Bridge, anchor: Article, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Bridge_(disambiguation)
+https://en.wikipedia.org/wiki/Green_Township,_Ohio_(disambiguation), anchor: Green Townships statewide, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Township,_Hamilton_County,_Ohio
+https://en.wikipedia.org/wiki/Nathanael_Greene, anchor: Nathanael Greene, depth: 5, parent: https://en.wikipedia.org/wiki/Green_Township,_Hamilton_County,_Ohio
+https://en.wikipedia.org/wiki/Greendale_School_District, anchor: Greendale School District, depth: 5, parent: https://en.wikipedia.org/wiki/Greendale_High_School
+https://en.wikipedia.org/wiki/Greenfield,_Wisconsin_(disambiguation), anchor: Greenfield, Wisconsin (disambiguation), depth: 5, parent: https://en.wikipedia.org/wiki/Greenfield,_Wisconsin
+https://en.wikipedia.org/wiki/Greenfield_High_School_(Wisconsin), anchor: Greenfield High School, depth: 5, parent: https://en.wikipedia.org/wiki/Greenfield,_Wisconsin
+https://en.wikipedia.org/wiki/National_Register_of_Historic_Places_listings_in_Greene_County,_New_York, anchor: Greene, depth: 5, parent: https://en.wikipedia.org/wiki/Asphalt_Green
+https://en.wikipedia.org/wiki/Bowling_green, anchor: bowling green, depth: 5, parent: https://en.wikipedia.org/wiki/Bowling_Green_(New_York_City)
+https://en.wikipedia.org/wiki/Bowling_Green_(IRT_Lexington_Avenue_Line), anchor: Bowling Green subway station, depth: 5, parent: https://en.wikipedia.org/wiki/Bowling_Green_(New_York_City)
+https://en.wikipedia.org/wiki/Madison_Green_(New_York_City), anchor: Madison Green, depth: 5, parent: https://en.wikipedia.org/wiki/Bowling_Green_(New_York_City)
+https://en.wikipedia.org/wiki/Greenwich_Savings_Bank, anchor: 1352 (Haier), depth: 5, parent: https://en.wikipedia.org/wiki/Bowling_Green_(New_York_City)
+https://en.wikipedia.org/wiki/Fort_Greene,_Brooklyn, anchor: Fort Greene, depth: 5, parent: https://en.wikipedia.org/wiki/Fort_Greene_Park
+https://en.wikipedia.org/wiki/Greenpeace_Energy, anchor: Greenpeace Energy, depth: 5, parent: https://en.wikipedia.org/wiki/Greenpeace_(disambiguation)
+https://en.wikipedia.org/wiki/Greenpeace_(music_group), anchor: Greenpeace (music group), depth: 5, parent: https://en.wikipedia.org/wiki/Greenpeace_(disambiguation)
+https://en.wikipedia.org/wiki/Little_Green_(song), anchor: Little Green, depth: 5, parent: https://en.wikipedia.org/wiki/Amchitka_(album)
+https://en.wikipedia.org/wiki/Greenpeace_International, anchor: Greenpeace International, depth: 5, parent: https://en.wikipedia.org/wiki/London_Greenpeace
+https://en.wikipedia.org/wiki/USS_Greenlet_(ASR-10), anchor: Akin, depth: 5, parent: https://en.wikipedia.org/wiki/MV_Greenpeace
+https://en.wikipedia.org/wiki/SS_Green_Mountain_State_(T-ACS-9), anchor: Green Mountain State, depth: 5, parent: https://en.wikipedia.org/wiki/MV_Greenpeace
+https://en.wikipedia.org/wiki/Greenland_independence, anchor: Greenland independence, depth: 5, parent: https://en.wikipedia.org/wiki/Criticism_of_Greenpeace
+https://en.wikipedia.org/wiki/Sinking_of_the_Rainbow_Warrior, anchor: bombing of the Greenpeace ship the Rainbow Warrior, depth: 5, parent: https://en.wikipedia.org/wiki/Greenpeace_Aotearoa_New_Zealand
+https://en.wikipedia.org/wiki/Greenpeace_New_Zealand, anchor: Greenpeace New Zealand, depth: 5, parent: https://en.wikipedia.org/wiki/Greenpeace_Aotearoa_New_Zealand
+https://en.wikipedia.org/wiki/Dorothy_Auchterlonie_Green, anchor: Dorothy Auchterlonie Green, depth: 5, parent: https://en.wikipedia.org/wiki/Greenpeace_Australia_Pacific
+https://en.wikipedia.org/wiki/Greenhouse_Solutions_with_Sustainable_Energy, anchor: Greenhouse Solutions with Sustainable Energy, depth: 5, parent: https://en.wikipedia.org/wiki/Greenpeace_Australia_Pacific
+https://en.wikipedia.org/wiki/Greenpeace_China, anchor: Greenpeace China, depth: 5, parent: https://en.wikipedia.org/wiki/Greenpeace_Southeast_Asia
+https://en.wikipedia.org/wiki/Jim_Green_(disambiguation), anchor: Jim Green (disambiguation), depth: 5, parent: https://en.wikipedia.org/wiki/Jim_Green_(activist)
+https://en.wikipedia.org/wiki/Green_College,_University_of_British_Columbia, anchor: Green College, depth: 6, parent: https://en.wikipedia.org/wiki/Cecil_Howard_Green
+https://en.wikipedia.org/wiki/Green_College,_Oxford, anchor: Green College, depth: 6, parent: https://en.wikipedia.org/wiki/Cecil_Howard_Green
+https://en.wikipedia.org/wiki/Cecil_H._Green_Library, anchor: Cecil H. Green Library, depth: 6, parent: https://en.wikipedia.org/wiki/Cecil_Howard_Green
+https://en.wikipedia.org/wiki/Green_Templeton_College,_Oxford, anchor: Green Templeton College, depth: 6, parent: https://en.wikipedia.org/wiki/Cecil_Howard_Green
+https://en.wikipedia.org/wiki/Greenspan_put, anchor: Greenspan put, depth: 6, parent: https://en.wikipedia.org/wiki/Alan_Greenspan
+https://en.wikipedia.org/wiki/Greenspan_Commission, anchor: Greenspan Commission, depth: 6, parent: https://en.wikipedia.org/wiki/Alan_Greenspan
+https://en.wikipedia.org/wiki/Green_Vehicles_Inc., anchor: Green Vehicles Inc., depth: 6, parent: https://en.wikipedia.org/wiki/Green_vehicles_(disambiguation)
+https://en.wikipedia.org/wiki/Green_Truck_of_the_Year, anchor: Green Truck of the Year, depth: 6, parent: https://en.wikipedia.org/wiki/Green_Car_of_the_Year
+https://en.wikipedia.org/wiki/United_Kingdom_Green_Building_Council, anchor: United Kingdom Green Building Council, depth: 6, parent: https://en.wikipedia.org/wiki/Canada_Green_Building_Council
+https://en.wikipedia.org/wiki/Canadian_Green_Building_Awards, anchor: Canadian Green Building Awards, depth: 6, parent: https://en.wikipedia.org/wiki/Canada_Green_Building_Council
+https://en.wikipedia.org/wiki/Green_roofs, anchor: Green roofs, depth: 6, parent: https://en.wikipedia.org/wiki/Green_Building_on_College_Campuses
+https://en.wikipedia.org/wiki/Green_living, anchor: green living, depth: 6, parent: https://en.wikipedia.org/wiki/Greensburg,_Kansas
+https://en.wikipedia.org/wiki/Green_Mountain_Coffee_Roasters, anchor: Green Mountain Coffee Roasters, depth: 6, parent: https://en.wikipedia.org/wiki/Greensburg,_Kansas
+https://en.wikipedia.org/wiki/Greensburg_(TV_series), anchor: Greensburg, depth: 6, parent: https://en.wikipedia.org/wiki/Greensburg,_Kansas
+https://en.wikipedia.org/wiki/Planet_Green, anchor: Planet Green, depth: 6, parent: https://en.wikipedia.org/wiki/Greensburg,_Kansas
+https://en.wikipedia.org/wiki/Evergreen_(disambiguation), anchor: Evergreen (disambiguation), depth: 6, parent: https://en.wikipedia.org/wiki/Evergreen
+https://en.wikipedia.org/wiki/Green_Star_(Australia), anchor: Green Star, depth: 6, parent: https://en.wikipedia.org/wiki/Green_Building_Council_of_Australia
+https://en.wikipedia.org/wiki/Deep_Green_Resistance, anchor: Deep Green, depth: 6, parent: https://en.wikipedia.org/wiki/Going_green
+https://en.wikipedia.org/wiki/Greening, anchor: Greening, depth: 6, parent: https://en.wikipedia.org/wiki/Going_green
+https://en.wikipedia.org/wiki/Ecotax, anchor: Green tax shift, depth: 6, parent: https://en.wikipedia.org/wiki/Going_green
+https://en.wikipedia.org/wiki/Green_Cross_International, anchor: Green Cross International, depth: 6, parent: https://en.wikipedia.org/wiki/Global_Green_USA
+https://en.wikipedia.org/wiki/California_Green_Building_Standards_Code, anchor: Article, depth: 6, parent: https://en.wikipedia.org/wiki/2010_California_Green_Building_Standards_Code
+https://en.wikipedia.org/wiki/Cecil_H._Green, anchor: Cecil H. Green, depth: 6, parent: https://en.wikipedia.org/wiki/Green_Library
+https://en.wikipedia.org/wiki/Green_Earth_Sciences, anchor: Green Earth Sciences, depth: 6, parent: https://en.wikipedia.org/wiki/Green_Library
+https://en.wikipedia.org/wiki/Green_waste, anchor: green waste, depth: 6, parent: https://en.wikipedia.org/wiki/Green_design
+https://en.wikipedia.org/wiki/Green_transport, anchor: Green transport, depth: 6, parent: https://en.wikipedia.org/wiki/Green_design
+https://en.wikipedia.org/wiki/Green_Chemistry_(journal), anchor: Green Chemistry (journal), depth: 6, parent: https://en.wikipedia.org/wiki/Green_chemistry
+https://en.wikipedia.org/wiki/California_Green_Chemistry_Initiative, anchor: California Green Chemistry Initiative, depth: 6, parent: https://en.wikipedia.org/wiki/Green_chemistry
+https://en.wikipedia.org/wiki/Green_Chemistry_Letters_and_Reviews, anchor: Green Chemistry Letters and Reviews, depth: 6, parent: https://en.wikipedia.org/wiki/Green_chemistry
+https://en.wikipedia.org/wiki/Green_engineering, anchor: green engineering, depth: 6, parent: https://en.wikipedia.org/wiki/Green_chemistry
+https://en.wikipedia.org/wiki/Green_chemistry_metrics, anchor: metrics, depth: 6, parent: https://en.wikipedia.org/wiki/Green_chemistry
+https://en.wikipedia.org/wiki/Yale_School_of_Forestry_%26_Environmental_Studies, anchor: Yale Center for Green Chemistry and Engineering, depth: 6, parent: https://en.wikipedia.org/wiki/Green_Electronics_Council
+https://en.wikipedia.org/wiki/Green_Information_Technology, anchor: Green Information Technology, depth: 6, parent: https://en.wikipedia.org/wiki/Green_information_system
+https://en.wikipedia.org/wiki/Julien_Green, anchor: Julien Green, depth: 6, parent: https://en.wikipedia.org/wiki/Green-Meldrim_House
+https://en.wikipedia.org/wiki/Green%E2%80%93Meldrim_House, anchor: Article, depth: 6, parent: https://en.wikipedia.org/wiki/Green-Meldrim_House
+https://en.wikipedia.org/wiki/John_Aloysius_Green, anchor: Green, John A., depth: 6, parent: https://en.wikipedia.org/wiki/John_A._Green_Estate
+https://en.wikipedia.org/wiki/National_Register_of_Historic_Places_listings_in_Greene_County,_Iowa, anchor: Greene, depth: 6, parent: https://en.wikipedia.org/wiki/John_A._Green_Estate
+https://en.wikipedia.org/wiki/Millard-Souther-Green_House, anchor: Millard-Souther-Green House, depth: 6, parent: https://en.wikipedia.org/wiki/Jonathan_Green_House
+https://en.wikipedia.org/wiki/House_at_269_Green_Street, anchor: 269 Green St., depth: 6, parent: https://en.wikipedia.org/wiki/Jonathan_Green_House
+https://en.wikipedia.org/wiki/Greenwood_(MBTA_station), anchor: Greenwood, depth: 6, parent: https://en.wikipedia.org/wiki/Green_House_(Wakefield,_Massachusetts)
+https://en.wikipedia.org/wiki/House_at_118_Greenwood_Street, anchor: 118 Greenwood St., depth: 6, parent: https://en.wikipedia.org/wiki/Green_House_(Wakefield,_Massachusetts)
+https://en.wikipedia.org/wiki/Greenwood_Union_Church, anchor: Greenwood Union Church, depth: 6, parent: https://en.wikipedia.org/wiki/Green_House_(Wakefield,_Massachusetts)
+https://en.wikipedia.org/wiki/Green%E2%80%93Reading_House, anchor: Article, depth: 6, parent: https://en.wikipedia.org/wiki/Green-Reading_House
+https://en.wikipedia.org/wiki/National_Register_of_Historic_Places_listings_in_Greene_County,_North_Carolina, anchor: Greene, depth: 6, parent: https://en.wikipedia.org/wiki/Herman_Green_House
+https://en.wikipedia.org/wiki/William_Green_House, anchor: Article, depth: 6, parent: https://en.wikipedia.org/wiki/William_Green_House_(disambiguation)
+https://en.wikipedia.org/wiki/National_Register_of_Historic_Places_listings_in_Greene_County,_Alabama, anchor: Greene, depth: 6, parent: https://en.wikipedia.org/wiki/Ernest_Edward_Greene_House
+https://en.wikipedia.org/wiki/Greene%E2%80%93Marston_House, anchor: Article, depth: 6, parent: https://en.wikipedia.org/wiki/Greene-Marston_House
+https://en.wikipedia.org/wiki/General_Nathanael_Greene_Homestead, anchor: Article, depth: 6, parent: https://en.wikipedia.org/wiki/Nathanael_Greene_Homestead
+https://en.wikipedia.org/wiki/George_Sears_Greene, anchor: George Sears Greene, depth: 6, parent: https://en.wikipedia.org/wiki/Caleb_Greene_House
+https://en.wikipedia.org/wiki/Greene%E2%80%93Bowen_House, anchor: Article, depth: 6, parent: https://en.wikipedia.org/wiki/Greene-Bowen_House
+https://en.wikipedia.org/wiki/Greene%E2%80%93Durfee_House, anchor: Article, depth: 6, parent: https://en.wikipedia.org/wiki/Greene-Durfee_House
+https://en.wikipedia.org/wiki/Thomas_A._Greene, anchor: Thomas A. Greene, depth: 6, parent: https://en.wikipedia.org/wiki/Thomas_A._Greene_Memorial_Museum
+https://en.wikipedia.org/wiki/Milwaukee_(Greenamyer), anchor: Milwaukee, depth: 6, parent: https://en.wikipedia.org/wiki/Thomas_A._Greene_Memorial_Museum
+https://en.wikipedia.org/wiki/Midwestern_Greenhouse_Gas_Reduction_Accord, anchor: Midwestern Greenhouse Gas Reduction Accord, depth: 6, parent: https://en.wikipedia.org/wiki/Regional_Greenhouse_Gas_Initiative
+https://en.wikipedia.org/wiki/Regulation_of_greenhouse_gases_under_the_Clean_Air_Act, anchor: Regulation of greenhouse gases under the Clean Air Act, depth: 6, parent: https://en.wikipedia.org/wiki/Regional_Greenhouse_Gas_Initiative
+https://en.wikipedia.org/wiki/Green_infrastructure, anchor: green infrastructure, depth: 6, parent: https://en.wikipedia.org/wiki/UK_Green_Investment_Bank
+https://en.wikipedia.org/wiki/Green_Investment_Group, anchor: Article, depth: 6, parent: https://en.wikipedia.org/wiki/UK_Green_Investment_Bank
+https://en.wikipedia.org/wiki/Green_Eto-Ecologist_Party, anchor: Green Eto-Ecologist Party, depth: 6, parent: https://en.wikipedia.org/wiki/List_of_green_political_parties
+https://en.wikipedia.org/wiki/Green_Party_(Australia), anchor: Green Party, depth: 6, parent: https://en.wikipedia.org/wiki/Green_Party_(disambiguation)
+https://en.wikipedia.org/wiki/Green_Party_of_Austria, anchor: Green Party of Austria, depth: 6, parent: https://en.wikipedia.org/wiki/Green_Party_(disambiguation)
+https://en.wikipedia.org/wiki/Green_Party-Intwari, anchor: Green Party-Intwari, depth: 6, parent: https://en.wikipedia.org/wiki/Green_Party_(disambiguation)
+https://en.wikipedia.org/wiki/Green_Party_(Alberta), anchor: Green Party (Alberta), depth: 6, parent: https://en.wikipedia.org/wiki/Green_Party_(disambiguation)
+https://en.wikipedia.org/wiki/Green_Party_%E2%80%93_Green_Alternative, anchor: Green Party – Green Alternative, depth: 6, parent: https://en.wikipedia.org/wiki/Green_Party_(disambiguation)
+https://en.wikipedia.org/wiki/Green_Party_(Finland), anchor: Green Party (Finland), depth: 6, parent: https://en.wikipedia.org/wiki/Green_Party_(disambiguation)
+https://en.wikipedia.org/wiki/Green_Party_(France), anchor: Green Party (France), depth: 6, parent: https://en.wikipedia.org/wiki/Green_Party_(disambiguation)
+https://en.wikipedia.org/wiki/Green_Party_(Germany), anchor: Green Party (Germany), depth: 6, parent: https://en.wikipedia.org/wiki/Green_Party_(disambiguation)
+https://en.wikipedia.org/wiki/East_German_Green_Party, anchor: East German Green Party, depth: 6, parent: https://en.wikipedia.org/wiki/Green_Party_(disambiguation)
+https://en.wikipedia.org/wiki/Hungarian_Social_Green_Party, anchor: Hungarian Social Green Party, depth: 6, parent: https://en.wikipedia.org/wiki/Green_Party_(disambiguation)
+https://en.wikipedia.org/wiki/Party_of_Greens_(Hungary), anchor: Party of Greens (Hungary), depth: 6, parent: https://en.wikipedia.org/wiki/Green_Party_(disambiguation)
+https://en.wikipedia.org/wiki/Right-Green_People%27s_Party, anchor: Right-Green People's Party, depth: 6, parent: https://en.wikipedia.org/wiki/Green_Party_(disambiguation)
+https://en.wikipedia.org/wiki/Israel_Green_Party, anchor: Israel Green Party, depth: 6, parent: https://en.wikipedia.org/wiki/Green_Party_(disambiguation)
+https://en.wikipedia.org/wiki/Green_Party_of_Japan, anchor: Green Party of Japan, depth: 6, parent: https://en.wikipedia.org/wiki/Green_Party_(disambiguation)
+https://en.wikipedia.org/wiki/Green_Party_(Luxembourg), anchor: Green Party, depth: 6, parent: https://en.wikipedia.org/wiki/Green_Party_(disambiguation)
+https://en.wikipedia.org/wiki/Green_Party_of_the_Netherlands, anchor: Green Party of the Netherlands, depth: 6, parent: https://en.wikipedia.org/wiki/Green_Party_(disambiguation)
+https://en.wikipedia.org/wiki/Progressive_Green_Party_(New_Zealand), anchor: Progressive Green Party, depth: 6, parent: https://en.wikipedia.org/wiki/Green_Party_(disambiguation)
+https://en.wikipedia.org/wiki/Philippine_Green_Republican_Party, anchor: Philippine Green Republican Party, depth: 6, parent: https://en.wikipedia.org/wiki/Green_Party_(disambiguation)
+https://en.wikipedia.org/wiki/Green_Party_of_Poland, anchor: Green Party of Poland, depth: 6, parent: https://en.wikipedia.org/wiki/Green_Party_(disambiguation)
+https://en.wikipedia.org/wiki/Green_Party_(Spain), anchor: Green Party (Spain), depth: 6, parent: https://en.wikipedia.org/wiki/Green_Party_(disambiguation)
+https://en.wikipedia.org/wiki/Ukrainian_Party_%22Green_Planet%22, anchor: Ukrainian Party "Green Planet", depth: 6, parent: https://en.wikipedia.org/wiki/Green_Party_(disambiguation)
+https://en.wikipedia.org/wiki/Raving_Loony_Green_Giant_Party, anchor: Raving Loony Green Giant Party, depth: 6, parent: https://en.wikipedia.org/wiki/Green_Party_(disambiguation)
+https://en.wikipedia.org/wiki/West_Virginia_Green_Party, anchor: West Virginia Green Party, depth: 6, parent: https://en.wikipedia.org/wiki/Green_Party_(disambiguation)
+https://en.wikipedia.org/wiki/Greens_(disambiguation), anchor: Greens (disambiguation), depth: 6, parent: https://en.wikipedia.org/wiki/Green_Party_(disambiguation)
+https://en.wikipedia.org/wiki/The_Greens_(disambiguation), anchor: The Greens (disambiguation), depth: 6, parent: https://en.wikipedia.org/wiki/Green_Party_(disambiguation)
+https://en.wikipedia.org/wiki/Progressive_Green_Party_(disambiguation), anchor: Progressive Green Party (disambiguation), depth: 6, parent: https://en.wikipedia.org/wiki/Green_Party_(disambiguation)
+https://en.wikipedia.org/wiki/RAF_Greenham_Common, anchor: Greenham Common, depth: 6, parent: https://en.wikipedia.org/wiki/Green_Party_(UK)
+https://en.wikipedia.org/wiki/Alliance_90/The_Greens_Hamburg, anchor: Hamburg state branch, depth: 6, parent: https://en.wikipedia.org/wiki/German_Green_Party
+https://en.wikipedia.org/wiki/Red-green_coalition, anchor: red-green coalition, depth: 6, parent: https://en.wikipedia.org/wiki/German_Green_Party
+https://en.wikipedia.org/wiki/List_of_German_Green_Party_politicians, anchor: List of German Green Party politicians, depth: 6, parent: https://en.wikipedia.org/wiki/German_Green_Party
+https://en.wikipedia.org/wiki/Red-green-brown_alliance, anchor: brown-green alliance, depth: 6, parent: https://en.wikipedia.org/wiki/The_Greens_(France)
+https://en.wikipedia.org/wiki/Green_Society, anchor: Green Society, depth: 6, parent: https://en.wikipedia.org/wiki/Blue-Green_alliance
+https://en.wikipedia.org/wiki/Green_Left_Weekly, anchor: Green Left Weekly, depth: 6, parent: https://en.wikipedia.org/wiki/GreenLeft
+https://en.wikipedia.org/wiki/List_of_House_of_Representatives_members_of_GreenLeft, anchor: List of House of Representatives members of GreenLeft, depth: 6, parent: https://en.wikipedia.org/wiki/GreenLeft
+https://en.wikipedia.org/wiki/List_of_Senate_members_of_GreenLeft, anchor: List of Senate members of GreenLeft, depth: 6, parent: https://en.wikipedia.org/wiki/GreenLeft
+https://en.wikipedia.org/wiki/List_of_GreenLeft_Members_of_the_European_Parliament, anchor: List of GreenLeft Members of the European Parliament, depth: 6, parent: https://en.wikipedia.org/wiki/GreenLeft
+https://en.wikipedia.org/wiki/Members_of_the_House_of_Representatives_of_the_Netherlands_for_GreenLeft,_1989%E2%80%93present, anchor: Members of the House of Representatives of the Netherlands for GreenLeft, 1989–present, depth: 6, parent: https://en.wikipedia.org/wiki/GreenLeft
+https://en.wikipedia.org/wiki/Greenlandic_general_election,_2018, anchor: 2018, depth: 6, parent: https://en.wikipedia.org/wiki/Nordic_Green_Left_Alliance
+https://en.wikipedia.org/wiki/Greens-EFA, anchor: Greens-EFA, depth: 6, parent: https://en.wikipedia.org/wiki/Nordic_Green_Left_Alliance
+https://en.wikipedia.org/wiki/Green_(disambiguation), anchor: Green (disambiguation), depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Permanent_residence_(United_States), anchor: green card, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Distinguishing_blue_from_green_in_language, anchor: blue and green, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Shades_of_green, anchor: shades of green, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Emerald_(color), anchor: Emerald green, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Malachite_green, anchor: Malachite green, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Lime_green, anchor: Lime green, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Moss_green, anchor: Moss green, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Unique_hues, anchor: unique green, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Chromium(III)_oxide, anchor: chrome green, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Chrome_green, anchor: chrome green, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Green_earth, anchor: Green earth, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Cobalt_green, anchor: Cobalt green, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Green_S, anchor: Green S, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Micrommata_virescens, anchor: green huntsman spider, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Green_cheese, anchor: green cheese, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Green_harp_flag, anchor: green harp flag, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Green_in_Islam, anchor: Green in Islam, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/British_racing_green, anchor: British racing green, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Hunter_green, anchor: hunter green, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Four_Green_Steps, anchor: Four Green Steps, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Apple_green, anchor: Apple green, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Bright_green, anchor: Bright green, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Brunswick_green, anchor: Brunswick green, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Cal_Poly_Pomona_green, anchor: Cal Poly green, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Castleton_green, anchor: Castleton green, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Midnight_green, anchor: Midnight green, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Dark_green, anchor: Dark green, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Dark_moss_green, anchor: Dark moss green, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Dark_olive_green, anchor: Dark olive green, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Dark_spring_green, anchor: Dark spring green, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Dartmouth_green, anchor: Dartmouth green, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Fern_green, anchor: Fern green, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Forest_green, anchor: Forest green, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Yellow-green, anchor: Green-yellow, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Hooker%27s_green, anchor: Hooker's green, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/India_green, anchor: India green, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Islamic_green, anchor: Islamic green, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Jungle_green, anchor: Jungle green, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Kelly_green, anchor: Kelly green, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Laurel_green, anchor: Laurel green, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Lawn_green, anchor: Lawn green, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Web_color_lime_green, anchor: Lime green, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Myrtle_green, anchor: Myrtle green, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Neon_green, anchor: Neon green, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Office_green, anchor: Office green, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Pakistan_green, anchor: Pakistan green, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Paris_green, anchor: Paris green, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Persian_green, anchor: Persian green, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Phthalocyanine_Green_G, anchor: Phthalo green, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+https://en.wikipedia.org/wiki/Pigment_green, anchor: Pigment green, depth: 6, parent: https://en.wikipedia.org/wiki/Green
+
+Max depth reached:6

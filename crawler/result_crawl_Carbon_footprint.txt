@@ -1,0 +1,1002 @@
+https://en.wikipedia.org/wiki/Carbon_footprint, anchor: None, depth: 1, parent: None
+https://en.wikipedia.org/wiki/Carbon_dioxide_equivalent, anchor: carbon dioxide equivalent, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Carbon_dioxide, anchor: carbon dioxide, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Methane, anchor: methane, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Global_warming_potential, anchor: global warming potential, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Ecological_footprint, anchor: ecological footprint, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Water_footprint, anchor: water footprint, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Land_footprint, anchor: land footprint, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Carbon_accounting, anchor: carbon accounting, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Carbon_capture, anchor: carbon capture, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/EU, anchor: EU, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/U.S., anchor: U.S., depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Luxembourg, anchor: Luxembourg, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Australia, anchor: Australia, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Africa, anchor: Africa, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/India, anchor: India, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Global_population, anchor: global population, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Input%E2%80%93output_model, anchor: Input-Output, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Greenhouse_Gas, anchor: Greenhouse Gas, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Land_use,_land-use_change,_and_forestry, anchor: land use cover change, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Life-cycle_greenhouse-gas_emissions_of_energy_sources, anchor: Life-cycle greenhouse-gas emissions of energy sources, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Thermal_energy, anchor: thermal energy, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Electrical_energy, anchor: electrical energy, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Coal, anchor: Coal, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Oil, anchor: Oil, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Natural_gas, anchor: Natural gas, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Geothermal_power, anchor: GeothermalPower, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Uranium, anchor: Uranium, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Nuclear_power, anchor: Nuclear power, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Hydroelectricity, anchor: Hydroelectricity, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Concentrating_solar_power, anchor: Conc. Solar Pwr, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Photovoltaics, anchor: Photovoltaics, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Wind_power, anchor: Wind power, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Solar_power, anchor: solar power, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Hydropower, anchor: Hydropower, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Environmental_impact_of_aviation, anchor: Environmental impact of aviation, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/NEDC_test_cycle, anchor: NEDC test cycle, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Car, anchor: passenger cars, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Hybrid-electric_vehicles, anchor: Hybrid-electric vehicles, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Light_commercial_vehicles, anchor: Light commercial vehicles, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/United_States, anchor: United States, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/US_Environmental_Protection_Agency, anchor: US Environmental Protection Agency, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/EPA_Federal_Test_Procedure, anchor: EPA Federal Test Procedure, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Trucks, anchor: Trucks, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Knot_(unit), anchor: knot, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Carbon_emission_label, anchor: CO2 label, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Publicly_Available_Specification, anchor: Publicly Available Specification, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Low_carbon_diet, anchor: Low carbon diet, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/GHG_footprint, anchor: greenhouse gas footprints, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Cement, anchor: Cement, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Carbon_offset, anchor: carbon offsets, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Kyoto_Protocol, anchor: Kyoto Protocol, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Certified_Emission_Reduction, anchor: Certified Emission Reduction, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Emission_Reduction_Unit, anchor: Emission Reduction Unit, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Verified_Emission_Reduction, anchor: Verified Emission Reduction, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Flexible_Mechanisms, anchor: flexible mechanisms, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Clean_Development_Mechanism, anchor: Clean Development Mechanism, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Joint_Implementation, anchor: Joint Implementation, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Emissions_trading, anchor: Emissions trading, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Certified_Emissions_Reduction, anchor: Certified Emissions Reductions, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Market_price, anchor: market price, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/EU_Emissions_Trading_Scheme, anchor: EU Emissions Trading Scheme, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Chicago_Climate_Exchange, anchor: Chicago Climate Exchange, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Carbon_neutral, anchor: carbon neutral, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Forestry, anchor: forestry, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Deforestation, anchor: deforestation, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Carbon_dioxide_sink, anchor: sequestration, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Efficient_energy_use, anchor: energy efficiency, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Carbon_capture_and_storage, anchor: methane capture, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Renewable_energy, anchor: renewable energy, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/%C3%86ON, anchor: ÆON, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Private_brand, anchor: private brand, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Waste_hierarchy, anchor: Reduce, Reuse, Recycle, Refuse, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Carpooling, anchor: carpooling, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Mass_transportation, anchor: mass transportation, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Carbon, anchor: carbon, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Weather_stripping, anchor: weather stripping, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Caulking, anchor: caulking, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Food, anchor: food, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Supply_chain, anchor: supply chain, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Alternative_energy, anchor: alternative energy, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Environmental_Research_Letters, anchor: Environmental Research Letters, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/4_Degrees_and_Beyond_International_Climate_Conference, anchor: 4 Degrees and Beyond International Climate Conference, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/2000-watt_society, anchor: 2000-watt society, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Avoiding_dangerous_climate_change, anchor: Avoiding dangerous climate change, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Carbon_cycle, anchor: Carbon cycle, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Carbon_diet, anchor: Carbon diet, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Carbon_intensity, anchor: Carbon intensity, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Carbon_literacy, anchor: Carbon literacy, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Carbon_lock-in, anchor: Carbon lock-in, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Chief_green_officer, anchor: Chief green officer, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Climate_footprint, anchor: Climate footprint, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Earthcheck, anchor: Earthcheck, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Ecosharing, anchor: Ecosharing, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Energy_neutral_design, anchor: Energy neutral design, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Energy_policy, anchor: Energy policy, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Enterprise_carbon_accounting, anchor: Enterprise carbon accounting, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Food_miles, anchor: Food miles, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Greenhouse_debt, anchor: Greenhouse debt, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Greenhouse_gas_emissions_accounting, anchor: Greenhouse gas emissions accounting, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Global_warming, anchor: Global warming, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Green_conventions, anchor: Green conventions, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Greenhouse_gas_inventory, anchor: Greenhouse gas inventory, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Hypermobility_(travel), anchor: Hyper-mobile travellers, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Life_cycle_assessment, anchor: Life cycle assessment, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions_per_capita, anchor: List of countries by carbon dioxide emissions per capita, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/List_of_countries_by_greenhouse_gas_emissions_per_capita, anchor: List of countries by greenhouse gas emissions per capita, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Medical_tourism, anchor: Medical tourism, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Open_Carbon_World, anchor: Open Carbon World, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Relative_cost_of_electricity_generated_by_different_sources, anchor: Relative cost of electricity generated by different sources, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Runoff_footprint, anchor: Runoff footprint, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Telecommuting, anchor: Telecommuting, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Weighted_average_cost_of_carbon, anchor: Weighted average cost of carbon, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Digital_object_identifier, anchor: doi, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/PubMed_Identifier, anchor: PMID, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/International_Standard_Serial_Number, anchor: ISSN, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/PubMed_Central, anchor: PMC, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/International_Standard_Book_Number, anchor: ISBN, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/CiteSeerX, anchor: CiteSeerX, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Wayback_Machine, anchor: Wayback Machine, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Science_(journal), anchor: Science, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Parliamentary_Office_of_Science_and_Technology, anchor: Parliamentary Office of Science and Technology, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Nova_Science_Publishers, anchor: Nova Science Publishers, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/DMOZ, anchor: DMOZ, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sustainability, anchor: Sustainability, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Anthropocene, anchor: Anthropocene, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Earth_system_governance, anchor: Earth system governance, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Ecological_modernization, anchor: Ecological modernization, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Environmental_governance, anchor: Environmental governance, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Environmentalism, anchor: Environmentalism, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Global_catastrophic_risk, anchor: Global catastrophic risk, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Human_impact_on_the_environment, anchor: Human impact on the environment, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Planetary_boundaries, anchor: Planetary boundaries, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Social_sustainability, anchor: Social sustainability, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Stewardship, anchor: Stewardship, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sustainable_development, anchor: Sustainable development, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Consumption_(economics), anchor: Consumption, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Anthropization, anchor: Anthropization, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Anti-consumerism, anchor: Anti-consumerism, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Earth_Overshoot_Day, anchor: Earth Overshoot Day, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Ethical_consumerism, anchor: Ethical, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Over-consumption, anchor: Over-consumption, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Simple_living, anchor: Simple living, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sustainability_advertising, anchor: Sustainability advertising, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sustainability_brand, anchor: Sustainability brand, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sustainability_marketing_myopia, anchor: Sustainability marketing myopia, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sustainable_consumption, anchor: Sustainable, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sustainability_and_systemic_change_resistance, anchor: Systemic change resistance, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Tragedy_of_the_commons, anchor: Tragedy of the commons, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Population, anchor: Population, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Birth_control, anchor: Birth control, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Family_planning, anchor: Family planning, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Human_population_control, anchor: Control, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Human_overpopulation, anchor: Overpopulation, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Zero_population_growth, anchor: Zero growth, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Appropriate_technology, anchor: Appropriate, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Environmental_technology, anchor: Environmental, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sustainable_design, anchor: Sustainable, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Biodiversity, anchor: Biodiversity, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Biosecurity, anchor: Biosecurity, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Biosphere, anchor: Biosphere, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Conservation_biology, anchor: Conservation biology, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Deep_ecology, anchor: Deep ecology, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Endangered_species, anchor: Endangered species, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Holocene_extinction, anchor: Holocene extinction, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Invasive_species, anchor: Invasive species, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Climate_change_mitigation, anchor: Climate change mitigation, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Energy_conservation, anchor: Conservation, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Energy_descent, anchor: Descent, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Fossil-fuel_phase-out, anchor: Fossil-fuel phase-out, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Peak_oil, anchor: Peak oil, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Energy_poverty, anchor: Energy poverty, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Forest_gardening, anchor: Forest gardening, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Local_food, anchor: Local, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Permaculture, anchor: Permaculture, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Food_security, anchor: Security, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sustainable_agriculture, anchor: Sustainable agriculture, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sustainable_fishery, anchor: Sustainable fishery, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Urban_horticulture, anchor: Urban horticulture, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Water_conservation, anchor: Conservation, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Water_crisis, anchor: Crisis, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Water_efficiency, anchor: Efficiency, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Reclaimed_water, anchor: Reclaimed, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sustainability_accounting, anchor: Sustainability accounting, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sustainability_measurement, anchor: Sustainability measurement, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sustainability_metrics_and_indices, anchor: Sustainability metrics and indices, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sustainability_reporting, anchor: Sustainability reporting, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sustainability_standards_and_certification, anchor: Standards and certification, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sustainable_yield, anchor: Sustainable yield, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sustainable_advertising, anchor: Advertising, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sustainable_architecture, anchor: Architecture, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sustainable_art, anchor: Art, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sustainable_business, anchor: Business, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sustainable_city, anchor: City, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/North_American_collegiate_sustainability_programs, anchor: College programs, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sustainable_community, anchor: Community, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Ecovillage, anchor: Ecovillage, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Education_for_Sustainable_Development, anchor: Education for Sustainable Development, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sustainable_fashion, anchor: Fashion, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sustainable_gardening, anchor: Gardening, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Geopark, anchor: Geopark, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Green_marketing, anchor: Green marketing, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sustainable_industries, anchor: Industries, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sustainable_landscape_architecture, anchor: Landscape architecture, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sustainable_living, anchor: Living, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Low-impact_development_(UK), anchor: Low-impact development, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sustainable_market, anchor: Sustainable market, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sustainability_organizations, anchor: Organizations, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sustainable_packaging, anchor: Packaging, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sustainability_practices_in_organizations, anchor: Practices, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sustainable_procurement, anchor: Procurement, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sustainable_tourism, anchor: Tourism, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sustainable_transport, anchor: Transport, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sustainable_urban_drainage_systems, anchor: Urban drainage systems, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sustainable_urban_infrastructure, anchor: Urban infrastructure, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/New_Urbanism, anchor: Urbanism, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sustainability_and_environmental_management, anchor: Environmental, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Fisheries_management, anchor: Fisheries, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sustainable_forest_management, anchor: Forest, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sustainable_materials_management, anchor: Materials, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Natural_resource_management, anchor: Natural resource, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Planetary_management, anchor: Planetary, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Waste_management, anchor: Waste, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/United_Nations_Conference_on_the_Human_Environment, anchor: UN Conference on the Human Environment (Stockholm 1972), depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Brundtland_Commission, anchor: Brundtlandt Commission Report (1983), depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Our_Common_Future, anchor: Our Common Future (1987), depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Earth_Summit, anchor: Earth Summit (1992), depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Rio_Declaration_on_Environment_and_Development, anchor: Rio Declaration on Environment and Development, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Agenda_21, anchor: Agenda 21 (1992), depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Convention_on_Biological_Diversity, anchor: Convention on Biological Diversity (1992), depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/International_Conference_on_Population_and_Development, anchor: ICPD Programme of Action (1994), depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Earth_Charter, anchor: Earth Charter, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Lisbon_Principles, anchor: Lisbon Principles, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/United_Nations_Millennium_Declaration, anchor: UN Millennium Declaration (2000), depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Earth_Summit_2002, anchor: Earth Summit 2002, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/United_Nations_Conference_on_Sustainable_Development, anchor: United Nations Conference on Sustainable Development, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sustainable_Development_Goals, anchor: Sustainable Development Goals, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Outline_of_sustainability, anchor: Outline, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sustainability_science, anchor: Science, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sustainability_studies, anchor: Studies, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/List_of_environmental_degrees, anchor: Degrees, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Climate_change, anchor: climate change, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Brightness_temperature, anchor: Brightness temperature, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Effective_temperature, anchor: Effective temperature, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Geologic_temperature_record, anchor: Geologic record, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Global_warming_hiatus, anchor: Hiatus, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Historical_climatology, anchor: Historical climatology, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Instrumental_temperature_record, anchor: Instrumental record, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Paleoclimatology, anchor: Paleoclimatology, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Paleotempestology, anchor: Paleotempestology, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Proxy_(climate), anchor: Proxy data, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Temperature_record_of_the_past_1000_years, anchor: Record of the past 1,000 years, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Satellite_temperature_measurements, anchor: Satellite measurements, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Anthropogenic_climate_change, anchor: Anthropogenic, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Attribution_of_recent_climate_change, anchor: Attribution of recent climate change, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Biofuel, anchor: Biofuel, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Black_carbon, anchor: Black carbon, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Deforestation_and_climate_change, anchor: Deforestation, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Earth%27s_energy_budget, anchor: Earth's energy budget, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Ecocide, anchor: Ecocide, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Fossil_fuel, anchor: Fossil fuel, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Global_dimming, anchor: Global dimming, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Greenhouse_effect, anchor: Greenhouse effect, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Infrared_window, anchor: Infrared window, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Halocarbon, anchor: Halocarbons, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Radiative_forcing, anchor: Radiative forcing, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Tropospheric_ozone, anchor: Tropospheric ozone, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Urban_heat_island, anchor: Urban heat island, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Natural_environment, anchor: Natural, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Albedo, anchor: Albedo, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Bond_event, anchor: Bond events, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Climate_oscillation, anchor: Climate oscillations, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Climate_sensitivity, anchor: Climate sensitivity, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Cloud_forcing, anchor: Cloud forcing, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Cosmic_ray, anchor: Cosmic rays, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Climate_change_feedback, anchor: Feedbacks, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Glacial_period, anchor: Glaciation, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Global_cooling, anchor: Global cooling, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Milankovitch_cycles, anchor: Milankovitch cycles, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Thermohaline_circulation, anchor: Ocean variability, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Atlantic_multidecadal_oscillation, anchor: AMO, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/El_Ni%C3%B1o%E2%80%93Southern_Oscillation, anchor: ENSO, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Indian_Ocean_Dipole, anchor: IOD, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Pacific_decadal_oscillation, anchor: PDO, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Orbital_forcing, anchor: Orbital forcing, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Solar_cycle, anchor: Solar variation, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Volcanism, anchor: Volcanism, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Climate_model, anchor: Models, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/General_circulation_model, anchor: Global climate model, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/History_of_climate_change_science, anchor: History of climate change science, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Atmospheric_thermodynamics, anchor: Atmospheric thermodynamics, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Svante_Arrhenius, anchor: Svante Arrhenius, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/James_Hansen, anchor: James Hansen, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Charles_David_Keeling, anchor: Charles David Keeling, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Environmental_ethics, anchor: Environmental ethics, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Media_coverage_of_global_warming, anchor: Media coverage of climate change, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Public_opinion_on_global_warming, anchor: Public opinion on climate change, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Global_warming_in_popular_culture, anchor: Popular culture, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Scientific_opinion_on_climate_change, anchor: Scientific opinion on climate change, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/List_of_scientists_who_disagree_with_the_scientific_consensus_on_global_warming, anchor: Scientists who disagree with the mainstream assessment, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Climate_change_denial, anchor: Climate change denial, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Global_warming_conspiracy_theory, anchor: Global warming conspiracy theory, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Climate_change_opinion_by_country, anchor: By country & region, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Climate_change_in_Africa, anchor: Africa, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Climate_change_in_the_Arctic, anchor: Arctic, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Climate_change_in_Argentina, anchor: Argentina, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Climate_change_in_Australia, anchor: Australia, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Climate_change_in_Bangladesh, anchor: Bangladesh, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Global_warming_in_Belgium, anchor: Belgium, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Climate_change_in_Canada, anchor: Canada, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Climate_change_in_China, anchor: China, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Climate_change_in_Europe, anchor: Europe, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Climate_change_in_the_European_Union, anchor: European Union, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Climate_change_in_Finland, anchor: Finland, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Climate_change_in_Grenada, anchor: Grenada, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Climate_change_in_Japan, anchor: Japan, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Global_warming_in_Luxembourg, anchor: Luxembourg, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Climate_change_in_New_Zealand, anchor: New Zealand, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Global_warming_in_Norway, anchor: Norway, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Climate_change_in_Russia, anchor: Russia, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Climate_change_in_Scotland, anchor: Scotland, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Climate_change_in_South_Korea, anchor: South Korea, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Climate_change_in_Sweden, anchor: Sweden, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Climate_change_in_Tuvalu, anchor: Tuvalu, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Climate_change_in_the_United_Kingdom, anchor: United Kingdom, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Climate_change_in_the_United_States, anchor: United States, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Politics_of_global_warming, anchor: Politics, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Clean_Power_Plan, anchor: Clean Power Plan, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Manufactured_controversy, anchor: Manufactured controversy, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Intergovernmental_Panel_on_Climate_Change, anchor: Intergovernmental Panel on Climate Change (IPCC), depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/March_for_Science, anchor: March for Science, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/People%27s_Climate_March, anchor: People's Climate March, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/United_Nations_Framework_Convention_on_Climate_Change, anchor: United Nations Framework Convention on Climate Change (UNFCCC / FCCC), depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Global_climate_regime, anchor: Global climate regime, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Effects_of_global_warming, anchor: Potential effects and issues, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Abrupt_climate_change, anchor: Abrupt climate change, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Anoxic_event, anchor: Anoxic event, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Arctic_dipole_anomaly, anchor: Arctic dipole anomaly, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Arctic_haze, anchor: Arctic haze, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Arctic_methane_emissions, anchor: Arctic methane emissions, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Climate_change_and_agriculture, anchor: Climate change and agriculture, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Climate_change_and_ecosystems, anchor: Climate change and ecosystems, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Climate_change_and_gender, anchor: Climate change and gender, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Climate_change_and_poverty, anchor: Climate change and poverty, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Drought, anchor: Drought, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Economics_of_global_warming, anchor: Economics of global warming, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Effects_of_climate_change_on_plant_biodiversity, anchor: Effects on plant biodiversity, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Effects_of_global_warming_on_human_health, anchor: Effects on health, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Effects_of_global_warming_on_humans, anchor: Effects on humans, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Effects_of_global_warming_on_marine_mammals, anchor: Effects on marine mammals, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Environmental_migrant, anchor: Environmental migrant, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Extinction_risk_from_global_warming, anchor: Extinction risk from global warming, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Fisheries_and_climate_change, anchor: Fisheries and climate change, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Forest_dieback, anchor: Forest dieback, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Climate_change,_industry_and_society, anchor: Industry and society, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Iris_hypothesis, anchor: Iris hypothesis, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Megadrought, anchor: Megadrought, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Ocean_acidification, anchor: Ocean acidification, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Ozone_depletion, anchor: Ozone depletion, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Physical_impacts_of_climate_change, anchor: Physical impacts, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Polar_stratospheric_cloud, anchor: Polar stratospheric cloud, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Regime_shift, anchor: Regime shift, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Retreat_of_glaciers_since_1850, anchor: Retreat of glaciers since 1850, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Runaway_climate_change, anchor: Runaway climate change, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Sea_level_rise, anchor: Sea level rise, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Season_creep, anchor: Season creep, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Shutdown_of_thermohaline_circulation, anchor: Shutdown of thermohaline circulation, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Effects_of_global_warming_on_Australia, anchor: Australia, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Effects_of_global_warming_on_South_Asia, anchor: South Asia, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Effects_of_global_warming_on_India, anchor: India, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Climate_change_adaptation_in_Nepal, anchor: Nepal, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/National_Climate_Assessment, anchor: United States, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Bali_Road_Map, anchor: Bali Road Map, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/2009_United_Nations_Climate_Change_Conference, anchor: 2009 United Nations Climate Change Conference, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/European_Climate_Change_Programme, anchor: European Climate Change Programme, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/G8_Climate_Change_Roundtable, anchor: G8 Climate Change Roundtable, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/United_Kingdom_Climate_Change_Programme, anchor: United Kingdom Climate Change Programme, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Paris_Agreement, anchor: Paris Agreement, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/United_States_withdrawal_from_the_Paris_Agreement, anchor: United States withdrawal, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Regional_climate_change_initiatives_in_the_United_States, anchor: Regional climate change initiatives in the United States, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/List_of_climate_change_initiatives, anchor: List of climate change initiatives, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Carbon_credit, anchor: Carbon credit, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Carbon-neutral_fuel, anchor: Carbon-neutral fuel, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Carbon_tax, anchor: Carbon tax, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Fossil_fuel_phase-out, anchor: Fossil fuel phase-out, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Carbon_neutrality, anchor: Carbon-free, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Low-carbon_economy, anchor: Low-carbon economy, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Individual_action_on_climate_change, anchor: Individual action on climate change, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Carbon_dioxide_removal, anchor: Carbon dioxide removal, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Carbon_sink, anchor: Carbon sink, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Climate_change_mitigation_scenarios, anchor: Climate change mitigation scenarios, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Climate_engineering, anchor: Climate engineering, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Individual_and_political_action_on_climate_change, anchor: Individual and political action on climate change, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Reducing_emissions_from_deforestation_and_forest_degradation, anchor: Reducing emissions from deforestation and forest degradation, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Reforestation, anchor: Reforestation, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Urban_reforestation, anchor: Urban reforestation, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Climate_change_adaptation, anchor: Proposed adaptations, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Dam, anchor: Damming, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Glacial_lake, anchor: glacial lakes, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Desalination, anchor: Desalination, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Drought_tolerance, anchor: Drought tolerance, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Irrigation, anchor: Irrigation investment, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Rainwater_tank, anchor: Rainwater storage, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Weather_modification, anchor: Weather modification, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Avoiding_Dangerous_Climate_Change_(2005_conference), anchor: Avoiding dangerous climate change, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Land_allocation_decision_support_system, anchor: Land allocation decision support system, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Glossary_of_climate_change, anchor: Glossary, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Index_of_climate_change_articles, anchor: Index, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/World_population, anchor: Global human population, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Biocapacity, anchor: Biocapacity, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Optimum_population, anchor: Optimum population, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Malthusian_catastrophe, anchor: Malthusian catastrophe, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Population_ethics, anchor: Population ethics, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Population_momentum, anchor: Population momentum, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Reproductive_rights, anchor: Women's reproductive rights, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Human_population_planning, anchor: Human population planning, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/One-child_policy, anchor: One-child policy, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Two-child_policy, anchor: Two-child policy, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Population_biology, anchor: Population biology, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Population_decline, anchor: Population decline, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Population_density, anchor: Population density, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Physiological_density, anchor: Physiological density, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Population_dynamics, anchor: Population dynamics, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Population_growth, anchor: Population growth, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Population_model, anchor: Population model, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Population_pyramid, anchor: Population pyramid, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Projections_of_population_growth, anchor: Projections of population growth, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Desertification, anchor: Desertification, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Environmental_impact_of_agriculture, anchor: of agriculture, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Environmental_impact_of_biodiesel, anchor: of biodiesel, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Environmental_impact_of_concrete, anchor: of concrete, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Environmental_impact_of_electricity_generation, anchor: of electricity generation, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Environmental_impact_of_the_energy_industry, anchor: of the energy industry, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Environmental_impact_of_fishing, anchor: of fishing, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Environmental_impact_of_irrigation, anchor: of irrigation, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Environmental_impact_of_mining, anchor: of mining, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Environmental_impact_of_the_oil_shale_industry, anchor: of oil shale industry, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Social_and_environmental_impact_of_palm_oil, anchor: of palm oil, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Environmental_impact_of_paper, anchor: of paper, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Environmental_impact_of_the_petroleum_industry, anchor: of the petroleum industry, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Environmental_impact_of_reservoirs, anchor: of reservoirs, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Environmental_impact_of_shipping, anchor: of shipping, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Environmental_impact_of_war, anchor: of war, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Industrialisation, anchor: Industrialisation, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Land_degradation, anchor: Land degradation, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Land_reclamation, anchor: Land reclamation, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Overconsumption, anchor: Overconsumption, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Pollution, anchor: Pollution, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Quarry, anchor: Quarrying, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Urbanization, anchor: Urbanization, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Green_belt, anchor: Loss of green belts, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Urban_sprawl, anchor: Urban sprawl, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Waste, anchor: Waste, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Water_scarcity, anchor: Water scarcity, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Overdrafting, anchor: Overdrafting, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Population_ecology, anchor: Populationecology, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Habitat_destruction, anchor: Habitat destruction, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/I_%3D_PAT, anchor: I = P × A  × T, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Malthusian_growth_model, anchor: Malthusian growth model, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Overshoot_(population), anchor: Overshoot (population), depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/World_energy_consumption, anchor: World energy consumption, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/World_energy_resources, anchor: World energy resources, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/World3, anchor: World3 model, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/A_Modest_Proposal, anchor: A Modest Proposal, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Observations_Concerning_the_Increase_of_Mankind,_Peopling_of_Countries,_etc., anchor: Observations Concerning the Increase of Mankind, Peopling of Countries, etc., depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/An_Essay_on_the_Principle_of_Population, anchor: An Essay on the Principle of Population, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/How_Much_Land_Does_a_Man_Need%3F, anchor: How Much Land Does a Man Need?, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Operating_Manual_for_Spaceship_Earth, anchor: Operating Manual for Spaceship Earth, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/The_Limits_to_Growth, anchor: The Limits to Growth, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/The_Population_Bomb, anchor: The Population Bomb, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/The_Skeptical_Environmentalist, anchor: The Skeptical Environmentalist, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/The_Ultimate_Resource, anchor: The Ultimate Resource, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Population_and_Environment, anchor: Population and Environment, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Population_and_Development_Review, anchor: Population and Development Review, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Population_and_housing_censuses_by_country, anchor: Population and housing censuses by country, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/List_of_metropolitan_areas_by_population, anchor: Metropolitan areas by population, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/World_population_milestones, anchor: Population milestone babies, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/7_Billion_Actions, anchor: 7 Billion Actions, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Population_Action_International, anchor: Population Action International, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Population_Connection, anchor: Population Connection, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Population_Matters, anchor: Population Matters, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Population_Research_Institute, anchor: Population Research Institute, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/United_Nations_Population_Fund, anchor: United Nations Population Fund, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Voluntary_Human_Extinction_Movement, anchor: Voluntary Human Extinction Movement, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/World_Population_Day, anchor: World Population Day, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/World_Population_Foundation, anchor: World Population Foundation, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Classic_Maya_collapse, anchor: Classic Maya collapse, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Fertility_and_intelligence, anchor: Fertility and intelligence, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Green_Revolution, anchor: Green Revolution, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Human_migration, anchor: Migration, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/National_Diet_Library, anchor: NDL, depth: 2, parent: https://en.wikipedia.org/wiki/Carbon_footprint
+https://en.wikipedia.org/wiki/Quantity, anchor: quantity, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide_equivalent
+https://en.wikipedia.org/wiki/Units_of_measurement, anchor: units, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide_equivalent
+https://en.wikipedia.org/wiki/UN, anchor: UN, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide_equivalent
+https://en.wikipedia.org/wiki/Tonne, anchor: tonnes, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide_equivalent
+https://en.wikipedia.org/wiki/Perfluorocarbons, anchor: perfluorocarbons, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide_equivalent
+https://en.wikipedia.org/wiki/Nitrous_oxide, anchor: nitrous oxide, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide_equivalent
+https://en.wikipedia.org/wiki/Volume, anchor: volume, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide_equivalent
+https://en.wikipedia.org/wiki/Ppmv, anchor: ppmv, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide_equivalent
+https://en.wikipedia.org/wiki/Emission_standard, anchor: Emission standard, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide_equivalent
+https://en.wikipedia.org/wiki/CO2_(disambiguation), anchor: CO2 (disambiguation), depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Dry_ice, anchor: Dry ice, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/CAS_Registry_Number, anchor: CAS Number, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/JSmol, anchor: JSmol, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/3DMet, anchor: 3DMet, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Beilstein_database, anchor: Beilstein Reference, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/ChEBI, anchor: ChEBI, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/ChEMBL, anchor: ChEMBL, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/ChemSpider, anchor: ChemSpider, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/ECHA_InfoCard, anchor: ECHA InfoCard, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/European_Community_number, anchor: EC Number, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/E_number, anchor: E number, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Gmelin_database, anchor: Gmelin Reference, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/KEGG, anchor: KEGG, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Medical_Subject_Headings, anchor: MeSH, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/PubChem, anchor: PubChem, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/RTECS, anchor: RTECS number, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Unique_Ingredient_Identifier, anchor: UNII, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/UN_number, anchor: UN number, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/International_Chemical_Identifier, anchor: InChI, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Simplified_molecular-input_line-entry_system, anchor: SMILES, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Chemical_formula, anchor: Chemical formula, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Molar_mass, anchor: Molar mass, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Odor, anchor: Odor, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Density, anchor: Density, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Melting_point, anchor: Melting point, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Triple_point, anchor: Triple point, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Sublimation_(phase_transition), anchor: Sublimationconditions, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Aqueous_solution, anchor: Solubility in water, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Vapor_pressure, anchor: Vapor pressure, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Acid_dissociation_constant, anchor: Acidity, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Magnetic_susceptibility, anchor: Magnetic susceptibility, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Refractive_index, anchor: Refractive index, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Viscosity, anchor: Viscosity, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Poise_(unit), anchor: cP, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Crystal_structure, anchor: Crystal structure, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Molecular_geometry, anchor: Molecular shape, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Linear_(chemistry), anchor: linear, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Heat_capacity, anchor: Heat capacity, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Standard_molar_entropy, anchor: Std molarentropy, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Standard_enthalpy_change_of_formation, anchor: Std enthalpy offormation, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Anatomical_Therapeutic_Chemical_Classification_System, anchor: ATC code, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/ATC_code_V03, anchor: V03AN02, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Safety_data_sheet, anchor: Safety data sheet, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/NFPA_704, anchor: NFPA 704, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/National_Institute_for_Occupational_Safety_and_Health, anchor: NIOSH, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Permissible_exposure_limit, anchor: PEL, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Recommended_exposure_limit, anchor: REL, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/IDLH, anchor: IDLH, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Ion, anchor: anions, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Carbon_disulfide, anchor: Carbon disulfide, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Carbon_diselenide, anchor: Carbon diselenide, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Silicon_dioxide, anchor: Silicon dioxide, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Germanium_dioxide, anchor: Germanium dioxide, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Tin_dioxide, anchor: Tin dioxide, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Lead_dioxide, anchor: Lead dioxide, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Oxide, anchor: oxides, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Carbon_monoxide, anchor: Carbon monoxide, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Carbon_suboxide, anchor: Carbon suboxide, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Dicarbon_monoxide, anchor: Dicarbon monoxide, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Carbon_trioxide, anchor: Carbon trioxide, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Carbonic_acid, anchor: Carbonic acid, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Carbonyl_sulfide, anchor: Carbonyl sulfide, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Carbon_dioxide_(data_page), anchor: Supplementary data page, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Dielectric_constant, anchor: Dielectric constant, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/UV/VIS_spectroscopy, anchor: UV, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Infrared_spectroscopy, anchor: IR, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/NMR_spectroscopy, anchor: NMR, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Mass_spectrometry, anchor: MS, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Standard_state, anchor: standard state, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Gas, anchor: gas, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Atom, anchor: atom, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Covalent_bond, anchor: covalently, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Double_bond, anchor: double bonded, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Oxygen, anchor: oxygen, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Atmosphere_of_Earth, anchor: Earth's atmosphere, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Trace_gas, anchor: trace gas, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Parts_per_million, anchor: ppm, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Volcano, anchor: volcanoes, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Hot_spring, anchor: hot springs, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Geyser, anchor: geysers, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Carbonate_rock, anchor: carbonate rocks, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Dissolution_(chemistry), anchor: dissolution, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Groundwater, anchor: groundwater, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/River, anchor: rivers, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Lake, anchor: lakes, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Ice_cap, anchor: ice caps, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Glacier, anchor: glaciers, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Seawater, anchor: seawater, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Petroleum, anchor: petroleum, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Atmospheric_carbon_dioxide, anchor: atmospheric carbon dioxide, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Life, anchor: life on Earth, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Precambrian, anchor: Precambrian, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Photosynthesis, anchor: photosynthetic, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Plant, anchor: Plants, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Algae, anchor: algae, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Cyanobacteria, anchor: cyanobacteria, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Light, anchor: light, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Energy, anchor: energy, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Carbohydrate, anchor: carbohydrate, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Aerobic_organisms, anchor: aerobic organisms, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Cellular_respiration, anchor: respiration, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Fish_respiration, anchor: gills of fish, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Decomposition, anchor: decay, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Fermentation, anchor: fermentation, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Bread, anchor: bread, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Beer, anchor: beer, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Wine, anchor: wine, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Wood, anchor: wood, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Peat, anchor: peat, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Oxidation, anchor: oxidation, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Acrylic_acid, anchor: acrylic acid, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Fire_extinguishers, anchor: fire extinguishers, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Supercritical_drying, anchor: supercritical drying, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Carbonated_beverage, anchor: carbonated beverages, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Sparkling_wine, anchor: sparkling wine, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Effervescence, anchor: effervescence, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Dry-ice_blasting, anchor: dry-ice blasting, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Carbon_dioxide_in_Earth%27s_atmosphere, anchor: Earth's atmosphere, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Industrial_Revolution, anchor: Industrial Revolution, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Flemish_people, anchor: Flemish, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Jan_Baptist_van_Helmont, anchor: Jan Baptist van Helmont, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Charcoal, anchor: charcoal, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Ash_(analytical_chemistry), anchor: ash, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Scotland, anchor: Scottish, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Joseph_Black, anchor: Joseph Black, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Limestone, anchor: limestone, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Calcium_carbonate, anchor: calcium carbonate, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Acid, anchor: acids, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Limewater, anchor: limewater, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Calcium_hydroxide, anchor: calcium hydroxide, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Precipitation_(chemistry), anchor: precipitate, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Joseph_Priestley, anchor: Joseph Priestley, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Sulfuric_acid, anchor: sulfuric acid, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Humphry_Davy, anchor: Humphry Davy, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Michael_Faraday, anchor: Michael Faraday, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Adrien-Jean-Pierre_Thilorier, anchor: Adrien-Jean-Pierre Thilorier, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Centrosymmetric, anchor: centrosymmetric, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Carbon%E2%80%93oxygen_bond, anchor: carbon–oxygen bond, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Picometer, anchor: pm, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Bond_length, anchor: bond length, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Dipole, anchor: dipole, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/IR_spectrum, anchor: IR spectrum, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Degenerate_energy_levels, anchor: degenerate, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Raman_spectrum, anchor: Raman spectrum, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Soluble, anchor: soluble, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Acid_strength, anchor: weak acid, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Henry%27s_law, anchor: hydration equilibrium constant, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Deprotonation, anchor: deprotonated, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Bicarbonate, anchor: bicarbonate, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Carbonate, anchor: carbonate, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/PH, anchor: pH, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Bjerrum_plot, anchor: Bjerrum plot, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Diprotic_acid, anchor: diprotic, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Amphoteric, anchor: amphoteric, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Enzyme, anchor: enzyme, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Carbonic_anhydrase, anchor: carbonic anhydrase, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Electrophile, anchor: electrophile, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Hydroxide, anchor: hydroxide, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Nucleophile, anchor: nucleophile, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Carbanion, anchor: carbanions, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Grignard_reagent, anchor: Grignard reagents, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Organolithium_compound, anchor: organolithium compounds, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Carboxylate, anchor: carboxylates, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Lithium, anchor: Li, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Magnesium, anchor: Mg, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Bromine, anchor: Br, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Alkyl, anchor: alkyl, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Aryl, anchor: aryl, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Metal_carbon_dioxide_complex, anchor: metal carbon dioxide complexes, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Ligand, anchor: ligand, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Photoautotrophs, anchor: Photoautotrophs, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Redox_potential, anchor: redox potential, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Standard_hydrogen_electrode, anchor: standard hydrogen electrode, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Carbon_monoxide_dehydrogenase, anchor: carbon monoxide dehydrogenase, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Carbon_dioxide_data, anchor: Carbon dioxide data, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Standard_conditions_for_temperature_and_pressure, anchor: standard temperature and pressure, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Earth%27s_atmosphere, anchor: air, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Atmosphere_(unit), anchor: standard atmospheres, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Deposition_(physics), anchor: deposits, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Sublimation_(chemistry), anchor: sublimes, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Phase_diagram, anchor: phase diagram, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Pressure, anchor: pressures, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Bar_(unit), anchor: bar, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/KPa, anchor: kPa, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Critical_point_(thermodynamics), anchor: critical point, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Amorphous, anchor: amorphous, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Amorphous_carbonia, anchor: carbonia, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Supercooling, anchor: supercooling, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/GPa, anchor: GPa, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Diamond_anvil, anchor: diamond anvil, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Silicon, anchor: silicon, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Silica, anchor: silica glass, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Supercritical_fluid, anchor: supercritical fluid, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Supercritical_carbon_dioxide, anchor: supercritical carbon dioxide, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Distillation, anchor: distillation, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Combustion, anchor: combustion, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Carbon-based_fuel, anchor: carbon-based fuels, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Gasoline, anchor: gasoline, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Diesel_fuel, anchor: diesel, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Kerosene, anchor: kerosene, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Propane, anchor: propane, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Calcining, anchor: calcining, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Calcium_oxide, anchor: quicklime, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Iron, anchor: Iron, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Coke_(fuel), anchor: coke, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Blast_furnace, anchor: blast furnace, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Pig_iron, anchor: pig iron, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Steam_reforming, anchor: steam reforming, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Water_gas_shift_reaction, anchor: water gas shift reaction, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Ammonia_production, anchor: ammonia production, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Soft_drink, anchor: soft drinks, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Poultry, anchor: poultry, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Spring_(hydrosphere), anchor: springs, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Dolomite, anchor: dolomite, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Hydrochloric_acid, anchor: hydrochloric acid, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Fermentation_(biochemistry), anchor: fermentation, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Sugar, anchor: sugar, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Brewing, anchor: brewing, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Whisky, anchor: whisky, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Alcoholic_beverage, anchor: alcoholic beverages, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Bioethanol, anchor: bioethanol, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Yeast, anchor: Yeast, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Ethanol, anchor: ethanol, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Fatty_acid, anchor: fatty acids, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Anaerobic_respiration, anchor: anaerobic respiration, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Monosaccharide, anchor: monosaccharides, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Anaerobic_organisms, anchor: Anaerobic organisms, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Chemical_kinetics, anchor: kinetic pattern, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Landfill_gas, anchor: landfill gas, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Urea, anchor: urea, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Methanol, anchor: methanol, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Sodium_salicylate, anchor: sodium salicylate, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Kolbe-Schmitt_reaction, anchor: Kolbe-Schmitt reaction, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Food_additive, anchor: food additive, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Pop_Rocks, anchor: Pop Rocks, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Leavening_agent, anchor: Leavening agents, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Baker%27s_yeast, anchor: Baker's yeast, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Baking_powder, anchor: baking powder, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Baking_soda, anchor: baking soda, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Carbonation, anchor: carbonated, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Soda_water, anchor: soda water, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Real_Ale, anchor: Real Ale, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Wine_making, anchor: wine making, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Grape, anchor: grapes, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Fermentation_(wine), anchor: fermentation, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Yeast_(wine), anchor: yeast, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Grape_must, anchor: grape must, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Alcohol, anchor: alcohol, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Carbonic_maceration, anchor: carbonic maceration, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Beaujolais, anchor: Beaujolais, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Storage_(wine), anchor: storage, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Nitrogen, anchor: nitrogen, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Argon, anchor: argon, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Welding, anchor: welding, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Brittle, anchor: brittle, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Helium, anchor: helium, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/MIG_welding, anchor: MIG welding, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Aluminium, anchor: Aluminium, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Air_gun, anchor: air guns, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Paintball, anchor: paintball, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Carbonated_water, anchor: carbonated water, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Scanning_electron_microscopy, anchor: scanning electron microscopy, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Decaffeination, anchor: decaffeination, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Coffee, anchor: coffee, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/International_Maritime_Organization, anchor: International Maritime Organization, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Solvent, anchor: solvent, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Lipophilic, anchor: lipophilic, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Organic_compound, anchor: organic compounds, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Caffeine, anchor: caffeine, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Pharmaceutical, anchor: pharmaceutical, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Organochloride, anchor: organochlorides, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Dry_cleaning, anchor: dry cleaners, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Green_chemistry, anchor: green chemistry, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Whitefly, anchor: whiteflies, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Spider_mite, anchor: spider mites, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Biodiesel, anchor: biodiesel, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Apnea, anchor: apnea, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Carbogen, anchor: Carbogen, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Enhanced_oil_recovery, anchor: enhanced oil recovery, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Crude_oil, anchor: crude oil, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Carbon_capture_and_utilization, anchor: Carbon capture and utilization, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Cyanobacterium, anchor: cyanobacterium, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Synechococcus, anchor: Synechococcus elongatus, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Isobutyraldehyde, anchor: isobutyraldehyde, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Isobutanol, anchor: isobutanol, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Refrigerant, anchor: refrigerants, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Dichlorodifluoromethane, anchor: R-12, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/R134a, anchor: R134a, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Pounds_per_square_inch, anchor: psi, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Coca-Cola, anchor: Coca-Cola, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/United_States_Army, anchor: U.S. Army, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Sustainable_automotive_air_conditioning, anchor: Sustainable automotive air conditioning, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Enhanced_coal_bed_methane_recovery, anchor: enhanced coal bed methane recovery, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Carbon_dioxide_laser, anchor: carbon dioxide laser, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Active_laser_medium, anchor: lasing medium, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Reef_aquarium, anchor: reef aquaria, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Calcium_reactor, anchor: calcium reactors, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Coral, anchor: corals, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Advanced_gas-cooled_reactor, anchor: advanced gas-cooled reactor, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/American_Veterinary_Medical_Association, anchor: American Veterinary Medical Association, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Gas_chamber, anchor: gas chamber, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Carbon_dioxide_cleaning, anchor: cleaning and surface preparation, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Keeling_Curve, anchor: Keeling Curve, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Mauna_Loa_Observatory, anchor: Mauna Loa Observatory, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Northern_Hemisphere, anchor: Northern Hemisphere, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Planetary_boundary_layer, anchor: near the ground, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Atmosphere, anchor: atmosphere, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Earth, anchor: Earth, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/NASA, anchor: NASA, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Computer_simulation, anchor: computer simulation, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Positive_feedback, anchor: positive feedback, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Jurassic, anchor: Jurassic, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Azolla_Event, anchor: a particularly swift reduction, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Rapolano_Terme, anchor: Rapolano Terme, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Tuscany, anchor: Tuscany, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Italy, anchor: Italy, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Lake_Monoun, anchor: Lake Monoun, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Cameroon, anchor: Cameroon, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Lake_Nyos, anchor: Lake Nyos, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Calcification, anchor: calcifying, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Food_chain, anchor: food chain, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Autotroph, anchor: autotrophs, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Heterotroph, anchor: heterotrophs, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Coccolithophore, anchor: coccolithophores, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Foraminifera, anchor: foraminifera, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Echinoderm, anchor: echinoderms, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Crustacea, anchor: crustaceans, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Mollusca, anchor: mollusks, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Supersaturation, anchor: supersaturating, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Shellfish, anchor: shellfish, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Pteropod, anchor: pteropods, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Alkalinity, anchor: alkalinity, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Marianas_Trench, anchor: Marianas Trench, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Okinawa_Trough, anchor: Okinawa Trough, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Amino_acid, anchor: amino acids, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Metabolism, anchor: metabolism, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Aerobic_respiration, anchor: aerobic, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Vertebrate, anchor: vertebrates, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Amphibian, anchor: amphibians, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Fish, anchor: fish, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Compensation_point, anchor: plants can absorb more carbon dioxide from the atmosphere than they release, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Calvin_cycle, anchor: Calvin cycle, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Carbon_fixation, anchor: Carbon fixation, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Fuel, anchor: energy-rich, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Molecule, anchor: molecules, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Glucose, anchor: glucose, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Water, anchor: water, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/RuBisCO, anchor: Ribulose-1,5-bisphosphate carboxylase oxygenase, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/3-phosphoglycerate, anchor: 3-phosphoglycerate, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Ribulose_bisphosphate, anchor: ribulose bisphosphate, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Phototroph, anchor: Phototrophs, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Biosynthesis, anchor: biosynthesis, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Polysaccharides, anchor: polysaccharides, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Nucleic_acid, anchor: nucleic acids, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Protein, anchor: proteins, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Emiliania_huxleyi, anchor: Emiliania huxleyi, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Calcite, anchor: calcite, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Sedimentary_rock, anchor: sedimentary rocks, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Water-use_efficiency, anchor: water-use efficiency, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Free-Air_Concentration_Enrichment, anchor: FACE, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Ecosystem, anchor: ecosystems, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Metabolites, anchor: metabolites, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/C3_photosynthesis, anchor: C3 photosynthesis, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Carbon_dioxide_poisoning, anchor: Carbon dioxide poisoning, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Volume_percent, anchor: volume percent, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Asphyxiant_gas, anchor: asphyxiant gas, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Globally_Harmonized_System_of_Classification_and_Labelling_of_Chemicals, anchor: Globally Harmonized System of Classification and Labelling of Chemicals standards, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/United_Nations_Economic_Commission_for_Europe, anchor: United Nations Economic Commission for Europe, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/OECD_Guidelines_for_the_Testing_of_Chemicals, anchor: OECD Guidelines for the Testing of Chemicals, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Hypercapnia, anchor: hypercapnia, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Goma, anchor: Goma, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Mt._Nyiragongo, anchor: Mt. Nyiragongo, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Swahili_language, anchor: Swahili, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Mazuku, anchor: mazuku, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Apollo_13, anchor: Apollo 13, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Carbon_dioxide_scrubber, anchor: carbon dioxide scrubber, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Respiratory_adaptation, anchor: modified breathing, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Acidosis, anchor: acidosis, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Submarine, anchor: submarine, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/International_Space_Station, anchor: International Space Station, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/ASHRAE, anchor: ASHRAE, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Blackdamp, anchor: blackdamp, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Miners, anchor: miners, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Domestic_Canary, anchor: canary, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Davy_lamp, anchor: Davy lamp, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Reference_range, anchor: Reference ranges, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Partial_pressure_of_carbon_dioxide, anchor: partial pressures of carbon dioxide, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Kilopascal, anchor: kPa, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/MmHg, anchor: mmHg, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Vein, anchor: Venous, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Pulmonary_gas_pressures, anchor: pulmonarygas pressures, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Venous_system, anchor: venous system, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Arteries, anchor: arteries, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Partial_pressure, anchor: partial pressure, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Blood_plasma, anchor: plasma, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Hemoglobin, anchor: hemoglobin, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Carbamino, anchor: carbamino, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Red_blood_cell, anchor: red blood cells, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Allosteric_regulation, anchor: allosteric, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Haldane_Effect, anchor: Haldane Effect, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Bohr_effect, anchor: Bohr effect, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Autoregulation, anchor: autoregulation, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Capillaries, anchor: capillaries, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Respiratory_acidosis, anchor: respiratory acidosis, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Hyperventilation, anchor: hyperventilation, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Alkalosis, anchor: respiratory alkalosis, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Air_hunger, anchor: air hunger, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Oxygen_mask, anchor: oxygen mask, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Arterial_blood_gas, anchor: Arterial blood gas, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Bosch_reaction, anchor: Bosch reaction, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Bottled_gas, anchor: Bottled gas, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Carbon_dioxide_sensor, anchor: Carbon dioxide sensor, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Carbon_sequestration, anchor: Carbon sequestration, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Cave_of_Dogs, anchor: Cave of Dogs, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/EcoCute, anchor: EcoCute, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Kaya_identity, anchor: Kaya identity, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Lake_Kivu, anchor: Lake Kivu, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/List_of_least_carbon_efficient_power_stations, anchor: List of least carbon efficient power stations, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions, anchor: List of countries by carbon dioxide emissions, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Meromictic_lake, anchor: Meromictic lake, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/PCO2, anchor: pCO2, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Gilbert_Plass, anchor: Gilbert Plass, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Sabatier_reaction, anchor: Sabatier reaction, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Orbiting_Carbon_Observatory_2, anchor: Orbiting Carbon Observatory 2, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Greenhouse_Gases_Observing_Satellite, anchor: Greenhouse Gases Observing Satellite, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Praxair, anchor: Praxair, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Industrial_gas, anchor: industrial gases, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/JSTOR, anchor: JSTOR, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Norman_Greenwood, anchor: Greenwood, Norman  N., depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Butterworth-Heinemann, anchor: Butterworth-Heinemann, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Bibcode, anchor: Bibcode, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/The_Christian_Science_Monitor, anchor: The Christian Science Monitor, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Mole_fraction, anchor: mole fractions, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Ideal_gas, anchor: ideal gas, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration, anchor: National Oceanic and Atmospheric Administration, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Eos_(journal), anchor: Eos, Transactions, American Geophysical Union, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/The_New_York_Times, anchor: The New York Times, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/American_Journal_of_Science, anchor: American Journal of Science, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Global_and_Planetary_Change, anchor: Global and Planetary Change, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/American_Zoologist, anchor: American Zoologist, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Journal_of_Geophysical_Research, anchor: Journal of Geophysical Research, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Nature_(journal), anchor: Nature, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Journal_of_Experimental_Marine_Biology_and_Ecology, anchor: Journal of Experimental Marine Biology and Ecology, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Nature_Geoscience, anchor: Nature Geoscience, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Geophysical_Research_Letters, anchor: Geophysical Research Letters, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Biogeosciences, anchor: Biogeosciences, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/The_Thomson_Corporation, anchor: Thomson Brooks, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/OCLC, anchor: OCLC, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/World_Bank, anchor: World Bank, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Popular_Science, anchor: Popular Science, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/The_Periodic_Table_of_Videos, anchor: The Periodic Table of Videos, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Antimony_tetroxide, anchor: Antimony tetroxide, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Antimony, anchor: Sb, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Cobalt(II,III)_oxide, anchor: Cobalt(II,III) oxide, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Cobalt, anchor: Co, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Europium, anchor: Eu, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Iron(II,III)_oxide, anchor: Iron(II,III) oxide, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Lead(II,IV)_oxide, anchor: Lead(II,IV) oxide, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Lead, anchor: Pb, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Manganese(II,III)_oxide, anchor: Manganese(II,III) oxide, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Manganese, anchor: Mn, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Silver(I,III)_oxide, anchor: Silver(I,III) oxide, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Silver, anchor: Ag, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Triuranium_octoxide, anchor: Triuranium octoxide, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Mellitic_anhydride, anchor: Mellitic anhydride, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Praseodymium, anchor: Pr, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Terbium(III,IV)_oxide, anchor: Terbium(III,IV) oxide, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Terbium, anchor: Tb, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Copper(I)_oxide, anchor: Copper(I) oxide, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Copper, anchor: Cu, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Dichlorine_monoxide, anchor: Dichlorine monoxide, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Chlorine, anchor: Cl, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Gallium(I)_oxide, anchor: Gallium(I) oxide, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Gallium, anchor: Ga, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Lithium_oxide, anchor: Lithium oxide, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Potassium_oxide, anchor: Potassium oxide, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Potassium, anchor: K, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Rubidium_oxide, anchor: Rubidium oxide, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Rubidium, anchor: Rb, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Silver_oxide, anchor: Silver oxide, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Thallium(I)_oxide, anchor: Thallium(I) oxide, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Thallium, anchor: Tl, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Sodium_oxide, anchor: Sodium oxide, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Sodium, anchor: Na, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Properties_of_water, anchor: Water (hydrogen oxide), depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Hydrogen, anchor: H, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Aluminium(II)_oxide, anchor: Aluminium(II) oxide, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Barium_oxide, anchor: Barium oxide, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Barium, anchor: Ba, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Beryllium_oxide, anchor: Beryllium oxide, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Beryllium, anchor: Be, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Cadmium_oxide, anchor: Cadmium oxide, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Cadmium, anchor: Cd, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Calcium, anchor: Ca, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Chromium(II)_oxide, anchor: Chromium(II) oxide, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Chromium, anchor: Cr, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Cobalt(II)_oxide, anchor: Cobalt(II) oxide, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Copper(II)_oxide, anchor: Copper(II) oxide, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+https://en.wikipedia.org/wiki/Germanium_monoxide, anchor: Germanium monoxide, depth: 3, parent: https://en.wikipedia.org/wiki/Carbon_dioxide
+
+Max depth reached:3
